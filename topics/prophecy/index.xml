@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prophecy on Some Title</title>
+    <link>https://example.com/topics/prophecy/</link>
+    <description>Recent content in Prophecy on Some Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 May 2017 16:30:55 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/topics/prophecy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Renown Conference 2017: Session 3 - Mantle</title>
+      <link>https://example.com/posts/2017-05-126_renown-conference-2017-session-3-mantle/</link>
+      <pubDate>Sat, 06 May 2017 16:30:55 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2017-05-126_renown-conference-2017-session-3-mantle/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Renown Conference 2017: Session 2 - Antioch</title>
+      <link>https://example.com/posts/2017-05-126_renown-conference-2017-session-2-antioch/</link>
+      <pubDate>Sat, 06 May 2017 06:00:53 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2017-05-126_renown-conference-2017-session-2-antioch/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Psalms: Week 3</title>
+      <link>https://example.com/posts/2017-03-71_psalms-week-3/</link>
+      <pubDate>Sun, 12 Mar 2017 08:40:11 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2017-03-71_psalms-week-3/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+  </channel>
+</rss>

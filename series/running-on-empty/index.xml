@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Running on Empty on Some Title</title>
+    <link>https://example.com/series/running-on-empty/</link>
+    <description>Recent content in Running on Empty on Some Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Dec 2012 07:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/series/running-on-empty/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Running on Empty: 04</title>
+      <link>https://example.com/posts/2012-12-337_running-on-empty-04/</link>
+      <pubDate>Sun, 02 Dec 2012 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-12-337_running-on-empty-04/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Running on Empty: 03</title>
+      <link>https://example.com/posts/2012-11-330_running-on-empty-03/</link>
+      <pubDate>Sun, 25 Nov 2012 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-11-330_running-on-empty-03/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Running on Empty: 02</title>
+      <link>https://example.com/posts/2012-11-323_running-on-empty-02/</link>
+      <pubDate>Sun, 18 Nov 2012 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-11-323_running-on-empty-02/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Running on Empty: 01</title>
+      <link>https://example.com/posts/2012-11-309_running-on-empty-01/</link>
+      <pubDate>Sun, 04 Nov 2012 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-11-309_running-on-empty-01/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+  </channel>
+</rss>

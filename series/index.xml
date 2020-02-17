@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series on Some Title</title>
+    <link>https://example.com/series/</link>
+    <description>Recent content in Series on Some Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 30 Jul 2017 08:25:04 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/series/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Book of Mark</title>
+      <link>https://example.com/series/the-book-of-mark/</link>
+      <pubDate>Sun, 30 Jul 2017 08:25:04 +0000</pubDate>
+      
+      <guid>https://example.com/series/the-book-of-mark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>We &amp;gt; Me</title>
+      <link>https://example.com/series/we-gt-me/</link>
+      <pubDate>Sun, 16 Jul 2017 08:00:44 +0000</pubDate>
+      
+      <guid>https://example.com/series/we-gt-me/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anchor</title>
+      <link>https://example.com/series/anchor/</link>
+      <pubDate>Sun, 28 May 2017 06:00:34 +0000</pubDate>
+      
+      <guid>https://example.com/series/anchor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Renown Conference 2017</title>
+      <link>https://example.com/series/renown-conference-2017/</link>
+      <pubDate>Sat, 06 May 2017 16:30:55 +0000</pubDate>
+      
+      <guid>https://example.com/series/renown-conference-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Book of Psalms</title>
+      <link>https://example.com/series/the-book-of-psalms/</link>
+      <pubDate>Sun, 09 Apr 2017 08:04:01 +0000</pubDate>
+      
+      <guid>https://example.com/series/the-book-of-psalms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Book of Acts</title>
+      <link>https://example.com/series/the-book-of-acts/</link>
+      <pubDate>Sun, 19 Feb 2017 09:26:33 +0000</pubDate>
+      
+      <guid>https://example.com/series/the-book-of-acts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christmas 2016</title>
+      <link>https://example.com/series/christmas-2016/</link>
+      <pubDate>Sun, 18 Dec 2016 09:04:20 +0000</pubDate>
+      
+      <guid>https://example.com/series/christmas-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2016 - The Bible Series</title>
+      <link>https://example.com/series/2016-the-bible-series/</link>
+      <pubDate>Mon, 05 Dec 2016 08:25:34 +0000</pubDate>
+      
+      <guid>https://example.com/series/2016-the-bible-series/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Renown Conference 2016 | Surrender</title>
+      <link>https://example.com/series/renown-conference-2016-surrender/</link>
+      <pubDate>Sat, 08 Oct 2016 07:45:51 +0000</pubDate>
+      
+      <guid>https://example.com/series/renown-conference-2016-surrender/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Easter 2016</title>
+      <link>https://example.com/series/easter-2016/</link>
+      <pubDate>Sun, 27 Mar 2016 07:42:36 +0000</pubDate>
+      
+      <guid>https://example.com/series/easter-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guest Speakers</title>
+      <link>https://example.com/series/guest-speakers/</link>
+      <pubDate>Sun, 14 Feb 2016 10:19:09 +0000</pubDate>
+      
+      <guid>https://example.com/series/guest-speakers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The One</title>
+      <link>https://example.com/series/the-one/</link>
+      <pubDate>Sun, 27 Dec 2015 09:06:41 +0000</pubDate>
+      
+      <guid>https://example.com/series/the-one/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Holy One</title>
+      <link>https://example.com/series/holy-one/</link>
+      <pubDate>Sun, 13 Dec 2015 17:09:30 +0000</pubDate>
+      
+      <guid>https://example.com/series/holy-one/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Other One</title>
+      <link>https://example.com/series/other-one/</link>
+      <pubDate>Sun, 25 Oct 2015 09:11:02 +0000</pubDate>
+      
+      <guid>https://example.com/series/other-one/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Give One</title>
+      <link>https://example.com/series/give-one/</link>
+      <pubDate>Sun, 06 Sep 2015 08:29:56 +0000</pubDate>
+      
+      <guid>https://example.com/series/give-one/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meet Me in the Trenches</title>
+      <link>https://example.com/series/meet-me-in-the-trenches/</link>
+      <pubDate>Sun, 14 Jun 2015 10:48:29 +0000</pubDate>
+      
+      <guid>https://example.com/series/meet-me-in-the-trenches/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prayer</title>
+      <link>https://example.com/series/prayer/</link>
+      <pubDate>Sun, 19 Apr 2015 06:00:35 +0000</pubDate>
+      
+      <guid>https://example.com/series/prayer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plus One</title>
+      <link>https://example.com/series/plus-one/</link>
+      <pubDate>Sun, 12 Apr 2015 06:00:57 +0000</pubDate>
+      
+      <guid>https://example.com/series/plus-one/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Another One</title>
+      <link>https://example.com/series/another-one/</link>
+      <pubDate>Sun, 22 Feb 2015 07:00:06 +0000</pubDate>
+      
+      <guid>https://example.com/series/another-one/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One Thing</title>
+      <link>https://example.com/series/one-thing/</link>
+      <pubDate>Sun, 04 Jan 2015 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/series/one-thing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sermons</title>
+      <link>https://example.com/series/sermons/</link>
+      <pubDate>Sun, 28 Dec 2014 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/series/sermons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Better To Give</title>
+      <link>https://example.com/series/better-to-give/</link>
+      <pubDate>Sun, 21 Dec 2014 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/series/better-to-give/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>God Provides</title>
+      <link>https://example.com/series/god-provides/</link>
+      <pubDate>Sun, 26 Oct 2014 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/series/god-provides/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Teaspoon and The Wave</title>
+      <link>https://example.com/series/the-teaspoon-and-the-wave/</link>
+      <pubDate>Sun, 14 Sep 2014 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/series/the-teaspoon-and-the-wave/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Difficult Concepts</title>
+      <link>https://example.com/series/difficult-concepts/</link>
+      <pubDate>Sun, 27 Jul 2014 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/series/difficult-concepts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mission Feedback</title>
+      <link>https://example.com/series/mission-feedback/</link>
+      <pubDate>Sun, 13 Jul 2014 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/series/mission-feedback/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stick With The Plan</title>
+      <link>https://example.com/series/stick-with-the-plan/</link>
+      <pubDate>Sun, 01 Jun 2014 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/series/stick-with-the-plan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Highway Sermons</title>
+      <link>https://example.com/series/highway-sermons/</link>
+      <pubDate>Fri, 18 Apr 2014 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/series/highway-sermons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Herman&#39;s New Tricks</title>
+      <link>https://example.com/series/hermans-new-tricks/</link>
+      <pubDate>Sun, 13 Apr 2014 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/series/hermans-new-tricks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Purple Cycle</title>
+      <link>https://example.com/series/purple-cycle/</link>
+      <pubDate>Sun, 23 Feb 2014 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/series/purple-cycle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>If This Was My Church</title>
+      <link>https://example.com/series/if-this-was-my-church/</link>
+      <pubDate>Sun, 17 Nov 2013 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/series/if-this-was-my-church/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What On Earth Am I Here For?</title>
+      <link>https://example.com/series/what-on-earth-am-i-here-for/</link>
+      <pubDate>Sun, 08 Sep 2013 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/series/what-on-earth-am-i-here-for/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>40 Days In The Word</title>
+      <link>https://example.com/series/40-days-in-the-word/</link>
+      <pubDate>Sun, 08 Sep 2013 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/series/40-days-in-the-word/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>God&#39;s Grand Story</title>
+      <link>https://example.com/series/gods-grand-story/</link>
+      <pubDate>Sun, 21 Jul 2013 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/series/gods-grand-story/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Only Jesus</title>
+      <link>https://example.com/series/only-jesus/</link>
+      <pubDate>Sun, 26 May 2013 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/series/only-jesus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Study on Acts</title>
+      <link>https://example.com/series/study-on-acts/</link>
+      <pubDate>Sun, 19 May 2013 15:45:00 +0000</pubDate>
+      
+      <guid>https://example.com/series/study-on-acts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I Am</title>
+      <link>https://example.com/series/i-am/</link>
+      <pubDate>Sun, 19 May 2013 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/series/i-am/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Easter Cycle</title>
+      <link>https://example.com/series/easter-cycle/</link>
+      <pubDate>Sun, 14 Apr 2013 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/series/easter-cycle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Next Level</title>
+      <link>https://example.com/series/next-level/</link>
+      <pubDate>Sun, 03 Feb 2013 15:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/series/next-level/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Book A Week - Cycle 1 - 2013</title>
+      <link>https://example.com/series/a-book-a-week-cycle-1-2013/</link>
+      <pubDate>Sun, 27 Jan 2013 15:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/series/a-book-a-week-cycle-1-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Book A Week - Cycle 7</title>
+      <link>https://example.com/series/a-book-a-week-cycle-7/</link>
+      <pubDate>Sun, 16 Dec 2012 15:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/series/a-book-a-week-cycle-7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Running on Empty</title>
+      <link>https://example.com/series/running-on-empty/</link>
+      <pubDate>Sun, 02 Dec 2012 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/series/running-on-empty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Book A Week - Cycle 6</title>
+      <link>https://example.com/series/a-book-a-week-cycle-6/</link>
+      <pubDate>Sun, 28 Oct 2012 15:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/series/a-book-a-week-cycle-6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discipleship</title>
+      <link>https://example.com/series/discipleship/</link>
+      <pubDate>Sun, 28 Oct 2012 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/series/discipleship/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Book A Week - Cycle 4</title>
+      <link>https://example.com/series/a-book-a-week-cycle-4/</link>
+      <pubDate>Sun, 19 Aug 2012 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/series/a-book-a-week-cycle-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heart for the House</title>
+      <link>https://example.com/series/heart-for-the-house/</link>
+      <pubDate>Sun, 29 Jul 2012 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/series/heart-for-the-house/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2012 Cycle 4</title>
+      <link>https://example.com/series/2012-cycle-4/</link>
+      <pubDate>Sun, 10 Jun 2012 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/series/2012-cycle-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Book A Week - Cycle 3</title>
+      <link>https://example.com/series/a-book-a-week-cycle-3/</link>
+      <pubDate>Sun, 03 Jun 2012 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/series/a-book-a-week-cycle-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2012 Cycle 3</title>
+      <link>https://example.com/series/2012-cycle-3/</link>
+      <pubDate>Sun, 03 Jun 2012 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/series/2012-cycle-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2012 Sermons</title>
+      <link>https://example.com/series/2012-sermons/</link>
+      <pubDate>Sun, 27 May 2012 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/series/2012-sermons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2not4</title>
+      <link>https://example.com/series/2not4/</link>
+      <pubDate>Sun, 20 May 2012 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/series/2not4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Highway Church Camp</title>
+      <link>https://example.com/series/highway-church-camp/</link>
+      <pubDate>Fri, 27 Apr 2012 08:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/series/highway-church-camp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dean Smith</title>
+      <link>https://example.com/series/dean-smith/</link>
+      <pubDate>Sun, 22 Apr 2012 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/series/dean-smith/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2012 Cycle 2</title>
+      <link>https://example.com/series/2012-cycle-2/</link>
+      <pubDate>Sun, 15 Apr 2012 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/series/2012-cycle-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Book A Week - Cycle 2</title>
+      <link>https://example.com/series/a-book-a-week-cycle-2/</link>
+      <pubDate>Sun, 01 Apr 2012 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/series/a-book-a-week-cycle-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RE: Prayer</title>
+      <link>https://example.com/series/re-prayer/</link>
+      <pubDate>Sun, 25 Mar 2012 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/series/re-prayer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Book A Week - Cycle 1</title>
+      <link>https://example.com/series/a-book-a-week-cycle-1/</link>
+      <pubDate>Sun, 26 Feb 2012 15:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/series/a-book-a-week-cycle-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2012 Cycle 1</title>
+      <link>https://example.com/series/2012-cycle-1/</link>
+      <pubDate>Sun, 26 Feb 2012 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/series/2012-cycle-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spiritually Fit</title>
+      <link>https://example.com/series/spiritually-fit/</link>
+      <pubDate>Sun, 08 Jan 2012 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/series/spiritually-fit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2011 Sermons</title>
+      <link>https://example.com/series/2011-sermons/</link>
+      <pubDate>Sun, 25 Dec 2011 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/series/2011-sermons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revelation Revealed</title>
+      <link>https://example.com/series/revelation-revealed/</link>
+      <pubDate>Sun, 04 Dec 2011 15:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/series/revelation-revealed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Has Enyone Listened Lately</title>
+      <link>https://example.com/series/has-enyone-listened-lately/</link>
+      <pubDate>Sun, 13 Nov 2011 15:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/series/has-enyone-listened-lately/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building Blocks for Growth</title>
+      <link>https://example.com/series/building-blocks-for-growth/</link>
+      <pubDate>Sun, 13 Nov 2011 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/series/building-blocks-for-growth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I Love Jesus But</title>
+      <link>https://example.com/series/i-love-jesus-but/</link>
+      <pubDate>Sun, 18 Sep 2011 16:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/series/i-love-jesus-but/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

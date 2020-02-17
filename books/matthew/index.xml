@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matthew on Some Title</title>
+    <link>https://example.com/books/matthew/</link>
+    <description>Recent content in Matthew on Some Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Jul 2017 08:00:44 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/books/matthew/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>We &gt; Me: Part 7 - The Power of Choice</title>
+      <link>https://example.com/posts/2017-07-197_we-me-part-7-the-power-of-choice/</link>
+      <pubDate>Sun, 16 Jul 2017 08:00:44 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2017-07-197_we-me-part-7-the-power-of-choice/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Matthew</title>
+      <link>https://example.com/posts/2016-07-199_matthew/</link>
+      <pubDate>Sun, 17 Jul 2016 07:45:09 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-07-199_matthew/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+  </channel>
+</rss>

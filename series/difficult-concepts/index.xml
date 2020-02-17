@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Difficult Concepts on Some Title</title>
+    <link>https://example.com/series/difficult-concepts/</link>
+    <description>Recent content in Difficult Concepts on Some Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 27 Jul 2014 06:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/series/difficult-concepts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Honour in the Home</title>
+      <link>https://example.com/posts/2014-07-208_honour-in-the-home/</link>
+      <pubDate>Sun, 27 Jul 2014 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-07-208_honour-in-the-home/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Honour</title>
+      <link>https://example.com/posts/2014-07-201_honour/</link>
+      <pubDate>Sun, 20 Jul 2014 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-07-201_honour/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Growth</title>
+      <link>https://example.com/posts/2014-07-187_growth/</link>
+      <pubDate>Sun, 06 Jul 2014 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-07-187_growth/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Unfairness</title>
+      <link>https://example.com/posts/2014-06-180_unfairness/</link>
+      <pubDate>Sun, 29 Jun 2014 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-06-180_unfairness/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Submission</title>
+      <link>https://example.com/posts/2014-06-173_submission/</link>
+      <pubDate>Sun, 22 Jun 2014 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-06-173_submission/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Respect</title>
+      <link>https://example.com/posts/2014-06-166_respect/</link>
+      <pubDate>Sun, 15 Jun 2014 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-06-166_respect/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Servanthood</title>
+      <link>https://example.com/posts/2014-06-159_servanthood/</link>
+      <pubDate>Sun, 08 Jun 2014 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-06-159_servanthood/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brad Sadler on Some Title</title>
+    <link>https://example.com/speakers/brad-sadler/</link>
+    <description>Recent content in Brad Sadler on Some Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Nov 2015 09:34:04 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/speakers/brad-sadler/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hope in the Darkness, Rain in the Desert</title>
+      <link>https://example.com/posts/2015-11-305_hope-in-the-darkness-rain-in-the-desert/</link>
+      <pubDate>Sun, 01 Nov 2015 09:34:04 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-11-305_hope-in-the-darkness-rain-in-the-desert/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Who Let the Dogs Out (Corporate Presentation)</title>
+      <link>https://example.com/posts/2015-10-304_who-let-the-dogs-out-corporate-presentation/</link>
+      <pubDate>Sat, 31 Oct 2015 06:30:57 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-10-304_who-let-the-dogs-out-corporate-presentation/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+  </channel>
+</rss>

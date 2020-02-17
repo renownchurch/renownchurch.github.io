@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Another One on Some Title</title>
+    <link>https://example.com/series/another-one/</link>
+    <description>Recent content in Another One on Some Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Feb 2015 07:00:06 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/series/another-one/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>One Power</title>
+      <link>https://example.com/posts/2015-02-53_one-power/</link>
+      <pubDate>Sun, 22 Feb 2015 07:00:06 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-02-53_one-power/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>One Prayer</title>
+      <link>https://example.com/posts/2015-02-46_one-prayer/</link>
+      <pubDate>Sun, 15 Feb 2015 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-02-46_one-prayer/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>One Practice</title>
+      <link>https://example.com/posts/2015-02-39_one-practice/</link>
+      <pubDate>Sun, 08 Feb 2015 16:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-02-39_one-practice/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>One Purpose</title>
+      <link>https://example.com/posts/2015-02-32_one-purpose/</link>
+      <pubDate>Sun, 01 Feb 2015 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-02-32_one-purpose/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>One Pursuit</title>
+      <link>https://example.com/posts/2015-01-25_one-pursuit/</link>
+      <pubDate>Sun, 25 Jan 2015 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-01-25_one-pursuit/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>One Person</title>
+      <link>https://example.com/posts/2015-01-18_one-person/</link>
+      <pubDate>Sun, 18 Jan 2015 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-01-18_one-person/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+  </channel>
+</rss>

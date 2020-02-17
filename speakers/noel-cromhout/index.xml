@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Noel Cromhout on Some Title</title>
+    <link>https://example.com/speakers/noel-cromhout/</link>
+    <description>Recent content in Noel Cromhout on Some Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 27 Mar 2016 07:42:36 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/speakers/noel-cromhout/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Resurrection and More!</title>
+      <link>https://example.com/posts/2016-03-87_the-resurrection-and-more/</link>
+      <pubDate>Sun, 27 Mar 2016 07:42:36 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-03-87_the-resurrection-and-more/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Journey to Transformation</title>
+      <link>https://example.com/posts/2016-03-86_journey-to-transformation/</link>
+      <pubDate>Sat, 26 Mar 2016 08:23:40 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-03-86_journey-to-transformation/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>The Hour has Come</title>
+      <link>https://example.com/posts/2016-03-85_the-hour-has-come/</link>
+      <pubDate>Fri, 25 Mar 2016 16:48:06 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-03-85_the-hour-has-come/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Fire Fire</title>
+      <link>https://example.com/posts/2015-05-151_fire-fire/</link>
+      <pubDate>Sun, 31 May 2015 08:08:44 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-05-151_fire-fire/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>The Power of the Cross</title>
+      <link>https://example.com/posts/2014-05-124_the-power-of-the-cross/</link>
+      <pubDate>Sun, 04 May 2014 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-05-124_the-power-of-the-cross/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>End Of The Word</title>
+      <link>https://example.com/posts/2013-06-181_end-of-the-word/</link>
+      <pubDate>Sun, 30 Jun 2013 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-06-181_end-of-the-word/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Journey To Transformation</title>
+      <link>https://example.com/posts/2013-06-181_journey-to-transformation/</link>
+      <pubDate>Sun, 30 Jun 2013 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-06-181_journey-to-transformation/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+  </channel>
+</rss>

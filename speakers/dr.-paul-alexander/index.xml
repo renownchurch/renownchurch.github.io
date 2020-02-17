@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dr. Paul Alexander on Some Title</title>
+    <link>https://example.com/speakers/dr.-paul-alexander/</link>
+    <description>Recent content in Dr. Paul Alexander on Some Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 27 Nov 2011 07:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/speakers/dr.-paul-alexander/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Capacity of the Good Samaritan</title>
+      <link>https://example.com/posts/2011-11-331_capacity-of-the-good-samaritan/</link>
+      <pubDate>Sun, 27 Nov 2011 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2011-11-331_capacity-of-the-good-samaritan/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+  </channel>
+</rss>

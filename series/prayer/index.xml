@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prayer on Some Title</title>
+    <link>https://example.com/series/prayer/</link>
+    <description>Recent content in Prayer on Some Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Apr 2015 06:00:35 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/series/prayer/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cycle 3 - Prayer</title>
+      <link>https://example.com/posts/2015-04-109_cycle-3-prayer/</link>
+      <pubDate>Sun, 19 Apr 2015 06:00:35 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-04-109_cycle-3-prayer/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Prayer - Cycle 1</title>
+      <link>https://example.com/posts/2015-01-11_prayer-cycle-1/</link>
+      <pubDate>Sun, 11 Jan 2015 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-01-11_prayer-cycle-1/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+  </channel>
+</rss>

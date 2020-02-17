@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>40 Days In The Word on Some Title</title>
+    <link>https://example.com/series/40-days-in-the-word/</link>
+    <description>Recent content in 40 Days In The Word on Some Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Sep 2013 06:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/series/40-days-in-the-word/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Integrating God&#39;s Word Into My Life</title>
+      <link>https://example.com/posts/2013-09-251_integrating-gods-word-into-my-life/</link>
+      <pubDate>Sun, 08 Sep 2013 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-09-251_integrating-gods-word-into-my-life/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Understanding The Meaning of a Text</title>
+      <link>https://example.com/posts/2013-09-244_understanding-the-meaning-of-a-text/</link>
+      <pubDate>Sun, 01 Sep 2013 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-09-244_understanding-the-meaning-of-a-text/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Observation</title>
+      <link>https://example.com/posts/2013-08-237_observation/</link>
+      <pubDate>Sun, 25 Aug 2013 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-08-237_observation/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Illumination</title>
+      <link>https://example.com/posts/2013-08-230_illumination/</link>
+      <pubDate>Sun, 18 Aug 2013 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-08-230_illumination/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>How The Bible Changes Us</title>
+      <link>https://example.com/posts/2013-08-223_how-the-bible-changes-us/</link>
+      <pubDate>Sun, 11 Aug 2013 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-08-223_how-the-bible-changes-us/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Why Can I Trust The Bible?</title>
+      <link>https://example.com/posts/2013-08-216_why-can-i-trust-the-bible/</link>
+      <pubDate>Sun, 04 Aug 2013 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-08-216_why-can-i-trust-the-bible/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Building Your Life On The Bible</title>
+      <link>https://example.com/posts/2013-07-209_building-your-life-on-the-bible/</link>
+      <pubDate>Sun, 28 Jul 2013 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-07-209_building-your-life-on-the-bible/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Revelation on Some Title</title>
+    <link>https://example.com/books/revelation/</link>
+    <description>Recent content in Revelation on Some Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 Dec 2016 08:25:34 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/books/revelation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Revelation</title>
+      <link>https://example.com/posts/2016-12-340_revelation/</link>
+      <pubDate>Mon, 05 Dec 2016 08:25:34 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-12-340_revelation/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+  </channel>
+</rss>

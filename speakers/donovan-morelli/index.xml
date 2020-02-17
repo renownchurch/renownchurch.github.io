@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Donovan Morelli on Some Title</title>
+    <link>https://example.com/speakers/donovan-morelli/</link>
+    <description>Recent content in Donovan Morelli on Some Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Jun 2014 07:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/speakers/donovan-morelli/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Submission</title>
+      <link>https://example.com/posts/2014-06-173_submission/</link>
+      <pubDate>Sun, 22 Jun 2014 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-06-173_submission/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Stick With The Plan - Vision Is God&#39;s</title>
+      <link>https://example.com/posts/2014-04-117_stick-with-the-plan-vision-is-gods/</link>
+      <pubDate>Sun, 27 Apr 2014 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-04-117_stick-with-the-plan-vision-is-gods/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Running on Empty: 02</title>
+      <link>https://example.com/posts/2012-11-323_running-on-empty-02/</link>
+      <pubDate>Sun, 18 Nov 2012 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-11-323_running-on-empty-02/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+  </channel>
+</rss>

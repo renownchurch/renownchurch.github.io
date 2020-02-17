@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jesus on Some Title</title>
+    <link>https://example.com/topics/jesus/</link>
+    <description>Recent content in Jesus on Some Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 Mar 2017 08:40:11 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/topics/jesus/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Psalms: Week 3</title>
+      <link>https://example.com/posts/2017-03-71_psalms-week-3/</link>
+      <pubDate>Sun, 12 Mar 2017 08:40:11 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2017-03-71_psalms-week-3/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Acts: Week 7</title>
+      <link>https://example.com/posts/2017-02-50_acts-week-7/</link>
+      <pubDate>Sun, 19 Feb 2017 09:26:33 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2017-02-50_acts-week-7/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Mark</title>
+      <link>https://example.com/posts/2016-07-206_mark/</link>
+      <pubDate>Sun, 24 Jul 2016 15:59:51 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-07-206_mark/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+  </channel>
+</rss>

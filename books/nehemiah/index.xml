@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nehemiah on Some Title</title>
+    <link>https://example.com/books/nehemiah/</link>
+    <description>Recent content in Nehemiah on Some Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Mar 2016 09:16:48 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/books/nehemiah/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ezra &amp; Nehemiah</title>
+      <link>https://example.com/posts/2016-03-80_ezra-nehemiah/</link>
+      <pubDate>Sun, 20 Mar 2016 09:16:48 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-03-80_ezra-nehemiah/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+  </channel>
+</rss>

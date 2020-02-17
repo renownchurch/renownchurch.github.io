@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anchor on Some Title</title>
+    <link>https://example.com/series/anchor/</link>
+    <description>Recent content in Anchor on Some Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 May 2017 06:00:34 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/series/anchor/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Anchor: Week 5</title>
+      <link>https://example.com/posts/2017-05-148_anchor-week-5/</link>
+      <pubDate>Sun, 28 May 2017 06:00:34 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2017-05-148_anchor-week-5/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Anchor: Week 4</title>
+      <link>https://example.com/posts/2017-05-141_anchor-week-4/</link>
+      <pubDate>Sun, 21 May 2017 06:00:21 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2017-05-141_anchor-week-4/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Anchor: Week 3 - Endurance</title>
+      <link>https://example.com/posts/2017-05-134_anchor-week-3-endurance/</link>
+      <pubDate>Sun, 14 May 2017 06:00:55 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2017-05-134_anchor-week-3-endurance/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Anchor: Week 2 - Our Father</title>
+      <link>https://example.com/posts/2017-05-121_anchor-week-2-our-father/</link>
+      <pubDate>Mon, 01 May 2017 07:14:11 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2017-05-121_anchor-week-2-our-father/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Anchor: Part 1</title>
+      <link>https://example.com/posts/2017-04-118_anchor-part-1/</link>
+      <pubDate>Fri, 28 Apr 2017 12:30:28 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2017-04-118_anchor-part-1/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+  </channel>
+</rss>

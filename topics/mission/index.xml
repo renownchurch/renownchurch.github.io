@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mission on Some Title</title>
+    <link>https://example.com/topics/mission/</link>
+    <description>Recent content in Mission on Some Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 Feb 2017 08:58:06 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/topics/mission/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Acts: Week 6</title>
+      <link>https://example.com/posts/2017-02-43_acts-week-6/</link>
+      <pubDate>Sun, 12 Feb 2017 08:58:06 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2017-02-43_acts-week-6/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Acts: Week 5</title>
+      <link>https://example.com/posts/2017-02-36_acts-week-5/</link>
+      <pubDate>Sun, 05 Feb 2017 08:56:16 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2017-02-36_acts-week-5/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Acts: Week 4</title>
+      <link>https://example.com/posts/2017-01-29_acts-week-4/</link>
+      <pubDate>Sun, 29 Jan 2017 08:45:54 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2017-01-29_acts-week-4/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Acts: Week 3</title>
+      <link>https://example.com/posts/2017-01-22_acts-week-3/</link>
+      <pubDate>Sun, 22 Jan 2017 08:46:03 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2017-01-22_acts-week-3/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Acts Week 2</title>
+      <link>https://example.com/posts/2017-01-15_acts-week-2/</link>
+      <pubDate>Sun, 15 Jan 2017 09:14:35 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2017-01-15_acts-week-2/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Acts Week 1</title>
+      <link>https://example.com/posts/2017-01-08_acts-week-1/</link>
+      <pubDate>Sun, 08 Jan 2017 08:42:51 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2017-01-08_acts-week-1/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>God&#39;s Mission</title>
+      <link>https://example.com/posts/2015-12-347_gods-mission/</link>
+      <pubDate>Sun, 13 Dec 2015 17:09:30 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-12-347_gods-mission/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+  </channel>
+</rss>

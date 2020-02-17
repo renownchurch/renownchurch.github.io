@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anton Beukes on Some Title</title>
+    <link>https://example.com/speakers/anton-beukes/</link>
+    <description>Recent content in Anton Beukes on Some Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Dec 2014 07:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/speakers/anton-beukes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Anton Beukes</title>
+      <link>https://example.com/posts/2014-12-362_anton-beukes/</link>
+      <pubDate>Sun, 28 Dec 2014 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-12-362_anton-beukes/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+  </channel>
+</rss>

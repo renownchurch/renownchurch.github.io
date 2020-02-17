@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Other One on Some Title</title>
+    <link>https://example.com/series/other-one/</link>
+    <description>Recent content in Other One on Some Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Oct 2015 09:11:02 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/series/other-one/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Reflect God in Lordship</title>
+      <link>https://example.com/posts/2015-10-298_reflect-god-in-lordship/</link>
+      <pubDate>Sun, 25 Oct 2015 09:11:02 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-10-298_reflect-god-in-lordship/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Reflect God in Leadership</title>
+      <link>https://example.com/posts/2015-10-284_reflect-god-in-leadership/</link>
+      <pubDate>Sun, 11 Oct 2015 07:56:19 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-10-284_reflect-god-in-leadership/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Reflect God in Hardship</title>
+      <link>https://example.com/posts/2015-10-277_reflect-god-in-hardship/</link>
+      <pubDate>Sun, 04 Oct 2015 08:07:57 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-10-277_reflect-god-in-hardship/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Reflect God in Fellowship</title>
+      <link>https://example.com/posts/2015-09-270_reflect-god-in-fellowship/</link>
+      <pubDate>Sun, 27 Sep 2015 16:50:29 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-09-270_reflect-god-in-fellowship/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Reflect God in Relationships</title>
+      <link>https://example.com/posts/2015-09-263_reflect-god-in-relationships/</link>
+      <pubDate>Sun, 20 Sep 2015 07:22:11 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-09-263_reflect-god-in-relationships/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Other One - Prayer</title>
+      <link>https://example.com/posts/2015-09-256_other-one-prayer/</link>
+      <pubDate>Sun, 13 Sep 2015 16:42:01 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-09-256_other-one-prayer/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+  </channel>
+</rss>

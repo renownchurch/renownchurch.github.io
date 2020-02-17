@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alison Barnard on Some Title</title>
+    <link>https://example.com/speakers/alison-barnard/</link>
+    <description>Recent content in Alison Barnard on Some Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 May 2016 07:23:59 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/speakers/alison-barnard/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ecclesiastes</title>
+      <link>https://example.com/posts/2016-05-122_ecclesiastes/</link>
+      <pubDate>Sun, 01 May 2016 07:23:59 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-05-122_ecclesiastes/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Reflect God in Relationships</title>
+      <link>https://example.com/posts/2015-09-263_reflect-god-in-relationships/</link>
+      <pubDate>Sun, 20 Sep 2015 07:22:11 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-09-263_reflect-god-in-relationships/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Prayer - Cycle 1</title>
+      <link>https://example.com/posts/2015-01-11_prayer-cycle-1/</link>
+      <pubDate>Sun, 11 Jan 2015 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-01-11_prayer-cycle-1/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Stick With The Plan - Vision...Stretches You</title>
+      <link>https://example.com/posts/2014-05-131_stick-with-the-plan-vision...stretches-you/</link>
+      <pubDate>Sun, 11 May 2014 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-05-131_stick-with-the-plan-vision...stretches-you/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Observation</title>
+      <link>https://example.com/posts/2013-08-237_observation/</link>
+      <pubDate>Sun, 25 Aug 2013 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-08-237_observation/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>We&#39;re Here For Fellowship</title>
+      <link>https://example.com/posts/2013-08-230_were-here-for-fellowship/</link>
+      <pubDate>Sun, 18 Aug 2013 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-08-230_were-here-for-fellowship/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>God&#39;s Grand Story: Joshua</title>
+      <link>https://example.com/posts/2013-06-174_gods-grand-story-joshua/</link>
+      <pubDate>Sun, 23 Jun 2013 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-06-174_gods-grand-story-joshua/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+  </channel>
+</rss>

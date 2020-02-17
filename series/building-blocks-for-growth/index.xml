@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Building Blocks for Growth on Some Title</title>
+    <link>https://example.com/series/building-blocks-for-growth/</link>
+    <description>Recent content in Building Blocks for Growth on Some Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 Nov 2011 07:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/series/building-blocks-for-growth/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Growing into Grace</title>
+      <link>https://example.com/posts/2011-11-317_growing-into-grace/</link>
+      <pubDate>Sun, 13 Nov 2011 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2011-11-317_growing-into-grace/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Human Love</title>
+      <link>https://example.com/posts/2011-11-310_human-love/</link>
+      <pubDate>Sun, 06 Nov 2011 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2011-11-310_human-love/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Anyone Hungry?</title>
+      <link>https://example.com/posts/2011-10-303_anyone-hungry/</link>
+      <pubDate>Sun, 30 Oct 2011 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2011-10-303_anyone-hungry/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>The Importance of a Balanced Life</title>
+      <link>https://example.com/posts/2011-10-296_the-importance-of-a-balanced-life/</link>
+      <pubDate>Sun, 23 Oct 2011 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2011-10-296_the-importance-of-a-balanced-life/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>God Uses Manure</title>
+      <link>https://example.com/posts/2011-10-282_god-uses-manure/</link>
+      <pubDate>Sun, 09 Oct 2011 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2011-10-282_god-uses-manure/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+  </channel>
+</rss>

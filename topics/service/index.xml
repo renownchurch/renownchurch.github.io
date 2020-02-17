@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Service on Some Title</title>
+    <link>https://example.com/topics/service/</link>
+    <description>Recent content in Service on Some Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Oct 2016 16:30:16 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/topics/service/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Preparing a Table</title>
+      <link>https://example.com/posts/2016-10-280_preparing-a-table/</link>
+      <pubDate>Thu, 06 Oct 2016 16:30:16 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-10-280_preparing-a-table/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Galatians</title>
+      <link>https://example.com/posts/2016-09-248_galatians/</link>
+      <pubDate>Sun, 04 Sep 2016 08:13:38 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-09-248_galatians/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Deuteronomy</title>
+      <link>https://example.com/posts/2016-01-31_deuteronomy/</link>
+      <pubDate>Sun, 31 Jan 2016 09:00:34 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-01-31_deuteronomy/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Servant Leadership</title>
+      <link>https://example.com/posts/2015-11-312_servant-leadership/</link>
+      <pubDate>Sun, 08 Nov 2015 16:08:39 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-11-312_servant-leadership/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Give Kindness</title>
+      <link>https://example.com/posts/2015-09-249_give-kindness/</link>
+      <pubDate>Sun, 06 Sep 2015 08:29:56 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-09-249_give-kindness/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Give in Advance</title>
+      <link>https://example.com/posts/2015-08-242_give-in-advance/</link>
+      <pubDate>Sun, 30 Aug 2015 14:50:08 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-08-242_give-in-advance/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Give Yourself</title>
+      <link>https://example.com/posts/2015-08-235_give-yourself/</link>
+      <pubDate>Sun, 23 Aug 2015 08:23:16 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-08-235_give-yourself/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Give Time</title>
+      <link>https://example.com/posts/2015-08-228_give-time/</link>
+      <pubDate>Sun, 16 Aug 2015 08:23:26 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-08-228_give-time/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Give More</title>
+      <link>https://example.com/posts/2015-08-221_give-more/</link>
+      <pubDate>Sun, 09 Aug 2015 08:48:23 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-08-221_give-more/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Give Voluntarily</title>
+      <link>https://example.com/posts/2015-08-214_give-voluntarily/</link>
+      <pubDate>Sun, 02 Aug 2015 08:48:57 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-08-214_give-voluntarily/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+  </channel>
+</rss>

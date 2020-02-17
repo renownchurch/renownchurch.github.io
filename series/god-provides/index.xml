@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>God Provides on Some Title</title>
+    <link>https://example.com/series/god-provides/</link>
+    <description>Recent content in God Provides on Some Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 Oct 2014 07:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/series/god-provides/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Because He is Gracious</title>
+      <link>https://example.com/posts/2014-10-299_because-he-is-gracious/</link>
+      <pubDate>Sun, 26 Oct 2014 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-10-299_because-he-is-gracious/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Because He is Just</title>
+      <link>https://example.com/posts/2014-10-292_because-he-is-just/</link>
+      <pubDate>Sun, 19 Oct 2014 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-10-292_because-he-is-just/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Because He knows best</title>
+      <link>https://example.com/posts/2014-10-285_because-he-knows-best/</link>
+      <pubDate>Sun, 12 Oct 2014 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-10-285_because-he-knows-best/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Because He Can</title>
+      <link>https://example.com/posts/2014-10-278_because-he-can/</link>
+      <pubDate>Sun, 05 Oct 2014 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-10-278_because-he-can/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Because He Is Faithful</title>
+      <link>https://example.com/posts/2014-09-271_because-he-is-faithful/</link>
+      <pubDate>Sun, 28 Sep 2014 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-09-271_because-he-is-faithful/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Because He is Generous</title>
+      <link>https://example.com/posts/2014-09-264_because-he-is-generous/</link>
+      <pubDate>Sun, 21 Sep 2014 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-09-264_because-he-is-generous/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+  </channel>
+</rss>

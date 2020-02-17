@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hein Bruyns on Some Title</title>
+    <link>https://example.com/speakers/hein-bruyns/</link>
+    <description>Recent content in Hein Bruyns on Some Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 18 Jun 2017 07:51:25 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/speakers/hein-bruyns/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>We &gt; Me: Part 3 - The Power of Family</title>
+      <link>https://example.com/posts/2017-06-169_we-me-part-3-the-power-of-family/</link>
+      <pubDate>Sun, 18 Jun 2017 07:51:25 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2017-06-169_we-me-part-3-the-power-of-family/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Psalms: Week 7</title>
+      <link>https://example.com/posts/2017-04-99_psalms-week-7/</link>
+      <pubDate>Sun, 09 Apr 2017 08:04:01 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2017-04-99_psalms-week-7/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+  </channel>
+</rss>

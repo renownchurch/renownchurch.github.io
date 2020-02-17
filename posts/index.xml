@@ -1,0 +1,3597 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Some Title</title>
+    <link>https://example.com/posts/</link>
+    <description>Recent content in Posts on Some Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 30 Jul 2017 08:25:04 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Go: Part 2</title>
+      <link>https://example.com/posts/2017-07-211_go-part-2/</link>
+      <pubDate>Sun, 30 Jul 2017 08:25:04 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2017-07-211_go-part-2/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Book of Mark: Part 1 - Jesus Rewards Expectation</title>
+      <link>https://example.com/posts/2017-07-204_book-of-mark-part-1-jesus-rewards-expectation/</link>
+      <pubDate>Sun, 23 Jul 2017 07:57:38 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2017-07-204_book-of-mark-part-1-jesus-rewards-expectation/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>We &gt; Me: Part 7 - The Power of Choice</title>
+      <link>https://example.com/posts/2017-07-197_we-me-part-7-the-power-of-choice/</link>
+      <pubDate>Sun, 16 Jul 2017 08:00:44 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2017-07-197_we-me-part-7-the-power-of-choice/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>We &gt; Me: Part 6 - The Power of the Local Church</title>
+      <link>https://example.com/posts/2017-07-190_we-me-part-6-the-power-of-the-local-church/</link>
+      <pubDate>Sun, 09 Jul 2017 08:03:41 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2017-07-190_we-me-part-6-the-power-of-the-local-church/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>We &gt; Me: Pt5 - The Power of the Holy Spirit</title>
+      <link>https://example.com/posts/2017-07-183_we-me-pt5-the-power-of-the-holy-spirit/</link>
+      <pubDate>Sun, 02 Jul 2017 07:49:20 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2017-07-183_we-me-pt5-the-power-of-the-holy-spirit/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>We &gt; Me: Part 4</title>
+      <link>https://example.com/posts/2017-06-176_we-me-part-4/</link>
+      <pubDate>Sun, 25 Jun 2017 06:42:24 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2017-06-176_we-me-part-4/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>We &gt; Me: Part 3 - The Power of Family</title>
+      <link>https://example.com/posts/2017-06-169_we-me-part-3-the-power-of-family/</link>
+      <pubDate>Sun, 18 Jun 2017 07:51:25 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2017-06-169_we-me-part-3-the-power-of-family/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>We &gt; Me: Part 2 - The Power of Me</title>
+      <link>https://example.com/posts/2017-06-162_we-me-part-2-the-power-of-me/</link>
+      <pubDate>Sun, 11 Jun 2017 08:13:09 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2017-06-162_we-me-part-2-the-power-of-me/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>We &gt; Me: Part 1</title>
+      <link>https://example.com/posts/2017-06-161_we-me-part-1/</link>
+      <pubDate>Sat, 10 Jun 2017 08:04:49 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2017-06-161_we-me-part-1/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Anchor: Week 5</title>
+      <link>https://example.com/posts/2017-05-148_anchor-week-5/</link>
+      <pubDate>Sun, 28 May 2017 06:00:34 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2017-05-148_anchor-week-5/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Anchor: Week 4</title>
+      <link>https://example.com/posts/2017-05-141_anchor-week-4/</link>
+      <pubDate>Sun, 21 May 2017 06:00:21 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2017-05-141_anchor-week-4/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Anchor: Week 3 - Endurance</title>
+      <link>https://example.com/posts/2017-05-134_anchor-week-3-endurance/</link>
+      <pubDate>Sun, 14 May 2017 06:00:55 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2017-05-134_anchor-week-3-endurance/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Renown Conference 2017: Session 3 - Mantle</title>
+      <link>https://example.com/posts/2017-05-126_renown-conference-2017-session-3-mantle/</link>
+      <pubDate>Sat, 06 May 2017 16:30:55 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2017-05-126_renown-conference-2017-session-3-mantle/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Renown Conference 2017: Session 2 - Antioch</title>
+      <link>https://example.com/posts/2017-05-126_renown-conference-2017-session-2-antioch/</link>
+      <pubDate>Sat, 06 May 2017 06:00:53 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2017-05-126_renown-conference-2017-session-2-antioch/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Renown Conference 2017: Session 1 - Repentance</title>
+      <link>https://example.com/posts/2017-05-125_renown-conference-2017-session-1-repentance/</link>
+      <pubDate>Fri, 05 May 2017 16:30:19 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2017-05-125_renown-conference-2017-session-1-repentance/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Anchor: Week 2 - Our Father</title>
+      <link>https://example.com/posts/2017-05-121_anchor-week-2-our-father/</link>
+      <pubDate>Mon, 01 May 2017 07:14:11 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2017-05-121_anchor-week-2-our-father/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Anchor: Part 1</title>
+      <link>https://example.com/posts/2017-04-118_anchor-part-1/</link>
+      <pubDate>Fri, 28 Apr 2017 12:30:28 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2017-04-118_anchor-part-1/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>I Still Haven&#39;t Found What I&#39;m Looking For</title>
+      <link>https://example.com/posts/2017-04-106_i-still-havent-found-what-im-looking-for/</link>
+      <pubDate>Sun, 16 Apr 2017 07:27:23 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2017-04-106_i-still-havent-found-what-im-looking-for/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Good Friday</title>
+      <link>https://example.com/posts/2017-04-104_good-friday/</link>
+      <pubDate>Fri, 14 Apr 2017 17:48:04 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2017-04-104_good-friday/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Psalms: Week 7</title>
+      <link>https://example.com/posts/2017-04-99_psalms-week-7/</link>
+      <pubDate>Sun, 09 Apr 2017 08:04:01 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2017-04-99_psalms-week-7/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Psalms: Week 6</title>
+      <link>https://example.com/posts/2017-04-92_psalms-week-6/</link>
+      <pubDate>Sun, 02 Apr 2017 07:54:58 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2017-04-92_psalms-week-6/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Psalms: Week 5</title>
+      <link>https://example.com/posts/2017-03-85_psalms-week-5/</link>
+      <pubDate>Sun, 26 Mar 2017 08:04:20 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2017-03-85_psalms-week-5/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Psalms: Week 4</title>
+      <link>https://example.com/posts/2017-03-82_psalms-week-4/</link>
+      <pubDate>Thu, 23 Mar 2017 06:10:11 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2017-03-82_psalms-week-4/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Psalms: Week 3</title>
+      <link>https://example.com/posts/2017-03-71_psalms-week-3/</link>
+      <pubDate>Sun, 12 Mar 2017 08:40:11 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2017-03-71_psalms-week-3/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Psalms: Week 2</title>
+      <link>https://example.com/posts/2017-03-70_psalms-week-2/</link>
+      <pubDate>Sat, 11 Mar 2017 05:43:19 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2017-03-70_psalms-week-2/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Where do you put your trust?</title>
+      <link>https://example.com/posts/2017-02-57_where-do-you-put-your-trust/</link>
+      <pubDate>Sun, 26 Feb 2017 17:44:18 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2017-02-57_where-do-you-put-your-trust/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Acts: Week 7</title>
+      <link>https://example.com/posts/2017-02-50_acts-week-7/</link>
+      <pubDate>Sun, 19 Feb 2017 09:26:33 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2017-02-50_acts-week-7/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Acts: Week 6</title>
+      <link>https://example.com/posts/2017-02-43_acts-week-6/</link>
+      <pubDate>Sun, 12 Feb 2017 08:58:06 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2017-02-43_acts-week-6/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Acts: Week 5</title>
+      <link>https://example.com/posts/2017-02-36_acts-week-5/</link>
+      <pubDate>Sun, 05 Feb 2017 08:56:16 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2017-02-36_acts-week-5/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Acts: Week 4</title>
+      <link>https://example.com/posts/2017-01-29_acts-week-4/</link>
+      <pubDate>Sun, 29 Jan 2017 08:45:54 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2017-01-29_acts-week-4/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Acts: Week 3</title>
+      <link>https://example.com/posts/2017-01-22_acts-week-3/</link>
+      <pubDate>Sun, 22 Jan 2017 08:46:03 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2017-01-22_acts-week-3/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Acts Week 2</title>
+      <link>https://example.com/posts/2017-01-15_acts-week-2/</link>
+      <pubDate>Sun, 15 Jan 2017 09:14:35 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2017-01-15_acts-week-2/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Acts Week 1</title>
+      <link>https://example.com/posts/2017-01-08_acts-week-1/</link>
+      <pubDate>Sun, 08 Jan 2017 08:42:51 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2017-01-08_acts-week-1/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Baptisms</title>
+      <link>https://example.com/posts/2017-01-04_baptisms/</link>
+      <pubDate>Wed, 04 Jan 2017 05:51:17 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2017-01-04_baptisms/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>That&#39;s what Mary said</title>
+      <link>https://example.com/posts/2016-12-353_thats-what-mary-said/</link>
+      <pubDate>Sun, 18 Dec 2016 09:04:20 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-12-353_thats-what-mary-said/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>A Child is Born</title>
+      <link>https://example.com/posts/2016-12-346_a-child-is-born/</link>
+      <pubDate>Sun, 11 Dec 2016 08:39:50 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-12-346_a-child-is-born/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Revelation</title>
+      <link>https://example.com/posts/2016-12-340_revelation/</link>
+      <pubDate>Mon, 05 Dec 2016 08:25:34 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-12-340_revelation/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>1, 2 &amp; 3 John</title>
+      <link>https://example.com/posts/2016-11-332_1-2-3-john/</link>
+      <pubDate>Sun, 27 Nov 2016 08:35:28 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-11-332_1-2-3-john/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Peter &amp; Jude</title>
+      <link>https://example.com/posts/2016-11-325_peter-jude/</link>
+      <pubDate>Sun, 20 Nov 2016 08:29:24 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-11-325_peter-jude/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>James</title>
+      <link>https://example.com/posts/2016-11-318_james/</link>
+      <pubDate>Sun, 13 Nov 2016 18:05:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-11-318_james/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Hebrews</title>
+      <link>https://example.com/posts/2016-11-315_hebrews/</link>
+      <pubDate>Thu, 10 Nov 2016 05:14:44 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-11-315_hebrews/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Philemon</title>
+      <link>https://example.com/posts/2016-10-304_philemon/</link>
+      <pubDate>Sun, 30 Oct 2016 08:35:20 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-10-304_philemon/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Titus</title>
+      <link>https://example.com/posts/2016-10-297_titus/</link>
+      <pubDate>Sun, 23 Oct 2016 07:51:24 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-10-297_titus/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Timothy</title>
+      <link>https://example.com/posts/2016-10-295_timothy/</link>
+      <pubDate>Fri, 21 Oct 2016 09:28:02 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-10-295_timothy/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Thessalonians</title>
+      <link>https://example.com/posts/2016-10-283_thessalonians/</link>
+      <pubDate>Sun, 09 Oct 2016 06:00:08 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-10-283_thessalonians/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Surrender to Grace</title>
+      <link>https://example.com/posts/2016-10-282_surrender-to-grace/</link>
+      <pubDate>Sat, 08 Oct 2016 07:45:51 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-10-282_surrender-to-grace/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Surrender</title>
+      <link>https://example.com/posts/2016-10-282_surrender/</link>
+      <pubDate>Sat, 08 Oct 2016 06:00:14 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-10-282_surrender/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>The Only One</title>
+      <link>https://example.com/posts/2016-10-281_the-only-one/</link>
+      <pubDate>Fri, 07 Oct 2016 16:30:20 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-10-281_the-only-one/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Preparing a Table</title>
+      <link>https://example.com/posts/2016-10-280_preparing-a-table/</link>
+      <pubDate>Thu, 06 Oct 2016 16:30:16 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-10-280_preparing-a-table/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Colossians</title>
+      <link>https://example.com/posts/2016-10-280_colossians/</link>
+      <pubDate>Thu, 06 Oct 2016 10:34:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-10-280_colossians/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>The Heritage of Mission</title>
+      <link>https://example.com/posts/2016-09-270_the-heritage-of-mission/</link>
+      <pubDate>Mon, 26 Sep 2016 10:36:27 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-09-270_the-heritage-of-mission/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Ephesians</title>
+      <link>https://example.com/posts/2016-09-262_ephesians/</link>
+      <pubDate>Sun, 18 Sep 2016 08:16:53 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-09-262_ephesians/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>In Spite Of</title>
+      <link>https://example.com/posts/2016-09-255_in-spite-of/</link>
+      <pubDate>Sun, 11 Sep 2016 08:27:36 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-09-255_in-spite-of/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Galatians</title>
+      <link>https://example.com/posts/2016-09-248_galatians/</link>
+      <pubDate>Sun, 04 Sep 2016 08:13:38 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-09-248_galatians/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>1 &amp; 2 Corinthians</title>
+      <link>https://example.com/posts/2016-08-241_1-2-corinthians/</link>
+      <pubDate>Sun, 28 Aug 2016 07:41:09 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-08-241_1-2-corinthians/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Romans</title>
+      <link>https://example.com/posts/2016-08-234_romans/</link>
+      <pubDate>Sun, 21 Aug 2016 07:48:53 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-08-234_romans/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Acts</title>
+      <link>https://example.com/posts/2016-08-227_acts/</link>
+      <pubDate>Sun, 14 Aug 2016 15:14:33 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-08-227_acts/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Luke</title>
+      <link>https://example.com/posts/2016-08-220_luke/</link>
+      <pubDate>Sun, 07 Aug 2016 07:32:32 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-08-220_luke/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>John</title>
+      <link>https://example.com/posts/2016-08-215_john/</link>
+      <pubDate>Tue, 02 Aug 2016 07:30:43 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-08-215_john/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Mark</title>
+      <link>https://example.com/posts/2016-07-206_mark/</link>
+      <pubDate>Sun, 24 Jul 2016 15:59:51 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-07-206_mark/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Matthew</title>
+      <link>https://example.com/posts/2016-07-199_matthew/</link>
+      <pubDate>Sun, 17 Jul 2016 07:45:09 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-07-199_matthew/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Haggai</title>
+      <link>https://example.com/posts/2016-07-192_haggai/</link>
+      <pubDate>Sun, 10 Jul 2016 07:39:35 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-07-192_haggai/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Jonah</title>
+      <link>https://example.com/posts/2016-07-185_jonah/</link>
+      <pubDate>Sun, 03 Jul 2016 08:20:02 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-07-185_jonah/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>The Minor Prophets: Joel</title>
+      <link>https://example.com/posts/2016-06-178_the-minor-prophets-joel/</link>
+      <pubDate>Sun, 26 Jun 2016 08:09:26 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-06-178_the-minor-prophets-joel/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Hosea</title>
+      <link>https://example.com/posts/2016-06-171_hosea/</link>
+      <pubDate>Sun, 19 Jun 2016 14:11:31 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-06-171_hosea/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Daniel</title>
+      <link>https://example.com/posts/2016-06-171_daniel/</link>
+      <pubDate>Sun, 19 Jun 2016 14:10:58 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-06-171_daniel/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Ezekiel</title>
+      <link>https://example.com/posts/2016-06-157_ezekiel/</link>
+      <pubDate>Sun, 05 Jun 2016 08:09:01 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-06-157_ezekiel/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Jeremiah and Lamentations</title>
+      <link>https://example.com/posts/2016-05-150_jeremiah-and-lamentations/</link>
+      <pubDate>Sun, 29 May 2016 07:56:11 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-05-150_jeremiah-and-lamentations/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Reboot Sunday - 2016</title>
+      <link>https://example.com/posts/2016-05-143_reboot-sunday-2016/</link>
+      <pubDate>Sun, 22 May 2016 08:35:14 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-05-143_reboot-sunday-2016/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Isaiah</title>
+      <link>https://example.com/posts/2016-05-136_isaiah/</link>
+      <pubDate>Sun, 15 May 2016 08:04:07 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-05-136_isaiah/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Song of Solomon</title>
+      <link>https://example.com/posts/2016-05-129_song-of-solomon/</link>
+      <pubDate>Sun, 08 May 2016 07:56:41 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-05-129_song-of-solomon/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Ecclesiastes</title>
+      <link>https://example.com/posts/2016-05-122_ecclesiastes/</link>
+      <pubDate>Sun, 01 May 2016 07:23:59 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-05-122_ecclesiastes/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Proverbs</title>
+      <link>https://example.com/posts/2016-04-115_proverbs/</link>
+      <pubDate>Sun, 24 Apr 2016 07:37:05 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-04-115_proverbs/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Psalms</title>
+      <link>https://example.com/posts/2016-04-108_psalms/</link>
+      <pubDate>Sun, 17 Apr 2016 09:31:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-04-108_psalms/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Job</title>
+      <link>https://example.com/posts/2016-04-101_job/</link>
+      <pubDate>Sun, 10 Apr 2016 08:03:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-04-101_job/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Esther</title>
+      <link>https://example.com/posts/2016-04-94_esther/</link>
+      <pubDate>Sun, 03 Apr 2016 07:55:45 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-04-94_esther/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>The Resurrection and More!</title>
+      <link>https://example.com/posts/2016-03-87_the-resurrection-and-more/</link>
+      <pubDate>Sun, 27 Mar 2016 07:42:36 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-03-87_the-resurrection-and-more/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Journey to Transformation</title>
+      <link>https://example.com/posts/2016-03-86_journey-to-transformation/</link>
+      <pubDate>Sat, 26 Mar 2016 08:23:40 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-03-86_journey-to-transformation/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>The Hour has Come</title>
+      <link>https://example.com/posts/2016-03-85_the-hour-has-come/</link>
+      <pubDate>Fri, 25 Mar 2016 16:48:06 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-03-85_the-hour-has-come/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Ezra &amp; Nehemiah</title>
+      <link>https://example.com/posts/2016-03-80_ezra-nehemiah/</link>
+      <pubDate>Sun, 20 Mar 2016 09:16:48 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-03-80_ezra-nehemiah/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>1 &amp; 2 Chronicles</title>
+      <link>https://example.com/posts/2016-03-73_1-2-chronicles/</link>
+      <pubDate>Sun, 13 Mar 2016 08:15:44 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-03-73_1-2-chronicles/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>1 &amp; 2 Samuel, 1 &amp; 2 Kings</title>
+      <link>https://example.com/posts/2016-03-66_1-2-samuel-1-2-kings/</link>
+      <pubDate>Sun, 06 Mar 2016 12:31:22 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-03-66_1-2-samuel-1-2-kings/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Ruth</title>
+      <link>https://example.com/posts/2016-02-59_ruth/</link>
+      <pubDate>Sun, 28 Feb 2016 08:48:51 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-02-59_ruth/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Judges</title>
+      <link>https://example.com/posts/2016-02-52_judges/</link>
+      <pubDate>Sun, 21 Feb 2016 08:48:40 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-02-52_judges/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Changing the Atmosphere</title>
+      <link>https://example.com/posts/2016-02-45_changing-the-atmosphere/</link>
+      <pubDate>Sun, 14 Feb 2016 10:19:09 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-02-45_changing-the-atmosphere/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Joshua</title>
+      <link>https://example.com/posts/2016-02-38_joshua/</link>
+      <pubDate>Sun, 07 Feb 2016 08:45:10 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-02-38_joshua/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Deuteronomy</title>
+      <link>https://example.com/posts/2016-01-31_deuteronomy/</link>
+      <pubDate>Sun, 31 Jan 2016 09:00:34 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-01-31_deuteronomy/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Numbers</title>
+      <link>https://example.com/posts/2016-01-24_numbers/</link>
+      <pubDate>Sun, 24 Jan 2016 08:42:56 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-01-24_numbers/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Leviticus</title>
+      <link>https://example.com/posts/2016-01-17_leviticus/</link>
+      <pubDate>Sun, 17 Jan 2016 08:44:14 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-01-17_leviticus/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Exodus</title>
+      <link>https://example.com/posts/2016-01-10_exodus/</link>
+      <pubDate>Sun, 10 Jan 2016 08:59:03 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-01-10_exodus/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Genesis</title>
+      <link>https://example.com/posts/2016-01-03_genesis/</link>
+      <pubDate>Sun, 03 Jan 2016 09:05:33 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-01-03_genesis/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Receiving Jesus</title>
+      <link>https://example.com/posts/2015-12-361_receiving-jesus/</link>
+      <pubDate>Sun, 27 Dec 2015 09:06:41 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-12-361_receiving-jesus/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Christmas</title>
+      <link>https://example.com/posts/2015-12-359_christmas/</link>
+      <pubDate>Fri, 25 Dec 2015 09:13:16 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-12-359_christmas/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>It&#39;s About Him</title>
+      <link>https://example.com/posts/2015-12-354_its-about-him/</link>
+      <pubDate>Sun, 20 Dec 2015 09:27:45 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-12-354_its-about-him/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>God&#39;s Mission</title>
+      <link>https://example.com/posts/2015-12-347_gods-mission/</link>
+      <pubDate>Sun, 13 Dec 2015 17:09:30 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-12-347_gods-mission/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Women</title>
+      <link>https://example.com/posts/2015-12-340_women/</link>
+      <pubDate>Sun, 06 Dec 2015 08:59:02 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-12-340_women/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Grace and Law</title>
+      <link>https://example.com/posts/2015-11-326_grace-and-law/</link>
+      <pubDate>Sun, 22 Nov 2015 16:19:06 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-11-326_grace-and-law/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>God as Father</title>
+      <link>https://example.com/posts/2015-11-319_god-as-father/</link>
+      <pubDate>Sun, 15 Nov 2015 09:29:56 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-11-319_god-as-father/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Servant Leadership</title>
+      <link>https://example.com/posts/2015-11-312_servant-leadership/</link>
+      <pubDate>Sun, 08 Nov 2015 16:08:39 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-11-312_servant-leadership/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Hope in the Darkness, Rain in the Desert</title>
+      <link>https://example.com/posts/2015-11-305_hope-in-the-darkness-rain-in-the-desert/</link>
+      <pubDate>Sun, 01 Nov 2015 09:34:04 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-11-305_hope-in-the-darkness-rain-in-the-desert/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Who Let the Dogs Out (Corporate Presentation)</title>
+      <link>https://example.com/posts/2015-10-304_who-let-the-dogs-out-corporate-presentation/</link>
+      <pubDate>Sat, 31 Oct 2015 06:30:57 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-10-304_who-let-the-dogs-out-corporate-presentation/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Reflect God in Lordship</title>
+      <link>https://example.com/posts/2015-10-298_reflect-god-in-lordship/</link>
+      <pubDate>Sun, 25 Oct 2015 09:11:02 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-10-298_reflect-god-in-lordship/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Reflect God in Leadership</title>
+      <link>https://example.com/posts/2015-10-284_reflect-god-in-leadership/</link>
+      <pubDate>Sun, 11 Oct 2015 07:56:19 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-10-284_reflect-god-in-leadership/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Reflect God in Hardship</title>
+      <link>https://example.com/posts/2015-10-277_reflect-god-in-hardship/</link>
+      <pubDate>Sun, 04 Oct 2015 08:07:57 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-10-277_reflect-god-in-hardship/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Reflect God in Fellowship</title>
+      <link>https://example.com/posts/2015-09-270_reflect-god-in-fellowship/</link>
+      <pubDate>Sun, 27 Sep 2015 16:50:29 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-09-270_reflect-god-in-fellowship/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Reflect God in Relationships</title>
+      <link>https://example.com/posts/2015-09-263_reflect-god-in-relationships/</link>
+      <pubDate>Sun, 20 Sep 2015 07:22:11 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-09-263_reflect-god-in-relationships/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Other One - Prayer</title>
+      <link>https://example.com/posts/2015-09-256_other-one-prayer/</link>
+      <pubDate>Sun, 13 Sep 2015 16:42:01 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-09-256_other-one-prayer/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Give Kindness</title>
+      <link>https://example.com/posts/2015-09-249_give-kindness/</link>
+      <pubDate>Sun, 06 Sep 2015 08:29:56 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-09-249_give-kindness/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Give in Advance</title>
+      <link>https://example.com/posts/2015-08-242_give-in-advance/</link>
+      <pubDate>Sun, 30 Aug 2015 14:50:08 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-08-242_give-in-advance/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Give Yourself</title>
+      <link>https://example.com/posts/2015-08-235_give-yourself/</link>
+      <pubDate>Sun, 23 Aug 2015 08:23:16 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-08-235_give-yourself/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Give Time</title>
+      <link>https://example.com/posts/2015-08-228_give-time/</link>
+      <pubDate>Sun, 16 Aug 2015 08:23:26 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-08-228_give-time/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Give More</title>
+      <link>https://example.com/posts/2015-08-221_give-more/</link>
+      <pubDate>Sun, 09 Aug 2015 08:48:23 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-08-221_give-more/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Give Voluntarily</title>
+      <link>https://example.com/posts/2015-08-214_give-voluntarily/</link>
+      <pubDate>Sun, 02 Aug 2015 08:48:57 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-08-214_give-voluntarily/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Give One - Prayer</title>
+      <link>https://example.com/posts/2015-07-207_give-one-prayer/</link>
+      <pubDate>Sun, 26 Jul 2015 07:49:56 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-07-207_give-one-prayer/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>God Is Immutable</title>
+      <link>https://example.com/posts/2015-07-200_god-is-immutable/</link>
+      <pubDate>Sun, 19 Jul 2015 07:47:37 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-07-200_god-is-immutable/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>God is Omnipresent</title>
+      <link>https://example.com/posts/2015-07-186_god-is-omnipresent/</link>
+      <pubDate>Sun, 05 Jul 2015 07:39:31 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-07-186_god-is-omnipresent/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>God is Omniscient</title>
+      <link>https://example.com/posts/2015-06-179_god-is-omniscient/</link>
+      <pubDate>Sun, 28 Jun 2015 08:08:47 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-06-179_god-is-omniscient/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>The One - Holy</title>
+      <link>https://example.com/posts/2015-06-172_the-one-holy/</link>
+      <pubDate>Sun, 21 Jun 2015 08:03:48 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-06-172_the-one-holy/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Help My Family</title>
+      <link>https://example.com/posts/2015-06-165_help-my-family/</link>
+      <pubDate>Sun, 14 Jun 2015 10:48:29 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-06-165_help-my-family/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Care for Our Leaders</title>
+      <link>https://example.com/posts/2015-06-158_care-for-our-leaders/</link>
+      <pubDate>Sun, 07 Jun 2015 07:51:59 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-06-158_care-for-our-leaders/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Fire Fire</title>
+      <link>https://example.com/posts/2015-05-151_fire-fire/</link>
+      <pubDate>Sun, 31 May 2015 08:08:44 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-05-151_fire-fire/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Not About Me</title>
+      <link>https://example.com/posts/2015-05-144_not-about-me/</link>
+      <pubDate>Sun, 24 May 2015 08:12:02 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-05-144_not-about-me/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>His Renown</title>
+      <link>https://example.com/posts/2015-05-137_his-renown/</link>
+      <pubDate>Sun, 17 May 2015 06:00:47 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-05-137_his-renown/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Excel in Service</title>
+      <link>https://example.com/posts/2015-05-130_excel-in-service/</link>
+      <pubDate>Sun, 10 May 2015 14:05:49 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-05-130_excel-in-service/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Restore Relationships</title>
+      <link>https://example.com/posts/2015-05-123_restore-relationships/</link>
+      <pubDate>Sun, 03 May 2015 07:31:28 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-05-123_restore-relationships/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Treasure Membership</title>
+      <link>https://example.com/posts/2015-04-116_treasure-membership/</link>
+      <pubDate>Sun, 26 Apr 2015 06:00:19 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-04-116_treasure-membership/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Cycle 3 - Prayer</title>
+      <link>https://example.com/posts/2015-04-109_cycle-3-prayer/</link>
+      <pubDate>Sun, 19 Apr 2015 06:00:35 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-04-109_cycle-3-prayer/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Is Different From Me</title>
+      <link>https://example.com/posts/2015-04-102_is-different-from-me/</link>
+      <pubDate>Sun, 12 Apr 2015 06:00:57 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-04-102_is-different-from-me/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Easter Sunday</title>
+      <link>https://example.com/posts/2015-04-95_easter-sunday/</link>
+      <pubDate>Sun, 05 Apr 2015 06:00:19 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-04-95_easter-sunday/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Good Friday</title>
+      <link>https://example.com/posts/2015-04-93_good-friday/</link>
+      <pubDate>Fri, 03 Apr 2015 06:00:07 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-04-93_good-friday/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Needs You to Take a Risk</title>
+      <link>https://example.com/posts/2015-03-88_needs-you-to-take-a-risk/</link>
+      <pubDate>Sun, 29 Mar 2015 06:00:18 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-03-88_needs-you-to-take-a-risk/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Has Been Robbed</title>
+      <link>https://example.com/posts/2015-03-81_has-been-robbed/</link>
+      <pubDate>Sun, 22 Mar 2015 07:00:32 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-03-81_has-been-robbed/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>On Your Path</title>
+      <link>https://example.com/posts/2015-03-74_on-your-path/</link>
+      <pubDate>Sun, 15 Mar 2015 16:30:40 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-03-74_on-your-path/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Believe</title>
+      <link>https://example.com/posts/2015-03-74_believe/</link>
+      <pubDate>Sun, 15 Mar 2015 07:00:31 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-03-74_believe/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Who Is My Neighbour</title>
+      <link>https://example.com/posts/2015-03-67_who-is-my-neighbour/</link>
+      <pubDate>Sun, 08 Mar 2015 08:33:36 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-03-67_who-is-my-neighbour/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Plus One: Prayer</title>
+      <link>https://example.com/posts/2015-03-60_plus-one-prayer/</link>
+      <pubDate>Sun, 01 Mar 2015 07:00:16 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-03-60_plus-one-prayer/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>One Power</title>
+      <link>https://example.com/posts/2015-02-53_one-power/</link>
+      <pubDate>Sun, 22 Feb 2015 07:00:06 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-02-53_one-power/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>One Prayer</title>
+      <link>https://example.com/posts/2015-02-46_one-prayer/</link>
+      <pubDate>Sun, 15 Feb 2015 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-02-46_one-prayer/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>One Practice</title>
+      <link>https://example.com/posts/2015-02-39_one-practice/</link>
+      <pubDate>Sun, 08 Feb 2015 16:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-02-39_one-practice/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>One Purpose</title>
+      <link>https://example.com/posts/2015-02-32_one-purpose/</link>
+      <pubDate>Sun, 01 Feb 2015 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-02-32_one-purpose/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>One Pursuit</title>
+      <link>https://example.com/posts/2015-01-25_one-pursuit/</link>
+      <pubDate>Sun, 25 Jan 2015 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-01-25_one-pursuit/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>One Person</title>
+      <link>https://example.com/posts/2015-01-18_one-person/</link>
+      <pubDate>Sun, 18 Jan 2015 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-01-18_one-person/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Prayer - Cycle 1</title>
+      <link>https://example.com/posts/2015-01-11_prayer-cycle-1/</link>
+      <pubDate>Sun, 11 Jan 2015 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-01-11_prayer-cycle-1/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>One Thing</title>
+      <link>https://example.com/posts/2015-01-04_one-thing/</link>
+      <pubDate>Sun, 04 Jan 2015 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-01-04_one-thing/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Anton Beukes</title>
+      <link>https://example.com/posts/2014-12-362_anton-beukes/</link>
+      <pubDate>Sun, 28 Dec 2014 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-12-362_anton-beukes/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Christmas Morning</title>
+      <link>https://example.com/posts/2014-12-359_christmas-morning/</link>
+      <pubDate>Thu, 25 Dec 2014 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-12-359_christmas-morning/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Random Gifts</title>
+      <link>https://example.com/posts/2014-12-355_random-gifts/</link>
+      <pubDate>Sun, 21 Dec 2014 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-12-355_random-gifts/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>The Gift of His Mission</title>
+      <link>https://example.com/posts/2014-12-348_the-gift-of-his-mission/</link>
+      <pubDate>Sun, 14 Dec 2014 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-12-348_the-gift-of-his-mission/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>The Gift of His Holy Spirit</title>
+      <link>https://example.com/posts/2014-12-341_the-gift-of-his-holy-spirit/</link>
+      <pubDate>Sun, 07 Dec 2014 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-12-341_the-gift-of-his-holy-spirit/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>The Gift of Spiritual Blessing</title>
+      <link>https://example.com/posts/2014-11-334_the-gift-of-spiritual-blessing/</link>
+      <pubDate>Sun, 30 Nov 2014 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-11-334_the-gift-of-spiritual-blessing/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>The Gift of Wisdom</title>
+      <link>https://example.com/posts/2014-11-327_the-gift-of-wisdom/</link>
+      <pubDate>Sun, 23 Nov 2014 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-11-327_the-gift-of-wisdom/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>The Gift of the Church</title>
+      <link>https://example.com/posts/2014-11-320_the-gift-of-the-church/</link>
+      <pubDate>Sun, 16 Nov 2014 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-11-320_the-gift-of-the-church/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>The Gift of the Commandments</title>
+      <link>https://example.com/posts/2014-11-313_the-gift-of-the-commandments/</link>
+      <pubDate>Sun, 09 Nov 2014 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-11-313_the-gift-of-the-commandments/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>The Gift of Salvation</title>
+      <link>https://example.com/posts/2014-11-306_the-gift-of-salvation/</link>
+      <pubDate>Sun, 02 Nov 2014 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-11-306_the-gift-of-salvation/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Because He is Gracious</title>
+      <link>https://example.com/posts/2014-10-299_because-he-is-gracious/</link>
+      <pubDate>Sun, 26 Oct 2014 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-10-299_because-he-is-gracious/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Because He is Just</title>
+      <link>https://example.com/posts/2014-10-292_because-he-is-just/</link>
+      <pubDate>Sun, 19 Oct 2014 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-10-292_because-he-is-just/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Because He knows best</title>
+      <link>https://example.com/posts/2014-10-285_because-he-knows-best/</link>
+      <pubDate>Sun, 12 Oct 2014 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-10-285_because-he-knows-best/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Because He Can</title>
+      <link>https://example.com/posts/2014-10-278_because-he-can/</link>
+      <pubDate>Sun, 05 Oct 2014 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-10-278_because-he-can/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Because He Is Faithful</title>
+      <link>https://example.com/posts/2014-09-271_because-he-is-faithful/</link>
+      <pubDate>Sun, 28 Sep 2014 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-09-271_because-he-is-faithful/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Because He is Generous</title>
+      <link>https://example.com/posts/2014-09-264_because-he-is-generous/</link>
+      <pubDate>Sun, 21 Sep 2014 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-09-264_because-he-is-generous/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Toss the Teaspoon Pick up a Shovel</title>
+      <link>https://example.com/posts/2014-09-257_toss-the-teaspoon-pick-up-a-shovel/</link>
+      <pubDate>Sun, 14 Sep 2014 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-09-257_toss-the-teaspoon-pick-up-a-shovel/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Problems Failures and Fears</title>
+      <link>https://example.com/posts/2014-09-250_problems-failures-and-fears/</link>
+      <pubDate>Sun, 07 Sep 2014 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-09-250_problems-failures-and-fears/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>The Teaspoon and the Wave</title>
+      <link>https://example.com/posts/2014-08-222_the-teaspoon-and-the-wave/</link>
+      <pubDate>Sun, 10 Aug 2014 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-08-222_the-teaspoon-and-the-wave/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Generosity</title>
+      <link>https://example.com/posts/2014-08-215_generosity/</link>
+      <pubDate>Sun, 03 Aug 2014 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-08-215_generosity/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Honour in the Home</title>
+      <link>https://example.com/posts/2014-07-208_honour-in-the-home/</link>
+      <pubDate>Sun, 27 Jul 2014 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-07-208_honour-in-the-home/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Honour</title>
+      <link>https://example.com/posts/2014-07-201_honour/</link>
+      <pubDate>Sun, 20 Jul 2014 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-07-201_honour/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Zambia Feedback - July 2014</title>
+      <link>https://example.com/posts/2014-07-194_zambia-feedback-july-2014/</link>
+      <pubDate>Sun, 13 Jul 2014 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-07-194_zambia-feedback-july-2014/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Growth</title>
+      <link>https://example.com/posts/2014-07-187_growth/</link>
+      <pubDate>Sun, 06 Jul 2014 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-07-187_growth/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Unfairness</title>
+      <link>https://example.com/posts/2014-06-180_unfairness/</link>
+      <pubDate>Sun, 29 Jun 2014 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-06-180_unfairness/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Submission</title>
+      <link>https://example.com/posts/2014-06-173_submission/</link>
+      <pubDate>Sun, 22 Jun 2014 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-06-173_submission/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Respect</title>
+      <link>https://example.com/posts/2014-06-166_respect/</link>
+      <pubDate>Sun, 15 Jun 2014 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-06-166_respect/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Servanthood</title>
+      <link>https://example.com/posts/2014-06-159_servanthood/</link>
+      <pubDate>Sun, 08 Jun 2014 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-06-159_servanthood/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Dirty Words - Submission and Authority</title>
+      <link>https://example.com/posts/2014-06-152_dirty-words-submission-and-authority/</link>
+      <pubDate>Sun, 01 Jun 2014 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-06-152_dirty-words-submission-and-authority/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Stick With The Plan - Vision...Others Don&#39;t Catch it Easily</title>
+      <link>https://example.com/posts/2014-05-145_stick-with-the-plan-vision...others-dont-catch-it-easily/</link>
+      <pubDate>Sun, 25 May 2014 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-05-145_stick-with-the-plan-vision...others-dont-catch-it-easily/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Stick With The Plan - Vision...Is Entrusted to an Individual</title>
+      <link>https://example.com/posts/2014-05-138_stick-with-the-plan-vision...is-entrusted-to-an-individual/</link>
+      <pubDate>Sun, 18 May 2014 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-05-138_stick-with-the-plan-vision...is-entrusted-to-an-individual/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Stick With The Plan - Vision...Stretches You</title>
+      <link>https://example.com/posts/2014-05-131_stick-with-the-plan-vision...stretches-you/</link>
+      <pubDate>Sun, 11 May 2014 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-05-131_stick-with-the-plan-vision...stretches-you/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>The Power of the Cross</title>
+      <link>https://example.com/posts/2014-05-124_the-power-of-the-cross/</link>
+      <pubDate>Sun, 04 May 2014 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-05-124_the-power-of-the-cross/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Stick With The Plan - Vision...Is An Adventure</title>
+      <link>https://example.com/posts/2014-05-124_stick-with-the-plan-vision...is-an-adventure/</link>
+      <pubDate>Sun, 04 May 2014 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-05-124_stick-with-the-plan-vision...is-an-adventure/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Stick With The Plan - Vision Is God&#39;s</title>
+      <link>https://example.com/posts/2014-04-117_stick-with-the-plan-vision-is-gods/</link>
+      <pubDate>Sun, 27 Apr 2014 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-04-117_stick-with-the-plan-vision-is-gods/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Stick With The Plan: Jesus</title>
+      <link>https://example.com/posts/2014-04-110_stick-with-the-plan-jesus/</link>
+      <pubDate>Sun, 20 Apr 2014 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-04-110_stick-with-the-plan-jesus/</guid>
+      <description>[Download audio.](https://s3.amazonaws.com/highway/sermons/2014_04/20_Stick_With_The_Plan_-_ Jesus.mp3)</description>
+    </item>
+    
+    <item>
+      <title>The Cross Is Love</title>
+      <link>https://example.com/posts/2014-04-108_the-cross-is-love/</link>
+      <pubDate>Fri, 18 Apr 2014 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-04-108_the-cross-is-love/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>What&#39;s Your View?</title>
+      <link>https://example.com/posts/2014-04-103_whats-your-view/</link>
+      <pubDate>Sun, 13 Apr 2014 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-04-103_whats-your-view/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>I&#39;ve Got A Feeling</title>
+      <link>https://example.com/posts/2014-04-96_ive-got-a-feeling/</link>
+      <pubDate>Sun, 06 Apr 2014 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-04-96_ive-got-a-feeling/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>The Law &amp; The Prophets</title>
+      <link>https://example.com/posts/2014-03-89_the-law-the-prophets/</link>
+      <pubDate>Sun, 30 Mar 2014 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-03-89_the-law-the-prophets/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Do You Get The Point?</title>
+      <link>https://example.com/posts/2014-03-82_do-you-get-the-point/</link>
+      <pubDate>Sun, 23 Mar 2014 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-03-82_do-you-get-the-point/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>His Story</title>
+      <link>https://example.com/posts/2014-03-75_his-story/</link>
+      <pubDate>Sun, 16 Mar 2014 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-03-75_his-story/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>One Sided Conversations</title>
+      <link>https://example.com/posts/2014-03-68_one-sided-conversations/</link>
+      <pubDate>Sun, 09 Mar 2014 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-03-68_one-sided-conversations/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>If You Want To Eat Meat You Better Learn How To Chew</title>
+      <link>https://example.com/posts/2014-03-61_if-you-want-to-eat-meat-you-better-learn-how-to-chew/</link>
+      <pubDate>Sun, 02 Mar 2014 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-03-61_if-you-want-to-eat-meat-you-better-learn-how-to-chew/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Fishin&#39; Impossible 7</title>
+      <link>https://example.com/posts/2014-02-54_fishin-impossible-7/</link>
+      <pubDate>Sun, 23 Feb 2014 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-02-54_fishin-impossible-7/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Fishin&#39; Impossible 6</title>
+      <link>https://example.com/posts/2014-02-47_fishin-impossible-6/</link>
+      <pubDate>Sun, 16 Feb 2014 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-02-47_fishin-impossible-6/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Fishin&#39; Impossible 5</title>
+      <link>https://example.com/posts/2014-02-40_fishin-impossible-5/</link>
+      <pubDate>Sun, 09 Feb 2014 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-02-40_fishin-impossible-5/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Fishin&#39; Impossible 4</title>
+      <link>https://example.com/posts/2014-02-33_fishin-impossible-4/</link>
+      <pubDate>Sun, 02 Feb 2014 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-02-33_fishin-impossible-4/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Fishin&#39; Impossible 3</title>
+      <link>https://example.com/posts/2014-01-26_fishin-impossible-3/</link>
+      <pubDate>Sun, 26 Jan 2014 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-01-26_fishin-impossible-3/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Fishin&#39; Impossible 2</title>
+      <link>https://example.com/posts/2014-01-19_fishin-impossible-2/</link>
+      <pubDate>Sun, 19 Jan 2014 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-01-19_fishin-impossible-2/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Fishin&#39; Impossible</title>
+      <link>https://example.com/posts/2014-01-12_fishin-impossible/</link>
+      <pubDate>Sun, 12 Jan 2014 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-01-12_fishin-impossible/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>The Theology Of Sleep</title>
+      <link>https://example.com/posts/2014-01-05_the-theology-of-sleep/</link>
+      <pubDate>Sun, 05 Jan 2014 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-01-05_the-theology-of-sleep/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Don&#39;t Retire Too Soon</title>
+      <link>https://example.com/posts/2013-12-363_dont-retire-too-soon/</link>
+      <pubDate>Sun, 29 Dec 2013 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-12-363_dont-retire-too-soon/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Christmas - A Call To Worship</title>
+      <link>https://example.com/posts/2013-12-356_christmas-a-call-to-worship/</link>
+      <pubDate>Sun, 22 Dec 2013 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-12-356_christmas-a-call-to-worship/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>The 4th Gift</title>
+      <link>https://example.com/posts/2013-12-349_the-4th-gift/</link>
+      <pubDate>Sun, 15 Dec 2013 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-12-349_the-4th-gift/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Madiba: Fear Not</title>
+      <link>https://example.com/posts/2013-12-342_madiba-fear-not/</link>
+      <pubDate>Sun, 08 Dec 2013 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-12-342_madiba-fear-not/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Naughty Or Nice?</title>
+      <link>https://example.com/posts/2013-12-335_naughty-or-nice/</link>
+      <pubDate>Sun, 01 Dec 2013 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-12-335_naughty-or-nice/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Recharging Your Battery</title>
+      <link>https://example.com/posts/2013-11-328_recharging-your-battery/</link>
+      <pubDate>Sun, 24 Nov 2013 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-11-328_recharging-your-battery/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Respect</title>
+      <link>https://example.com/posts/2013-11-321_respect/</link>
+      <pubDate>Sun, 17 Nov 2013 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-11-321_respect/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Generosity</title>
+      <link>https://example.com/posts/2013-11-314_generosity/</link>
+      <pubDate>Sun, 10 Nov 2013 15:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-11-314_generosity/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Passion For The Local Church</title>
+      <link>https://example.com/posts/2013-11-307_passion-for-the-local-church/</link>
+      <pubDate>Sun, 03 Nov 2013 15:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-11-307_passion-for-the-local-church/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Temptation: A Case Study</title>
+      <link>https://example.com/posts/2013-10-300_temptation-a-case-study/</link>
+      <pubDate>Sun, 27 Oct 2013 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-10-300_temptation-a-case-study/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>You Cannot Serve Both God and Money</title>
+      <link>https://example.com/posts/2013-10-293_you-cannot-serve-both-god-and-money/</link>
+      <pubDate>Sun, 20 Oct 2013 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-10-293_you-cannot-serve-both-god-and-money/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Serving</title>
+      <link>https://example.com/posts/2013-10-286_serving/</link>
+      <pubDate>Sun, 13 Oct 2013 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-10-286_serving/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Fan into Flame</title>
+      <link>https://example.com/posts/2013-10-279_fan-into-flame/</link>
+      <pubDate>Sun, 06 Oct 2013 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-10-279_fan-into-flame/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Dealing With The Storms of Life</title>
+      <link>https://example.com/posts/2013-09-272_dealing-with-the-storms-of-life/</link>
+      <pubDate>Sun, 29 Sep 2013 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-09-272_dealing-with-the-storms-of-life/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>We Need The Fire of God</title>
+      <link>https://example.com/posts/2013-09-272_we-need-the-fire-of-god/</link>
+      <pubDate>Sun, 29 Sep 2013 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-09-272_we-need-the-fire-of-god/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Fight To Follow</title>
+      <link>https://example.com/posts/2013-09-265_fight-to-follow/</link>
+      <pubDate>Sun, 22 Sep 2013 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-09-265_fight-to-follow/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Eyes Open To Opportunity</title>
+      <link>https://example.com/posts/2013-09-265_eyes-open-to-opportunity/</link>
+      <pubDate>Sun, 22 Sep 2013 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-09-265_eyes-open-to-opportunity/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>The Importance of Ownership</title>
+      <link>https://example.com/posts/2013-09-258_the-importance-of-ownership/</link>
+      <pubDate>Sun, 15 Sep 2013 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-09-258_the-importance-of-ownership/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>What is Your Mission?</title>
+      <link>https://example.com/posts/2013-09-251_what-is-your-mission/</link>
+      <pubDate>Sun, 08 Sep 2013 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-09-251_what-is-your-mission/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Integrating God&#39;s Word Into My Life</title>
+      <link>https://example.com/posts/2013-09-251_integrating-gods-word-into-my-life/</link>
+      <pubDate>Sun, 08 Sep 2013 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-09-251_integrating-gods-word-into-my-life/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Serve God by Serving Others</title>
+      <link>https://example.com/posts/2013-09-244_serve-god-by-serving-others/</link>
+      <pubDate>Sun, 01 Sep 2013 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-09-244_serve-god-by-serving-others/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Understanding The Meaning of a Text</title>
+      <link>https://example.com/posts/2013-09-244_understanding-the-meaning-of-a-text/</link>
+      <pubDate>Sun, 01 Sep 2013 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-09-244_understanding-the-meaning-of-a-text/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>We Were Created To Become Like Jesus</title>
+      <link>https://example.com/posts/2013-08-237_we-were-created-to-become-like-jesus/</link>
+      <pubDate>Sun, 25 Aug 2013 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-08-237_we-were-created-to-become-like-jesus/</guid>
+      <description>[Download audio.](https://s3.amazonaws.com/highway/sermons/2013_08/26_To_Become Like_Jesus.mp3)</description>
+    </item>
+    
+    <item>
+      <title>Observation</title>
+      <link>https://example.com/posts/2013-08-237_observation/</link>
+      <pubDate>Sun, 25 Aug 2013 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-08-237_observation/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>We&#39;re Here For Fellowship</title>
+      <link>https://example.com/posts/2013-08-230_were-here-for-fellowship/</link>
+      <pubDate>Sun, 18 Aug 2013 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-08-230_were-here-for-fellowship/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Illumination</title>
+      <link>https://example.com/posts/2013-08-230_illumination/</link>
+      <pubDate>Sun, 18 Aug 2013 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-08-230_illumination/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>We&#39;re Here To Worship</title>
+      <link>https://example.com/posts/2013-08-223_were-here-to-worship/</link>
+      <pubDate>Sun, 11 Aug 2013 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-08-223_were-here-to-worship/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>How The Bible Changes Us</title>
+      <link>https://example.com/posts/2013-08-223_how-the-bible-changes-us/</link>
+      <pubDate>Sun, 11 Aug 2013 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-08-223_how-the-bible-changes-us/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>What on Earth Am I Here For? - Week 2</title>
+      <link>https://example.com/posts/2013-08-216_what-on-earth-am-i-here-for-week-2/</link>
+      <pubDate>Sun, 04 Aug 2013 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-08-216_what-on-earth-am-i-here-for-week-2/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Why Can I Trust The Bible?</title>
+      <link>https://example.com/posts/2013-08-216_why-can-i-trust-the-bible/</link>
+      <pubDate>Sun, 04 Aug 2013 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-08-216_why-can-i-trust-the-bible/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>What On Earth Am I Here For?</title>
+      <link>https://example.com/posts/2013-07-209_what-on-earth-am-i-here-for/</link>
+      <pubDate>Sun, 28 Jul 2013 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-07-209_what-on-earth-am-i-here-for/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Building Your Life On The Bible</title>
+      <link>https://example.com/posts/2013-07-209_building-your-life-on-the-bible/</link>
+      <pubDate>Sun, 28 Jul 2013 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-07-209_building-your-life-on-the-bible/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Dry Bones</title>
+      <link>https://example.com/posts/2013-07-202_dry-bones/</link>
+      <pubDate>Sun, 21 Jul 2013 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-07-202_dry-bones/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Hosea</title>
+      <link>https://example.com/posts/2013-07-195_hosea/</link>
+      <pubDate>Sun, 14 Jul 2013 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-07-195_hosea/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>God Looks at the Heart</title>
+      <link>https://example.com/posts/2013-07-188_god-looks-at-the-heart/</link>
+      <pubDate>Sun, 07 Jul 2013 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-07-188_god-looks-at-the-heart/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>End Of The Word</title>
+      <link>https://example.com/posts/2013-06-181_end-of-the-word/</link>
+      <pubDate>Sun, 30 Jun 2013 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-06-181_end-of-the-word/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Journey To Transformation</title>
+      <link>https://example.com/posts/2013-06-181_journey-to-transformation/</link>
+      <pubDate>Sun, 30 Jun 2013 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-06-181_journey-to-transformation/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>God&#39;s Grand Story: Joshua</title>
+      <link>https://example.com/posts/2013-06-174_gods-grand-story-joshua/</link>
+      <pubDate>Sun, 23 Jun 2013 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-06-174_gods-grand-story-joshua/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Being Caught Between The Devil and the Deep Blue Sea</title>
+      <link>https://example.com/posts/2013-06-167_being-caught-between-the-devil-and-the-deep-blue-sea/</link>
+      <pubDate>Sun, 16 Jun 2013 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-06-167_being-caught-between-the-devil-and-the-deep-blue-sea/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Eating God&#39;s Word</title>
+      <link>https://example.com/posts/2013-06-153_eating-gods-word/</link>
+      <pubDate>Sun, 02 Jun 2013 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-06-153_eating-gods-word/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Why We Should Be Baptised In The Holy Spirit</title>
+      <link>https://example.com/posts/2013-05-146_why-we-should-be-baptised-in-the-holy-spirit/</link>
+      <pubDate>Sun, 26 May 2013 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-05-146_why-we-should-be-baptised-in-the-holy-spirit/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Christianity Is About Jesus: Only Jesus</title>
+      <link>https://example.com/posts/2013-05-146_christianity-is-about-jesus-only-jesus/</link>
+      <pubDate>Sun, 26 May 2013 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-05-146_christianity-is-about-jesus-only-jesus/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Acts: Intro (Study Notes: PDF)</title>
+      <link>https://example.com/posts/2013-05-139_acts-intro-study-notes-pdf/</link>
+      <pubDate>Sun, 19 May 2013 15:45:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-05-139_acts-intro-study-notes-pdf/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>I Am the Way the Truth and the Life</title>
+      <link>https://example.com/posts/2013-05-139_i-am-the-way-the-truth-and-the-life/</link>
+      <pubDate>Sun, 19 May 2013 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-05-139_i-am-the-way-the-truth-and-the-life/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Only Jesus Can Perform Miracles</title>
+      <link>https://example.com/posts/2013-05-139_only-jesus-can-perform-miracles/</link>
+      <pubDate>Sun, 19 May 2013 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-05-139_only-jesus-can-perform-miracles/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>I Am The Resurrection And The Life</title>
+      <link>https://example.com/posts/2013-05-132_i-am-the-resurrection-and-the-life/</link>
+      <pubDate>Sun, 12 May 2013 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-05-132_i-am-the-resurrection-and-the-life/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Only Jesus Loves</title>
+      <link>https://example.com/posts/2013-05-132_only-jesus-loves/</link>
+      <pubDate>Sun, 12 May 2013 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-05-132_only-jesus-loves/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>The Worship He Deserves</title>
+      <link>https://example.com/posts/2013-05-125_the-worship-he-deserves/</link>
+      <pubDate>Sun, 05 May 2013 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-05-125_the-worship-he-deserves/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Both And</title>
+      <link>https://example.com/posts/2013-05-125_both-and/</link>
+      <pubDate>Sun, 05 May 2013 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-05-125_both-and/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>I Am The Light Of The World</title>
+      <link>https://example.com/posts/2013-04-118_i-am-the-light-of-the-world/</link>
+      <pubDate>Sun, 28 Apr 2013 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-04-118_i-am-the-light-of-the-world/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Give Me This Mountain</title>
+      <link>https://example.com/posts/2013-04-118_give-me-this-mountain/</link>
+      <pubDate>Sun, 28 Apr 2013 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-04-118_give-me-this-mountain/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>I Am The Bread of Life</title>
+      <link>https://example.com/posts/2013-04-111_i-am-the-bread-of-life/</link>
+      <pubDate>Sun, 21 Apr 2013 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-04-111_i-am-the-bread-of-life/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Only Jesus</title>
+      <link>https://example.com/posts/2013-04-111_only-jesus/</link>
+      <pubDate>Sun, 21 Apr 2013 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-04-111_only-jesus/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Creating A House That&#39;s Hospitable</title>
+      <link>https://example.com/posts/2013-04-104_creating-a-house-thats-hospitable/</link>
+      <pubDate>Sun, 14 Apr 2013 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-04-104_creating-a-house-thats-hospitable/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>By The Right Hand</title>
+      <link>https://example.com/posts/2013-04-104_by-the-right-hand/</link>
+      <pubDate>Sun, 14 Apr 2013 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-04-104_by-the-right-hand/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Wait And Acquire</title>
+      <link>https://example.com/posts/2013-04-97_wait-and-acquire/</link>
+      <pubDate>Sun, 07 Apr 2013 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-04-97_wait-and-acquire/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>The Jesus I Never Knew</title>
+      <link>https://example.com/posts/2013-04-97_the-jesus-i-never-knew/</link>
+      <pubDate>Sun, 07 Apr 2013 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-04-97_the-jesus-i-never-knew/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Life (Part 2)</title>
+      <link>https://example.com/posts/2013-03-90_life-part-2/</link>
+      <pubDate>Sun, 31 Mar 2013 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-03-90_life-part-2/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Life (Part 1)</title>
+      <link>https://example.com/posts/2013-03-88_life-part-1/</link>
+      <pubDate>Fri, 29 Mar 2013 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-03-88_life-part-1/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>D for D</title>
+      <link>https://example.com/posts/2013-03-83_d-for-d/</link>
+      <pubDate>Sun, 24 Mar 2013 15:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-03-83_d-for-d/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Incredible Yet True</title>
+      <link>https://example.com/posts/2013-03-83_incredible-yet-true/</link>
+      <pubDate>Sun, 24 Mar 2013 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-03-83_incredible-yet-true/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>We Are All Witnesses</title>
+      <link>https://example.com/posts/2013-03-76_we-are-all-witnesses/</link>
+      <pubDate>Sun, 17 Mar 2013 15:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-03-76_we-are-all-witnesses/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Friend Of Sinners</title>
+      <link>https://example.com/posts/2013-03-76_friend-of-sinners/</link>
+      <pubDate>Sun, 17 Mar 2013 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-03-76_friend-of-sinners/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Going To The Next Level</title>
+      <link>https://example.com/posts/2013-03-69_going-to-the-next-level/</link>
+      <pubDate>Sun, 10 Mar 2013 15:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-03-69_going-to-the-next-level/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Getting To Know Jesus</title>
+      <link>https://example.com/posts/2013-03-69_getting-to-know-jesus/</link>
+      <pubDate>Sun, 10 Mar 2013 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-03-69_getting-to-know-jesus/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>The Man God Uses</title>
+      <link>https://example.com/posts/2013-03-62_the-man-god-uses/</link>
+      <pubDate>Sun, 03 Mar 2013 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-03-62_the-man-god-uses/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Spiritual Warfare Q&amp;A (part 2)</title>
+      <link>https://example.com/posts/2013-02-55_spiritual-warfare-qa-part-2/</link>
+      <pubDate>Sun, 24 Feb 2013 15:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-02-55_spiritual-warfare-qa-part-2/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>What If We Lived If God&#39;s Ways Were Wiser Than Our Understanding?</title>
+      <link>https://example.com/posts/2013-02-55_what-if-we-lived-if-gods-ways-were-wiser-than-our-understanding/</link>
+      <pubDate>Sun, 24 Feb 2013 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-02-55_what-if-we-lived-if-gods-ways-were-wiser-than-our-understanding/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Spiritual Warfare Q&amp;A (part 1)</title>
+      <link>https://example.com/posts/2013-02-48_spiritual-warfare-qa-part-1/</link>
+      <pubDate>Sun, 17 Feb 2013 15:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-02-48_spiritual-warfare-qa-part-1/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>What if We Lived Like His Name Was Higher?</title>
+      <link>https://example.com/posts/2013-02-48_what-if-we-lived-like-his-name-was-higher/</link>
+      <pubDate>Sun, 17 Feb 2013 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-02-48_what-if-we-lived-like-his-name-was-higher/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Whose Image is on Us?</title>
+      <link>https://example.com/posts/2013-02-41_whose-image-is-on-us/</link>
+      <pubDate>Sun, 10 Feb 2013 15:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-02-41_whose-image-is-on-us/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Zambia Feedback</title>
+      <link>https://example.com/posts/2013-02-41_zambia-feedback/</link>
+      <pubDate>Sun, 10 Feb 2013 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-02-41_zambia-feedback/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>How To Drain Your Dragon</title>
+      <link>https://example.com/posts/2013-02-34_how-to-drain-your-dragon/</link>
+      <pubDate>Sun, 03 Feb 2013 15:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-02-34_how-to-drain-your-dragon/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Life In The Trenches</title>
+      <link>https://example.com/posts/2013-02-34_life-in-the-trenches/</link>
+      <pubDate>Sun, 03 Feb 2013 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-02-34_life-in-the-trenches/</guid>
+      <description>[Download audio.](https://s3.amazonaws.com/highway/sermons/2013_02/03_Life_In_The Trenches.mp3)</description>
+    </item>
+    
+    <item>
+      <title>Acts</title>
+      <link>https://example.com/posts/2013-01-27_acts/</link>
+      <pubDate>Sun, 27 Jan 2013 15:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-01-27_acts/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>What If We Lived As If God&#39;s Love Was Deeper Than Our Hearts Could Fathom?</title>
+      <link>https://example.com/posts/2013-01-27_what-if-we-lived-as-if-gods-love-was-deeper-than-our-hearts-could-fathom/</link>
+      <pubDate>Sun, 27 Jan 2013 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-01-27_what-if-we-lived-as-if-gods-love-was-deeper-than-our-hearts-could-fathom/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>What if We Lived as if God&#39;s Grace was Stronger?</title>
+      <link>https://example.com/posts/2013-01-20_what-if-we-lived-as-if-gods-grace-was-stronger/</link>
+      <pubDate>Sun, 20 Jan 2013 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-01-20_what-if-we-lived-as-if-gods-grace-was-stronger/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Dieting</title>
+      <link>https://example.com/posts/2013-01-13_dieting/</link>
+      <pubDate>Sun, 13 Jan 2013 15:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-01-13_dieting/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Where Do You Like To Camp?</title>
+      <link>https://example.com/posts/2013-01-13_where-do-you-like-to-camp/</link>
+      <pubDate>Sun, 13 Jan 2013 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-01-13_where-do-you-like-to-camp/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Hospitality</title>
+      <link>https://example.com/posts/2013-01-06_hospitality/</link>
+      <pubDate>Sun, 06 Jan 2013 15:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-01-06_hospitality/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Inner Peace</title>
+      <link>https://example.com/posts/2013-01-06_inner-peace/</link>
+      <pubDate>Sun, 06 Jan 2013 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-01-06_inner-peace/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Luke II</title>
+      <link>https://example.com/posts/2012-12-365_luke-ii/</link>
+      <pubDate>Sun, 30 Dec 2012 15:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-12-365_luke-ii/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>What Happens After Christmas?</title>
+      <link>https://example.com/posts/2012-12-365_what-happens-after-christmas/</link>
+      <pubDate>Sun, 30 Dec 2012 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-12-365_what-happens-after-christmas/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>What Did God Do On Christmas?</title>
+      <link>https://example.com/posts/2012-12-360_what-did-god-do-on-christmas/</link>
+      <pubDate>Tue, 25 Dec 2012 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-12-360_what-did-god-do-on-christmas/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>We Have Decaffeinated Christmas</title>
+      <link>https://example.com/posts/2012-12-358_we-have-decaffeinated-christmas/</link>
+      <pubDate>Sun, 23 Dec 2012 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-12-358_we-have-decaffeinated-christmas/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Luke</title>
+      <link>https://example.com/posts/2012-12-351_luke/</link>
+      <pubDate>Sun, 16 Dec 2012 15:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-12-351_luke/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>You Can&#39;t Miss It</title>
+      <link>https://example.com/posts/2012-12-351_you-cant-miss-it/</link>
+      <pubDate>Sun, 16 Dec 2012 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-12-351_you-cant-miss-it/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Hope</title>
+      <link>https://example.com/posts/2012-12-344_hope/</link>
+      <pubDate>Sun, 09 Dec 2012 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-12-344_hope/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Running on Empty: 04</title>
+      <link>https://example.com/posts/2012-12-337_running-on-empty-04/</link>
+      <pubDate>Sun, 02 Dec 2012 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-12-337_running-on-empty-04/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Running on Empty: 03</title>
+      <link>https://example.com/posts/2012-11-330_running-on-empty-03/</link>
+      <pubDate>Sun, 25 Nov 2012 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-11-330_running-on-empty-03/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Matthew</title>
+      <link>https://example.com/posts/2012-11-323_matthew/</link>
+      <pubDate>Sun, 18 Nov 2012 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-11-323_matthew/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Running on Empty: 02</title>
+      <link>https://example.com/posts/2012-11-323_running-on-empty-02/</link>
+      <pubDate>Sun, 18 Nov 2012 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-11-323_running-on-empty-02/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>International Day of Prayer for the Persecuted Church</title>
+      <link>https://example.com/posts/2012-11-316_international-day-of-prayer-for-the-persecuted-church/</link>
+      <pubDate>Sun, 11 Nov 2012 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-11-316_international-day-of-prayer-for-the-persecuted-church/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Malichi</title>
+      <link>https://example.com/posts/2012-11-309_malichi/</link>
+      <pubDate>Sun, 04 Nov 2012 15:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-11-309_malichi/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Running on Empty: 01</title>
+      <link>https://example.com/posts/2012-11-309_running-on-empty-01/</link>
+      <pubDate>Sun, 04 Nov 2012 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-11-309_running-on-empty-01/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Zechariah</title>
+      <link>https://example.com/posts/2012-10-302_zechariah/</link>
+      <pubDate>Sun, 28 Oct 2012 15:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-10-302_zechariah/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Love One Another</title>
+      <link>https://example.com/posts/2012-10-302_love-one-another/</link>
+      <pubDate>Sun, 28 Oct 2012 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-10-302_love-one-another/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Haggai</title>
+      <link>https://example.com/posts/2012-10-295_haggai/</link>
+      <pubDate>Sun, 21 Oct 2012 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-10-295_haggai/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Submission to Jesus</title>
+      <link>https://example.com/posts/2012-10-295_submission-to-jesus/</link>
+      <pubDate>Sun, 21 Oct 2012 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-10-295_submission-to-jesus/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Zephaniah - If God Was Angry With Them</title>
+      <link>https://example.com/posts/2012-10-288_zephaniah-if-god-was-angry-with-them/</link>
+      <pubDate>Sun, 14 Oct 2012 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-10-288_zephaniah-if-god-was-angry-with-them/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Capacity</title>
+      <link>https://example.com/posts/2012-10-288_capacity/</link>
+      <pubDate>Sun, 14 Oct 2012 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-10-288_capacity/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Habakkuk</title>
+      <link>https://example.com/posts/2012-10-281_habakkuk/</link>
+      <pubDate>Sun, 07 Oct 2012 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-10-281_habakkuk/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Extreme Makeover</title>
+      <link>https://example.com/posts/2012-10-281_extreme-makeover/</link>
+      <pubDate>Sun, 07 Oct 2012 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-10-281_extreme-makeover/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Proclamation &amp; Demonstration</title>
+      <link>https://example.com/posts/2012-09-274_proclamation-demonstration/</link>
+      <pubDate>Sun, 30 Sep 2012 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-09-274_proclamation-demonstration/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Redigging The Wells Of Abraham</title>
+      <link>https://example.com/posts/2012-09-274_redigging-the-wells-of-abraham/</link>
+      <pubDate>Sun, 30 Sep 2012 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-09-274_redigging-the-wells-of-abraham/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Jonah</title>
+      <link>https://example.com/posts/2012-09-267_jonah/</link>
+      <pubDate>Sun, 23 Sep 2012 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-09-267_jonah/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>The Process of Discipleship</title>
+      <link>https://example.com/posts/2012-09-267_the-process-of-discipleship/</link>
+      <pubDate>Sun, 23 Sep 2012 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-09-267_the-process-of-discipleship/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>The Story of King Saul</title>
+      <link>https://example.com/posts/2012-09-246_the-story-of-king-saul/</link>
+      <pubDate>Sun, 02 Sep 2012 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-09-246_the-story-of-king-saul/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Justice Ministries</title>
+      <link>https://example.com/posts/2012-09-246_justice-ministries/</link>
+      <pubDate>Sun, 02 Sep 2012 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-09-246_justice-ministries/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Joel</title>
+      <link>https://example.com/posts/2012-08-232_joel/</link>
+      <pubDate>Sun, 19 Aug 2012 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-08-232_joel/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Salvation Belongs to Our God</title>
+      <link>https://example.com/posts/2012-08-232_salvation-belongs-to-our-god/</link>
+      <pubDate>Sun, 19 Aug 2012 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-08-232_salvation-belongs-to-our-god/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Hosea</title>
+      <link>https://example.com/posts/2012-08-225_hosea/</link>
+      <pubDate>Sun, 12 Aug 2012 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-08-225_hosea/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Daniel</title>
+      <link>https://example.com/posts/2012-08-218_daniel/</link>
+      <pubDate>Sun, 05 Aug 2012 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-08-218_daniel/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Is There Anything Jesus Can&#39;t Do?</title>
+      <link>https://example.com/posts/2012-08-218_is-there-anything-jesus-cant-do/</link>
+      <pubDate>Sun, 05 Aug 2012 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-08-218_is-there-anything-jesus-cant-do/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Receivers Rowers and Raisers</title>
+      <link>https://example.com/posts/2012-07-211_receivers-rowers-and-raisers/</link>
+      <pubDate>Sun, 29 Jul 2012 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-07-211_receivers-rowers-and-raisers/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Heart for the House - Miracle Sunday</title>
+      <link>https://example.com/posts/2012-07-211_heart-for-the-house-miracle-sunday/</link>
+      <pubDate>Sun, 29 Jul 2012 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-07-211_heart-for-the-house-miracle-sunday/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Lamentations &amp; Ezekiel</title>
+      <link>https://example.com/posts/2012-07-204_lamentations-ezekiel/</link>
+      <pubDate>Sun, 22 Jul 2012 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-07-204_lamentations-ezekiel/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Sad Mad or Glad (How do We Prepare for an Offering?)</title>
+      <link>https://example.com/posts/2012-07-204_sad-mad-or-glad-how-do-we-prepare-for-an-offering/</link>
+      <pubDate>Sun, 22 Jul 2012 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-07-204_sad-mad-or-glad-how-do-we-prepare-for-an-offering/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Jeremiah</title>
+      <link>https://example.com/posts/2012-07-197_jeremiah/</link>
+      <pubDate>Sun, 15 Jul 2012 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-07-197_jeremiah/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Do We Love the Church?</title>
+      <link>https://example.com/posts/2012-07-197_do-we-love-the-church/</link>
+      <pubDate>Sun, 15 Jul 2012 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-07-197_do-we-love-the-church/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>A Heart for God is a Heart for His House</title>
+      <link>https://example.com/posts/2012-07-190_a-heart-for-god-is-a-heart-for-his-house/</link>
+      <pubDate>Sun, 08 Jul 2012 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-07-190_a-heart-for-god-is-a-heart-for-his-house/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Proverbs</title>
+      <link>https://example.com/posts/2012-06-162_proverbs/</link>
+      <pubDate>Sun, 10 Jun 2012 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-06-162_proverbs/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Practical Outworking</title>
+      <link>https://example.com/posts/2012-06-162_practical-outworking/</link>
+      <pubDate>Sun, 10 Jun 2012 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-06-162_practical-outworking/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Psalms</title>
+      <link>https://example.com/posts/2012-06-155_psalms/</link>
+      <pubDate>Sun, 03 Jun 2012 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-06-155_psalms/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Information Overload</title>
+      <link>https://example.com/posts/2012-06-155_information-overload/</link>
+      <pubDate>Sun, 03 Jun 2012 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-06-155_information-overload/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Why it&#39;s Important to Have Vision</title>
+      <link>https://example.com/posts/2012-05-148_why-its-important-to-have-vision/</link>
+      <pubDate>Sun, 27 May 2012 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-05-148_why-its-important-to-have-vision/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>2 not 4 Conclusion</title>
+      <link>https://example.com/posts/2012-05-141_2-not-4-conclusion/</link>
+      <pubDate>Sun, 20 May 2012 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-05-141_2-not-4-conclusion/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Preparation to End Fast</title>
+      <link>https://example.com/posts/2012-05-141_preparation-to-end-fast/</link>
+      <pubDate>Sun, 20 May 2012 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-05-141_preparation-to-end-fast/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Draw Near to God</title>
+      <link>https://example.com/posts/2012-05-134_draw-near-to-god/</link>
+      <pubDate>Sun, 13 May 2012 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-05-134_draw-near-to-god/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Lessons from Fanny Crosby</title>
+      <link>https://example.com/posts/2012-05-134_lessons-from-fanny-crosby/</link>
+      <pubDate>Sun, 13 May 2012 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-05-134_lessons-from-fanny-crosby/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Esther</title>
+      <link>https://example.com/posts/2012-05-127_esther/</link>
+      <pubDate>Sun, 06 May 2012 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-05-127_esther/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>A Heart That Seeks God</title>
+      <link>https://example.com/posts/2012-05-127_a-heart-that-seeks-god/</link>
+      <pubDate>Sun, 06 May 2012 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-05-127_a-heart-that-seeks-god/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>2 not 4 - Ways to Fast</title>
+      <link>https://example.com/posts/2012-04-120_2-not-4-ways-to-fast/</link>
+      <pubDate>Sun, 29 Apr 2012 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-04-120_2-not-4-ways-to-fast/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>2 not 4 - Launch</title>
+      <link>https://example.com/posts/2012-04-120_2-not-4-launch/</link>
+      <pubDate>Sun, 29 Apr 2012 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-04-120_2-not-4-launch/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Session 3 - Friday Morning 2</title>
+      <link>https://example.com/posts/2012-04-118_session-3-friday-morning-2/</link>
+      <pubDate>Fri, 27 Apr 2012 08:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-04-118_session-3-friday-morning-2/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Session 2 - Friday Morning 1</title>
+      <link>https://example.com/posts/2012-04-118_session-2-friday-morning-1/</link>
+      <pubDate>Fri, 27 Apr 2012 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-04-118_session-2-friday-morning-1/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Session 1 - Thursday Evening</title>
+      <link>https://example.com/posts/2012-04-117_session-1-thursday-evening/</link>
+      <pubDate>Thu, 26 Apr 2012 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-04-117_session-1-thursday-evening/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Moving to the Next Level. Part 2</title>
+      <link>https://example.com/posts/2012-04-113_moving-to-the-next-level.-part-2/</link>
+      <pubDate>Sun, 22 Apr 2012 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-04-113_moving-to-the-next-level.-part-2/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Moving to the Next Level. Part 1</title>
+      <link>https://example.com/posts/2012-04-113_moving-to-the-next-level.-part-1/</link>
+      <pubDate>Sun, 22 Apr 2012 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-04-113_moving-to-the-next-level.-part-1/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>The Kingdom</title>
+      <link>https://example.com/posts/2012-04-112_the-kingdom/</link>
+      <pubDate>Sat, 21 Apr 2012 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-04-112_the-kingdom/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Is the World going to end in 2012? Continued</title>
+      <link>https://example.com/posts/2012-04-106_is-the-world-going-to-end-in-2012-continued/</link>
+      <pubDate>Sun, 15 Apr 2012 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-04-106_is-the-world-going-to-end-in-2012-continued/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Be Jesus to the World</title>
+      <link>https://example.com/posts/2012-04-106_be-jesus-to-the-world/</link>
+      <pubDate>Sun, 15 Apr 2012 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-04-106_be-jesus-to-the-world/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Is the World going to end in 2012?</title>
+      <link>https://example.com/posts/2012-04-99_is-the-world-going-to-end-in-2012/</link>
+      <pubDate>Sun, 08 Apr 2012 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-04-99_is-the-world-going-to-end-in-2012/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Point of the Perplexity</title>
+      <link>https://example.com/posts/2012-04-99_point-of-the-perplexity/</link>
+      <pubDate>Sun, 08 Apr 2012 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-04-99_point-of-the-perplexity/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Purpose in the Pain</title>
+      <link>https://example.com/posts/2012-04-97_purpose-in-the-pain/</link>
+      <pubDate>Fri, 06 Apr 2012 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-04-97_purpose-in-the-pain/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Chronicles</title>
+      <link>https://example.com/posts/2012-04-92_chronicles/</link>
+      <pubDate>Sun, 01 Apr 2012 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-04-92_chronicles/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>2 Kings</title>
+      <link>https://example.com/posts/2012-03-85_2-kings/</link>
+      <pubDate>Sun, 25 Mar 2012 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-03-85_2-kings/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Persistent Prayers</title>
+      <link>https://example.com/posts/2012-03-85_persistent-prayers/</link>
+      <pubDate>Sun, 25 Mar 2012 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-03-85_persistent-prayers/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>1 Kings</title>
+      <link>https://example.com/posts/2012-03-78_1-kings/</link>
+      <pubDate>Sun, 18 Mar 2012 15:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-03-78_1-kings/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>If You Can Tweet You Can Pray</title>
+      <link>https://example.com/posts/2012-03-78_if-you-can-tweet-you-can-pray/</link>
+      <pubDate>Sun, 18 Mar 2012 15:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-03-78_if-you-can-tweet-you-can-pray/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>2 Samuel</title>
+      <link>https://example.com/posts/2012-03-71_2-samuel/</link>
+      <pubDate>Sun, 11 Mar 2012 15:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-03-71_2-samuel/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>The Importance of Breathing</title>
+      <link>https://example.com/posts/2012-03-71_the-importance-of-breathing/</link>
+      <pubDate>Sun, 11 Mar 2012 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-03-71_the-importance-of-breathing/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Samuel</title>
+      <link>https://example.com/posts/2012-03-64_samuel/</link>
+      <pubDate>Sun, 04 Mar 2012 15:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-03-64_samuel/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Is Prayer a Privilege or a Discipline?</title>
+      <link>https://example.com/posts/2012-03-64_is-prayer-a-privilege-or-a-discipline/</link>
+      <pubDate>Sun, 04 Mar 2012 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-03-64_is-prayer-a-privilege-or-a-discipline/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Judges</title>
+      <link>https://example.com/posts/2012-02-57_judges/</link>
+      <pubDate>Sun, 26 Feb 2012 15:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-02-57_judges/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Overcoming Evil With Good</title>
+      <link>https://example.com/posts/2012-02-57_overcoming-evil-with-good/</link>
+      <pubDate>Sun, 26 Feb 2012 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-02-57_overcoming-evil-with-good/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Joshua</title>
+      <link>https://example.com/posts/2012-02-50_joshua/</link>
+      <pubDate>Sun, 19 Feb 2012 15:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-02-50_joshua/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>If You Believe in Jesus What Jesus do You Believe in?</title>
+      <link>https://example.com/posts/2012-02-50_if-you-believe-in-jesus-what-jesus-do-you-believe-in/</link>
+      <pubDate>Sun, 19 Feb 2012 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-02-50_if-you-believe-in-jesus-what-jesus-do-you-believe-in/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Volunteer Appreciation</title>
+      <link>https://example.com/posts/2012-02-43_volunteer-appreciation/</link>
+      <pubDate>Sun, 12 Feb 2012 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-02-43_volunteer-appreciation/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Grapes or Grasshoppers</title>
+      <link>https://example.com/posts/2012-01-29_grapes-or-grasshoppers/</link>
+      <pubDate>Sun, 29 Jan 2012 15:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-01-29_grapes-or-grasshoppers/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Having a Correct View of Self</title>
+      <link>https://example.com/posts/2012-01-29_having-a-correct-view-of-self/</link>
+      <pubDate>Sun, 29 Jan 2012 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-01-29_having-a-correct-view-of-self/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>What the Bible Says about Offerings</title>
+      <link>https://example.com/posts/2012-01-22_what-the-bible-says-about-offerings/</link>
+      <pubDate>Sun, 22 Jan 2012 15:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-01-22_what-the-bible-says-about-offerings/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>How Do We Respond to What God Wants to Give Us?</title>
+      <link>https://example.com/posts/2012-01-22_how-do-we-respond-to-what-god-wants-to-give-us/</link>
+      <pubDate>Sun, 22 Jan 2012 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-01-22_how-do-we-respond-to-what-god-wants-to-give-us/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Why did Jesus come?</title>
+      <link>https://example.com/posts/2012-01-18_why-did-jesus-come/</link>
+      <pubDate>Wed, 18 Jan 2012 17:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-01-18_why-did-jesus-come/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Exodus</title>
+      <link>https://example.com/posts/2012-01-15_exodus/</link>
+      <pubDate>Sun, 15 Jan 2012 15:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-01-15_exodus/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Being Spiritual</title>
+      <link>https://example.com/posts/2012-01-15_being-spiritual/</link>
+      <pubDate>Sun, 15 Jan 2012 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-01-15_being-spiritual/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>He also made the stars</title>
+      <link>https://example.com/posts/2012-01-08_he-also-made-the-stars/</link>
+      <pubDate>Sun, 08 Jan 2012 15:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-01-08_he-also-made-the-stars/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>The Verse that Caused Oprah to Backslide</title>
+      <link>https://example.com/posts/2012-01-08_the-verse-that-caused-oprah-to-backslide/</link>
+      <pubDate>Sun, 08 Jan 2012 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-01-08_the-verse-that-caused-oprah-to-backslide/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Spiritual Exercises</title>
+      <link>https://example.com/posts/2012-01-01_spiritual-exercises/</link>
+      <pubDate>Sun, 01 Jan 2012 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-01-01_spiritual-exercises/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>God&#39;s Timing</title>
+      <link>https://example.com/posts/2011-12-359_gods-timing/</link>
+      <pubDate>Sun, 25 Dec 2011 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2011-12-359_gods-timing/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>How Jesus Revealed Himself</title>
+      <link>https://example.com/posts/2011-12-345_how-jesus-revealed-himself/</link>
+      <pubDate>Sun, 11 Dec 2011 15:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2011-12-345_how-jesus-revealed-himself/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>What are You Waiting for?</title>
+      <link>https://example.com/posts/2011-12-345_what-are-you-waiting-for/</link>
+      <pubDate>Sun, 11 Dec 2011 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2011-12-345_what-are-you-waiting-for/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Revelation Revealed - Third Sermon</title>
+      <link>https://example.com/posts/2011-12-338_revelation-revealed-third-sermon/</link>
+      <pubDate>Sun, 04 Dec 2011 15:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2011-12-338_revelation-revealed-third-sermon/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>The God You Serve Today will Return Your Services at the Point of Your Need</title>
+      <link>https://example.com/posts/2011-12-338_the-god-you-serve-today-will-return-your-services-at-the-point-of-your-need/</link>
+      <pubDate>Sun, 04 Dec 2011 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2011-12-338_the-god-you-serve-today-will-return-your-services-at-the-point-of-your-need/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Revelation Revealed - Second Sermon</title>
+      <link>https://example.com/posts/2011-11-331_revelation-revealed-second-sermon/</link>
+      <pubDate>Sun, 27 Nov 2011 15:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2011-11-331_revelation-revealed-second-sermon/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Capacity of the Good Samaritan</title>
+      <link>https://example.com/posts/2011-11-331_capacity-of-the-good-samaritan/</link>
+      <pubDate>Sun, 27 Nov 2011 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2011-11-331_capacity-of-the-good-samaritan/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Revelation Revealed - First Sermon</title>
+      <link>https://example.com/posts/2011-11-324_revelation-revealed-first-sermon/</link>
+      <pubDate>Sun, 20 Nov 2011 15:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2011-11-324_revelation-revealed-first-sermon/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Endurance</title>
+      <link>https://example.com/posts/2011-11-324_endurance/</link>
+      <pubDate>Sun, 20 Nov 2011 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2011-11-324_endurance/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>HELL? - Sixth Sermon</title>
+      <link>https://example.com/posts/2011-11-317_hell-sixth-sermon/</link>
+      <pubDate>Sun, 13 Nov 2011 15:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2011-11-317_hell-sixth-sermon/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Growing into Grace</title>
+      <link>https://example.com/posts/2011-11-317_growing-into-grace/</link>
+      <pubDate>Sun, 13 Nov 2011 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2011-11-317_growing-into-grace/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>HELL? - Fifth Sermon</title>
+      <link>https://example.com/posts/2011-11-310_hell-fifth-sermon/</link>
+      <pubDate>Sun, 06 Nov 2011 15:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2011-11-310_hell-fifth-sermon/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Human Love</title>
+      <link>https://example.com/posts/2011-11-310_human-love/</link>
+      <pubDate>Sun, 06 Nov 2011 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2011-11-310_human-love/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>HELL? - Fourth Sermon</title>
+      <link>https://example.com/posts/2011-10-303_hell-fourth-sermon/</link>
+      <pubDate>Sun, 30 Oct 2011 15:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2011-10-303_hell-fourth-sermon/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Anyone Hungry?</title>
+      <link>https://example.com/posts/2011-10-303_anyone-hungry/</link>
+      <pubDate>Sun, 30 Oct 2011 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2011-10-303_anyone-hungry/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>HELL? - Third Sermon</title>
+      <link>https://example.com/posts/2011-10-296_hell-third-sermon/</link>
+      <pubDate>Sun, 23 Oct 2011 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2011-10-296_hell-third-sermon/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>The Importance of a Balanced Life</title>
+      <link>https://example.com/posts/2011-10-296_the-importance-of-a-balanced-life/</link>
+      <pubDate>Sun, 23 Oct 2011 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2011-10-296_the-importance-of-a-balanced-life/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>HELL? - Second Sermon</title>
+      <link>https://example.com/posts/2011-10-289_hell-second-sermon/</link>
+      <pubDate>Sun, 16 Oct 2011 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2011-10-289_hell-second-sermon/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>HELL? - First Sermon</title>
+      <link>https://example.com/posts/2011-10-282_hell-first-sermon/</link>
+      <pubDate>Sun, 09 Oct 2011 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2011-10-282_hell-first-sermon/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>God Uses Manure</title>
+      <link>https://example.com/posts/2011-10-282_god-uses-manure/</link>
+      <pubDate>Sun, 09 Oct 2011 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2011-10-282_god-uses-manure/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>I Love Jesus But...I Don&#39;t Want Anyone to Know</title>
+      <link>https://example.com/posts/2011-09-261_i-love-jesus-but...i-dont-want-anyone-to-know/</link>
+      <pubDate>Sun, 18 Sep 2011 16:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2011-09-261_i-love-jesus-but...i-dont-want-anyone-to-know/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>I Love Jesus But...I Don&#39;t Want to Get Involved</title>
+      <link>https://example.com/posts/2011-09-254_i-love-jesus-but...i-dont-want-to-get-involved/</link>
+      <pubDate>Sun, 11 Sep 2011 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2011-09-254_i-love-jesus-but...i-dont-want-to-get-involved/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>I Love Jesus But...I&#39;m Not Sure If I Believe Him</title>
+      <link>https://example.com/posts/2011-09-247_i-love-jesus-but...im-not-sure-if-i-believe-him/</link>
+      <pubDate>Sun, 04 Sep 2011 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2011-09-247_i-love-jesus-but...im-not-sure-if-i-believe-him/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>I Love Jesus But...I&#39;m Not So Sure if He Loves Me</title>
+      <link>https://example.com/posts/2011-08-240_i-love-jesus-but...im-not-so-sure-if-he-loves-me/</link>
+      <pubDate>Sun, 28 Aug 2011 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2011-08-240_i-love-jesus-but...im-not-so-sure-if-he-loves-me/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>I Love Jesus But...I Love Me More</title>
+      <link>https://example.com/posts/2011-08-233_i-love-jesus-but...i-love-me-more/</link>
+      <pubDate>Sun, 21 Aug 2011 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2011-08-233_i-love-jesus-but...i-love-me-more/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>I love Jesus But...Not the Church</title>
+      <link>https://example.com/posts/2011-08-226_i-love-jesus-but...not-the-church/</link>
+      <pubDate>Sun, 14 Aug 2011 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2011-08-226_i-love-jesus-but...not-the-church/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Nothing is too Hard for God</title>
+      <link>https://example.com/posts/2011-08-219_nothing-is-too-hard-for-god/</link>
+      <pubDate>Sun, 07 Aug 2011 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2011-08-219_nothing-is-too-hard-for-god/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Ordinary Men</title>
+      <link>https://example.com/posts/2011-07-212_ordinary-men/</link>
+      <pubDate>Sun, 31 Jul 2011 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2011-07-212_ordinary-men/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Fasting</title>
+      <link>https://example.com/posts/2011-07-205_fasting/</link>
+      <pubDate>Sun, 24 Jul 2011 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2011-07-205_fasting/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Church Growth and Prayer</title>
+      <link>https://example.com/posts/2011-07-198_church-growth-and-prayer/</link>
+      <pubDate>Sun, 17 Jul 2011 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2011-07-198_church-growth-and-prayer/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>To Grow Or Not To Grow</title>
+      <link>https://example.com/posts/2011-07-191_to-grow-or-not-to-grow/</link>
+      <pubDate>Sun, 10 Jul 2011 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2011-07-191_to-grow-or-not-to-grow/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Wait</title>
+      <link>https://example.com/posts/2011-07-184_wait/</link>
+      <pubDate>Sun, 03 Jul 2011 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2011-07-184_wait/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>The Prodigal Son&#39;s Older Brother</title>
+      <link>https://example.com/posts/2011-07-184_the-prodigal-sons-older-brother/</link>
+      <pubDate>Sun, 03 Jul 2011 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2011-07-184_the-prodigal-sons-older-brother/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+  </channel>
+</rss>

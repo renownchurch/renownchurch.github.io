@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>What On Earth Am I Here For? on Some Title</title>
+    <link>https://example.com/series/what-on-earth-am-i-here-for/</link>
+    <description>Recent content in What On Earth Am I Here For? on Some Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Sep 2013 14:30:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/series/what-on-earth-am-i-here-for/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What is Your Mission?</title>
+      <link>https://example.com/posts/2013-09-251_what-is-your-mission/</link>
+      <pubDate>Sun, 08 Sep 2013 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-09-251_what-is-your-mission/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Serve God by Serving Others</title>
+      <link>https://example.com/posts/2013-09-244_serve-god-by-serving-others/</link>
+      <pubDate>Sun, 01 Sep 2013 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-09-244_serve-god-by-serving-others/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>We Were Created To Become Like Jesus</title>
+      <link>https://example.com/posts/2013-08-237_we-were-created-to-become-like-jesus/</link>
+      <pubDate>Sun, 25 Aug 2013 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-08-237_we-were-created-to-become-like-jesus/</guid>
+      <description>[Download audio.](https://s3.amazonaws.com/highway/sermons/2013_08/26_To_Become Like_Jesus.mp3)</description>
+    </item>
+    
+    <item>
+      <title>We&#39;re Here For Fellowship</title>
+      <link>https://example.com/posts/2013-08-230_were-here-for-fellowship/</link>
+      <pubDate>Sun, 18 Aug 2013 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-08-230_were-here-for-fellowship/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>We&#39;re Here To Worship</title>
+      <link>https://example.com/posts/2013-08-223_were-here-to-worship/</link>
+      <pubDate>Sun, 11 Aug 2013 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-08-223_were-here-to-worship/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>What on Earth Am I Here For? - Week 2</title>
+      <link>https://example.com/posts/2013-08-216_what-on-earth-am-i-here-for-week-2/</link>
+      <pubDate>Sun, 04 Aug 2013 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-08-216_what-on-earth-am-i-here-for-week-2/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>What On Earth Am I Here For?</title>
+      <link>https://example.com/posts/2013-07-209_what-on-earth-am-i-here-for/</link>
+      <pubDate>Sun, 28 Jul 2013 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-07-209_what-on-earth-am-i-here-for/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+  </channel>
+</rss>

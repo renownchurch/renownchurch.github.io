@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jeremiah on Some Title</title>
+    <link>https://example.com/books/jeremiah/</link>
+    <description>Recent content in Jeremiah on Some Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 29 May 2016 07:56:11 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/books/jeremiah/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Jeremiah and Lamentations</title>
+      <link>https://example.com/posts/2016-05-150_jeremiah-and-lamentations/</link>
+      <pubDate>Sun, 29 May 2016 07:56:11 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-05-150_jeremiah-and-lamentations/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+  </channel>
+</rss>

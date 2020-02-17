@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>God&#39;s Grand Story on Some Title</title>
+    <link>https://example.com/series/gods-grand-story/</link>
+    <description>Recent content in God&#39;s Grand Story on Some Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 21 Jul 2013 06:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/series/gods-grand-story/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dry Bones</title>
+      <link>https://example.com/posts/2013-07-202_dry-bones/</link>
+      <pubDate>Sun, 21 Jul 2013 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-07-202_dry-bones/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>God&#39;s Grand Story: Joshua</title>
+      <link>https://example.com/posts/2013-06-174_gods-grand-story-joshua/</link>
+      <pubDate>Sun, 23 Jun 2013 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-06-174_gods-grand-story-joshua/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Being Caught Between The Devil and the Deep Blue Sea</title>
+      <link>https://example.com/posts/2013-06-167_being-caught-between-the-devil-and-the-deep-blue-sea/</link>
+      <pubDate>Sun, 16 Jun 2013 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-06-167_being-caught-between-the-devil-and-the-deep-blue-sea/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Eating God&#39;s Word</title>
+      <link>https://example.com/posts/2013-06-153_eating-gods-word/</link>
+      <pubDate>Sun, 02 Jun 2013 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-06-153_eating-gods-word/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+  </channel>
+</rss>

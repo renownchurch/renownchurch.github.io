@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Purple Cycle on Some Title</title>
+    <link>https://example.com/series/purple-cycle/</link>
+    <description>Recent content in Purple Cycle on Some Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Feb 2014 07:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/series/purple-cycle/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fishin&#39; Impossible 7</title>
+      <link>https://example.com/posts/2014-02-54_fishin-impossible-7/</link>
+      <pubDate>Sun, 23 Feb 2014 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-02-54_fishin-impossible-7/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Fishin&#39; Impossible 6</title>
+      <link>https://example.com/posts/2014-02-47_fishin-impossible-6/</link>
+      <pubDate>Sun, 16 Feb 2014 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-02-47_fishin-impossible-6/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Fishin&#39; Impossible 5</title>
+      <link>https://example.com/posts/2014-02-40_fishin-impossible-5/</link>
+      <pubDate>Sun, 09 Feb 2014 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-02-40_fishin-impossible-5/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Fishin&#39; Impossible 4</title>
+      <link>https://example.com/posts/2014-02-33_fishin-impossible-4/</link>
+      <pubDate>Sun, 02 Feb 2014 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-02-33_fishin-impossible-4/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Fishin&#39; Impossible 3</title>
+      <link>https://example.com/posts/2014-01-26_fishin-impossible-3/</link>
+      <pubDate>Sun, 26 Jan 2014 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-01-26_fishin-impossible-3/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Fishin&#39; Impossible 2</title>
+      <link>https://example.com/posts/2014-01-19_fishin-impossible-2/</link>
+      <pubDate>Sun, 19 Jan 2014 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-01-19_fishin-impossible-2/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Fishin&#39; Impossible</title>
+      <link>https://example.com/posts/2014-01-12_fishin-impossible/</link>
+      <pubDate>Sun, 12 Jan 2014 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-01-12_fishin-impossible/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2012 Sermons on Some Title</title>
+    <link>https://example.com/series/2012-sermons/</link>
+    <description>Recent content in 2012 Sermons on Some Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 27 May 2012 06:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/series/2012-sermons/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Why it&#39;s Important to Have Vision</title>
+      <link>https://example.com/posts/2012-05-148_why-its-important-to-have-vision/</link>
+      <pubDate>Sun, 27 May 2012 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-05-148_why-its-important-to-have-vision/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Is the World going to end in 2012? Continued</title>
+      <link>https://example.com/posts/2012-04-106_is-the-world-going-to-end-in-2012-continued/</link>
+      <pubDate>Sun, 15 Apr 2012 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-04-106_is-the-world-going-to-end-in-2012-continued/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Is the World going to end in 2012?</title>
+      <link>https://example.com/posts/2012-04-99_is-the-world-going-to-end-in-2012/</link>
+      <pubDate>Sun, 08 Apr 2012 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-04-99_is-the-world-going-to-end-in-2012/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Point of the Perplexity</title>
+      <link>https://example.com/posts/2012-04-99_point-of-the-perplexity/</link>
+      <pubDate>Sun, 08 Apr 2012 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-04-99_point-of-the-perplexity/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Purpose in the Pain</title>
+      <link>https://example.com/posts/2012-04-97_purpose-in-the-pain/</link>
+      <pubDate>Fri, 06 Apr 2012 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-04-97_purpose-in-the-pain/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Why did Jesus come?</title>
+      <link>https://example.com/posts/2012-01-18_why-did-jesus-come/</link>
+      <pubDate>Wed, 18 Jan 2012 17:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-01-18_why-did-jesus-come/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+  </channel>
+</rss>

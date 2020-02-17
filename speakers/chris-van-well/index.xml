@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chris Van Well on Some Title</title>
+    <link>https://example.com/speakers/chris-van-well/</link>
+    <description>Recent content in Chris Van Well on Some Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Apr 2015 06:00:35 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/speakers/chris-van-well/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cycle 3 - Prayer</title>
+      <link>https://example.com/posts/2015-04-109_cycle-3-prayer/</link>
+      <pubDate>Sun, 19 Apr 2015 06:00:35 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-04-109_cycle-3-prayer/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Respect</title>
+      <link>https://example.com/posts/2013-11-321_respect/</link>
+      <pubDate>Sun, 17 Nov 2013 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-11-321_respect/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Wait And Acquire</title>
+      <link>https://example.com/posts/2013-04-97_wait-and-acquire/</link>
+      <pubDate>Sun, 07 Apr 2013 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-04-97_wait-and-acquire/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Dieting</title>
+      <link>https://example.com/posts/2013-01-13_dieting/</link>
+      <pubDate>Sun, 13 Jan 2013 15:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-01-13_dieting/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Purpose in the Pain</title>
+      <link>https://example.com/posts/2012-04-97_purpose-in-the-pain/</link>
+      <pubDate>Fri, 06 Apr 2012 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-04-97_purpose-in-the-pain/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+  </channel>
+</rss>

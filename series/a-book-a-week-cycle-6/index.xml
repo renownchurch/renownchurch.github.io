@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A Book A Week - Cycle 6 on Some Title</title>
+    <link>https://example.com/series/a-book-a-week-cycle-6/</link>
+    <description>Recent content in A Book A Week - Cycle 6 on Some Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Oct 2012 15:30:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/series/a-book-a-week-cycle-6/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Zechariah</title>
+      <link>https://example.com/posts/2012-10-302_zechariah/</link>
+      <pubDate>Sun, 28 Oct 2012 15:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-10-302_zechariah/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Haggai</title>
+      <link>https://example.com/posts/2012-10-295_haggai/</link>
+      <pubDate>Sun, 21 Oct 2012 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-10-295_haggai/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Zephaniah - If God Was Angry With Them</title>
+      <link>https://example.com/posts/2012-10-288_zephaniah-if-god-was-angry-with-them/</link>
+      <pubDate>Sun, 14 Oct 2012 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-10-288_zephaniah-if-god-was-angry-with-them/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Habakkuk</title>
+      <link>https://example.com/posts/2012-10-281_habakkuk/</link>
+      <pubDate>Sun, 07 Oct 2012 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-10-281_habakkuk/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Jonah</title>
+      <link>https://example.com/posts/2012-09-267_jonah/</link>
+      <pubDate>Sun, 23 Sep 2012 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-09-267_jonah/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+  </channel>
+</rss>

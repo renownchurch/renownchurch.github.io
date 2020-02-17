@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Christmas 2016 on Some Title</title>
+    <link>https://example.com/series/christmas-2016/</link>
+    <description>Recent content in Christmas 2016 on Some Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 18 Dec 2016 09:04:20 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/series/christmas-2016/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>That&#39;s what Mary said</title>
+      <link>https://example.com/posts/2016-12-353_thats-what-mary-said/</link>
+      <pubDate>Sun, 18 Dec 2016 09:04:20 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-12-353_thats-what-mary-said/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>A Child is Born</title>
+      <link>https://example.com/posts/2016-12-346_a-child-is-born/</link>
+      <pubDate>Sun, 11 Dec 2016 08:39:50 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-12-346_a-child-is-born/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2not4 on Some Title</title>
+    <link>https://example.com/series/2not4/</link>
+    <description>Recent content in 2not4 on Some Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 May 2012 14:30:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/series/2not4/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2 not 4 Conclusion</title>
+      <link>https://example.com/posts/2012-05-141_2-not-4-conclusion/</link>
+      <pubDate>Sun, 20 May 2012 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-05-141_2-not-4-conclusion/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Preparation to End Fast</title>
+      <link>https://example.com/posts/2012-05-141_preparation-to-end-fast/</link>
+      <pubDate>Sun, 20 May 2012 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-05-141_preparation-to-end-fast/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>2 not 4 - Ways to Fast</title>
+      <link>https://example.com/posts/2012-04-120_2-not-4-ways-to-fast/</link>
+      <pubDate>Sun, 29 Apr 2012 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-04-120_2-not-4-ways-to-fast/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>2 not 4 - Launch</title>
+      <link>https://example.com/posts/2012-04-120_2-not-4-launch/</link>
+      <pubDate>Sun, 29 Apr 2012 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-04-120_2-not-4-launch/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+  </channel>
+</rss>

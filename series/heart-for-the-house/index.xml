@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Heart for the House on Some Title</title>
+    <link>https://example.com/series/heart-for-the-house/</link>
+    <description>Recent content in Heart for the House on Some Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 29 Jul 2012 14:30:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/series/heart-for-the-house/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Receivers Rowers and Raisers</title>
+      <link>https://example.com/posts/2012-07-211_receivers-rowers-and-raisers/</link>
+      <pubDate>Sun, 29 Jul 2012 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-07-211_receivers-rowers-and-raisers/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Heart for the House - Miracle Sunday</title>
+      <link>https://example.com/posts/2012-07-211_heart-for-the-house-miracle-sunday/</link>
+      <pubDate>Sun, 29 Jul 2012 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-07-211_heart-for-the-house-miracle-sunday/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Sad Mad or Glad (How do We Prepare for an Offering?)</title>
+      <link>https://example.com/posts/2012-07-204_sad-mad-or-glad-how-do-we-prepare-for-an-offering/</link>
+      <pubDate>Sun, 22 Jul 2012 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-07-204_sad-mad-or-glad-how-do-we-prepare-for-an-offering/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Do We Love the Church?</title>
+      <link>https://example.com/posts/2012-07-197_do-we-love-the-church/</link>
+      <pubDate>Sun, 15 Jul 2012 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-07-197_do-we-love-the-church/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>A Heart for God is a Heart for His House</title>
+      <link>https://example.com/posts/2012-07-190_a-heart-for-god-is-a-heart-for-his-house/</link>
+      <pubDate>Sun, 08 Jul 2012 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-07-190_a-heart-for-god-is-a-heart-for-his-house/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+  </channel>
+</rss>

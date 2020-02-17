@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Byron Chicken on Some Title</title>
+    <link>https://example.com/speakers/byron-chicken/</link>
+    <description>Recent content in Byron Chicken on Some Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Jul 2017 07:57:38 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/speakers/byron-chicken/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Book of Mark: Part 1 - Jesus Rewards Expectation</title>
+      <link>https://example.com/posts/2017-07-204_book-of-mark-part-1-jesus-rewards-expectation/</link>
+      <pubDate>Sun, 23 Jul 2017 07:57:38 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2017-07-204_book-of-mark-part-1-jesus-rewards-expectation/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+  </channel>
+</rss>

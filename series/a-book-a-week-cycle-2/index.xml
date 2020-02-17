@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A Book A Week - Cycle 2 on Some Title</title>
+    <link>https://example.com/series/a-book-a-week-cycle-2/</link>
+    <description>Recent content in A Book A Week - Cycle 2 on Some Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Apr 2012 14:30:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/series/a-book-a-week-cycle-2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Chronicles</title>
+      <link>https://example.com/posts/2012-04-92_chronicles/</link>
+      <pubDate>Sun, 01 Apr 2012 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-04-92_chronicles/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>2 Kings</title>
+      <link>https://example.com/posts/2012-03-85_2-kings/</link>
+      <pubDate>Sun, 25 Mar 2012 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-03-85_2-kings/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>1 Kings</title>
+      <link>https://example.com/posts/2012-03-78_1-kings/</link>
+      <pubDate>Sun, 18 Mar 2012 15:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-03-78_1-kings/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>2 Samuel</title>
+      <link>https://example.com/posts/2012-03-71_2-samuel/</link>
+      <pubDate>Sun, 11 Mar 2012 15:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-03-71_2-samuel/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Samuel</title>
+      <link>https://example.com/posts/2012-03-64_samuel/</link>
+      <pubDate>Sun, 04 Mar 2012 15:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-03-64_samuel/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+  </channel>
+</rss>

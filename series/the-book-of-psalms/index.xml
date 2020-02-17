@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Book of Psalms on Some Title</title>
+    <link>https://example.com/series/the-book-of-psalms/</link>
+    <description>Recent content in The Book of Psalms on Some Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Apr 2017 08:04:01 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/series/the-book-of-psalms/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Psalms: Week 7</title>
+      <link>https://example.com/posts/2017-04-99_psalms-week-7/</link>
+      <pubDate>Sun, 09 Apr 2017 08:04:01 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2017-04-99_psalms-week-7/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Psalms: Week 6</title>
+      <link>https://example.com/posts/2017-04-92_psalms-week-6/</link>
+      <pubDate>Sun, 02 Apr 2017 07:54:58 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2017-04-92_psalms-week-6/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Psalms: Week 5</title>
+      <link>https://example.com/posts/2017-03-85_psalms-week-5/</link>
+      <pubDate>Sun, 26 Mar 2017 08:04:20 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2017-03-85_psalms-week-5/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Psalms: Week 4</title>
+      <link>https://example.com/posts/2017-03-82_psalms-week-4/</link>
+      <pubDate>Thu, 23 Mar 2017 06:10:11 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2017-03-82_psalms-week-4/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Psalms: Week 3</title>
+      <link>https://example.com/posts/2017-03-71_psalms-week-3/</link>
+      <pubDate>Sun, 12 Mar 2017 08:40:11 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2017-03-71_psalms-week-3/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Psalms: Week 2</title>
+      <link>https://example.com/posts/2017-03-70_psalms-week-2/</link>
+      <pubDate>Sat, 11 Mar 2017 05:43:19 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2017-03-70_psalms-week-2/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+  </channel>
+</rss>

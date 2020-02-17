@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dean Smith on Some Title</title>
+    <link>https://example.com/series/dean-smith/</link>
+    <description>Recent content in Dean Smith on Some Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Apr 2012 14:30:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/series/dean-smith/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Moving to the Next Level. Part 2</title>
+      <link>https://example.com/posts/2012-04-113_moving-to-the-next-level.-part-2/</link>
+      <pubDate>Sun, 22 Apr 2012 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-04-113_moving-to-the-next-level.-part-2/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Moving to the Next Level. Part 1</title>
+      <link>https://example.com/posts/2012-04-113_moving-to-the-next-level.-part-1/</link>
+      <pubDate>Sun, 22 Apr 2012 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-04-113_moving-to-the-next-level.-part-1/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>The Kingdom</title>
+      <link>https://example.com/posts/2012-04-112_the-kingdom/</link>
+      <pubDate>Sat, 21 Apr 2012 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-04-112_the-kingdom/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+  </channel>
+</rss>

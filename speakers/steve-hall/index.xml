@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Steve Hall on Some Title</title>
+    <link>https://example.com/speakers/steve-hall/</link>
+    <description>Recent content in Steve Hall on Some Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Jul 2012 06:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/speakers/steve-hall/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Heart for God is a Heart for His House</title>
+      <link>https://example.com/posts/2012-07-190_a-heart-for-god-is-a-heart-for-his-house/</link>
+      <pubDate>Sun, 08 Jul 2012 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-07-190_a-heart-for-god-is-a-heart-for-his-house/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Easter on Some Title</title>
+    <link>https://example.com/topics/easter/</link>
+    <description>Recent content in Easter on Some Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Apr 2017 07:27:23 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/topics/easter/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>I Still Haven&#39;t Found What I&#39;m Looking For</title>
+      <link>https://example.com/posts/2017-04-106_i-still-havent-found-what-im-looking-for/</link>
+      <pubDate>Sun, 16 Apr 2017 07:27:23 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2017-04-106_i-still-havent-found-what-im-looking-for/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Good Friday</title>
+      <link>https://example.com/posts/2017-04-104_good-friday/</link>
+      <pubDate>Fri, 14 Apr 2017 17:48:04 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2017-04-104_good-friday/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>The Resurrection and More!</title>
+      <link>https://example.com/posts/2016-03-87_the-resurrection-and-more/</link>
+      <pubDate>Sun, 27 Mar 2016 07:42:36 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-03-87_the-resurrection-and-more/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Journey to Transformation</title>
+      <link>https://example.com/posts/2016-03-86_journey-to-transformation/</link>
+      <pubDate>Sat, 26 Mar 2016 08:23:40 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-03-86_journey-to-transformation/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+  </channel>
+</rss>

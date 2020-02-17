@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Discipleship on Some Title</title>
+    <link>https://example.com/series/discipleship/</link>
+    <description>Recent content in Discipleship on Some Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Oct 2012 07:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/series/discipleship/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Love One Another</title>
+      <link>https://example.com/posts/2012-10-302_love-one-another/</link>
+      <pubDate>Sun, 28 Oct 2012 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-10-302_love-one-another/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Submission to Jesus</title>
+      <link>https://example.com/posts/2012-10-295_submission-to-jesus/</link>
+      <pubDate>Sun, 21 Oct 2012 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-10-295_submission-to-jesus/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Capacity</title>
+      <link>https://example.com/posts/2012-10-288_capacity/</link>
+      <pubDate>Sun, 14 Oct 2012 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-10-288_capacity/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Extreme Makeover</title>
+      <link>https://example.com/posts/2012-10-281_extreme-makeover/</link>
+      <pubDate>Sun, 07 Oct 2012 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-10-281_extreme-makeover/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>The Process of Discipleship</title>
+      <link>https://example.com/posts/2012-09-267_the-process-of-discipleship/</link>
+      <pubDate>Sun, 23 Sep 2012 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-09-267_the-process-of-discipleship/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+  </channel>
+</rss>

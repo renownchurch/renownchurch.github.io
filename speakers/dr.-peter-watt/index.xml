@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dr. Peter Watt on Some Title</title>
+    <link>https://example.com/speakers/dr.-peter-watt/</link>
+    <description>Recent content in Dr. Peter Watt on Some Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Mar 2017 06:10:11 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/speakers/dr.-peter-watt/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Psalms: Week 4</title>
+      <link>https://example.com/posts/2017-03-82_psalms-week-4/</link>
+      <pubDate>Thu, 23 Mar 2017 06:10:11 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2017-03-82_psalms-week-4/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>The Heritage of Mission</title>
+      <link>https://example.com/posts/2016-09-270_the-heritage-of-mission/</link>
+      <pubDate>Mon, 26 Sep 2016 10:36:27 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-09-270_the-heritage-of-mission/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+  </channel>
+</rss>

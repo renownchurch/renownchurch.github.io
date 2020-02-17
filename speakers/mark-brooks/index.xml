@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mark Brooks on Some Title</title>
+    <link>https://example.com/speakers/mark-brooks/</link>
+    <description>Recent content in Mark Brooks on Some Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Jul 2017 08:03:41 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/speakers/mark-brooks/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>We &gt; Me: Part 6 - The Power of the Local Church</title>
+      <link>https://example.com/posts/2017-07-190_we-me-part-6-the-power-of-the-local-church/</link>
+      <pubDate>Sun, 09 Jul 2017 08:03:41 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2017-07-190_we-me-part-6-the-power-of-the-local-church/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Anchor: Week 5</title>
+      <link>https://example.com/posts/2017-05-148_anchor-week-5/</link>
+      <pubDate>Sun, 28 May 2017 06:00:34 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2017-05-148_anchor-week-5/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Psalms: Week 2</title>
+      <link>https://example.com/posts/2017-03-70_psalms-week-2/</link>
+      <pubDate>Sat, 11 Mar 2017 05:43:19 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2017-03-70_psalms-week-2/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>1, 2 &amp; 3 John</title>
+      <link>https://example.com/posts/2016-11-332_1-2-3-john/</link>
+      <pubDate>Sun, 27 Nov 2016 08:35:28 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-11-332_1-2-3-john/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Philemon</title>
+      <link>https://example.com/posts/2016-10-304_philemon/</link>
+      <pubDate>Sun, 30 Oct 2016 08:35:20 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-10-304_philemon/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Acts</title>
+      <link>https://example.com/posts/2016-08-227_acts/</link>
+      <pubDate>Sun, 14 Aug 2016 15:14:33 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-08-227_acts/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Proverbs</title>
+      <link>https://example.com/posts/2016-04-115_proverbs/</link>
+      <pubDate>Sun, 24 Apr 2016 07:37:05 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-04-115_proverbs/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+  </channel>
+</rss>

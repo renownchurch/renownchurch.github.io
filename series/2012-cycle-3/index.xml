@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2012 Cycle 3 on Some Title</title>
+    <link>https://example.com/series/2012-cycle-3/</link>
+    <description>Recent content in 2012 Cycle 3 on Some Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Jun 2012 06:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/series/2012-cycle-3/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Information Overload</title>
+      <link>https://example.com/posts/2012-06-155_information-overload/</link>
+      <pubDate>Sun, 03 Jun 2012 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-06-155_information-overload/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Lessons from Fanny Crosby</title>
+      <link>https://example.com/posts/2012-05-134_lessons-from-fanny-crosby/</link>
+      <pubDate>Sun, 13 May 2012 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-05-134_lessons-from-fanny-crosby/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>A Heart That Seeks God</title>
+      <link>https://example.com/posts/2012-05-127_a-heart-that-seeks-god/</link>
+      <pubDate>Sun, 06 May 2012 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-05-127_a-heart-that-seeks-god/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+  </channel>
+</rss>

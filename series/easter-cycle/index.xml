@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Easter Cycle on Some Title</title>
+    <link>https://example.com/series/easter-cycle/</link>
+    <description>Recent content in Easter Cycle on Some Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Apr 2013 14:30:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/series/easter-cycle/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Creating A House That&#39;s Hospitable</title>
+      <link>https://example.com/posts/2013-04-104_creating-a-house-thats-hospitable/</link>
+      <pubDate>Sun, 14 Apr 2013 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-04-104_creating-a-house-thats-hospitable/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>By The Right Hand</title>
+      <link>https://example.com/posts/2013-04-104_by-the-right-hand/</link>
+      <pubDate>Sun, 14 Apr 2013 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-04-104_by-the-right-hand/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Wait And Acquire</title>
+      <link>https://example.com/posts/2013-04-97_wait-and-acquire/</link>
+      <pubDate>Sun, 07 Apr 2013 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-04-97_wait-and-acquire/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>The Jesus I Never Knew</title>
+      <link>https://example.com/posts/2013-04-97_the-jesus-i-never-knew/</link>
+      <pubDate>Sun, 07 Apr 2013 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-04-97_the-jesus-i-never-knew/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Life (Part 2)</title>
+      <link>https://example.com/posts/2013-03-90_life-part-2/</link>
+      <pubDate>Sun, 31 Mar 2013 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-03-90_life-part-2/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Life (Part 1)</title>
+      <link>https://example.com/posts/2013-03-88_life-part-1/</link>
+      <pubDate>Fri, 29 Mar 2013 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-03-88_life-part-1/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>D for D</title>
+      <link>https://example.com/posts/2013-03-83_d-for-d/</link>
+      <pubDate>Sun, 24 Mar 2013 15:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-03-83_d-for-d/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Incredible Yet True</title>
+      <link>https://example.com/posts/2013-03-83_incredible-yet-true/</link>
+      <pubDate>Sun, 24 Mar 2013 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-03-83_incredible-yet-true/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+  </channel>
+</rss>

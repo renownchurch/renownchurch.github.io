@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brian Helsby on Some Title</title>
+    <link>https://example.com/speakers/brian-helsby/</link>
+    <description>Recent content in Brian Helsby on Some Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 27 Jul 2014 06:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/speakers/brian-helsby/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Honour in the Home</title>
+      <link>https://example.com/posts/2014-07-208_honour-in-the-home/</link>
+      <pubDate>Sun, 27 Jul 2014 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-07-208_honour-in-the-home/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Stick With The Plan: Jesus</title>
+      <link>https://example.com/posts/2014-04-110_stick-with-the-plan-jesus/</link>
+      <pubDate>Sun, 20 Apr 2014 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-04-110_stick-with-the-plan-jesus/</guid>
+      <description>[Download audio.](https://s3.amazonaws.com/highway/sermons/2014_04/20_Stick_With_The_Plan_-_ Jesus.mp3)</description>
+    </item>
+    
+  </channel>
+</rss>

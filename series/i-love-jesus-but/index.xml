@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>I Love Jesus But on Some Title</title>
+    <link>https://example.com/series/i-love-jesus-but/</link>
+    <description>Recent content in I Love Jesus But on Some Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 18 Sep 2011 16:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/series/i-love-jesus-but/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>I Love Jesus But...I Don&#39;t Want Anyone to Know</title>
+      <link>https://example.com/posts/2011-09-261_i-love-jesus-but...i-dont-want-anyone-to-know/</link>
+      <pubDate>Sun, 18 Sep 2011 16:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2011-09-261_i-love-jesus-but...i-dont-want-anyone-to-know/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>I Love Jesus But...I Don&#39;t Want to Get Involved</title>
+      <link>https://example.com/posts/2011-09-254_i-love-jesus-but...i-dont-want-to-get-involved/</link>
+      <pubDate>Sun, 11 Sep 2011 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2011-09-254_i-love-jesus-but...i-dont-want-to-get-involved/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>I Love Jesus But...I&#39;m Not Sure If I Believe Him</title>
+      <link>https://example.com/posts/2011-09-247_i-love-jesus-but...im-not-sure-if-i-believe-him/</link>
+      <pubDate>Sun, 04 Sep 2011 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2011-09-247_i-love-jesus-but...im-not-sure-if-i-believe-him/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>I Love Jesus But...I&#39;m Not So Sure if He Loves Me</title>
+      <link>https://example.com/posts/2011-08-240_i-love-jesus-but...im-not-so-sure-if-he-loves-me/</link>
+      <pubDate>Sun, 28 Aug 2011 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2011-08-240_i-love-jesus-but...im-not-so-sure-if-he-loves-me/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>I Love Jesus But...I Love Me More</title>
+      <link>https://example.com/posts/2011-08-233_i-love-jesus-but...i-love-me-more/</link>
+      <pubDate>Sun, 21 Aug 2011 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2011-08-233_i-love-jesus-but...i-love-me-more/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>I love Jesus But...Not the Church</title>
+      <link>https://example.com/posts/2011-08-226_i-love-jesus-but...not-the-church/</link>
+      <pubDate>Sun, 14 Aug 2011 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2011-08-226_i-love-jesus-but...not-the-church/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+  </channel>
+</rss>

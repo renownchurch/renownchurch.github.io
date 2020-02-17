@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RE: Prayer on Some Title</title>
+    <link>https://example.com/series/re-prayer/</link>
+    <description>Recent content in RE: Prayer on Some Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Mar 2012 06:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/series/re-prayer/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Persistent Prayers</title>
+      <link>https://example.com/posts/2012-03-85_persistent-prayers/</link>
+      <pubDate>Sun, 25 Mar 2012 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-03-85_persistent-prayers/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>If You Can Tweet You Can Pray</title>
+      <link>https://example.com/posts/2012-03-78_if-you-can-tweet-you-can-pray/</link>
+      <pubDate>Sun, 18 Mar 2012 15:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-03-78_if-you-can-tweet-you-can-pray/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>The Importance of Breathing</title>
+      <link>https://example.com/posts/2012-03-71_the-importance-of-breathing/</link>
+      <pubDate>Sun, 11 Mar 2012 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-03-71_the-importance-of-breathing/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Is Prayer a Privilege or a Discipline?</title>
+      <link>https://example.com/posts/2012-03-64_is-prayer-a-privilege-or-a-discipline/</link>
+      <pubDate>Sun, 04 Mar 2012 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-03-64_is-prayer-a-privilege-or-a-discipline/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A Book A Week - Cycle 4 on Some Title</title>
+    <link>https://example.com/series/a-book-a-week-cycle-4/</link>
+    <description>Recent content in A Book A Week - Cycle 4 on Some Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Aug 2012 14:30:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/series/a-book-a-week-cycle-4/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Joel</title>
+      <link>https://example.com/posts/2012-08-232_joel/</link>
+      <pubDate>Sun, 19 Aug 2012 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-08-232_joel/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Hosea</title>
+      <link>https://example.com/posts/2012-08-225_hosea/</link>
+      <pubDate>Sun, 12 Aug 2012 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-08-225_hosea/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Daniel</title>
+      <link>https://example.com/posts/2012-08-218_daniel/</link>
+      <pubDate>Sun, 05 Aug 2012 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-08-218_daniel/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Lamentations &amp; Ezekiel</title>
+      <link>https://example.com/posts/2012-07-204_lamentations-ezekiel/</link>
+      <pubDate>Sun, 22 Jul 2012 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-07-204_lamentations-ezekiel/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Jeremiah</title>
+      <link>https://example.com/posts/2012-07-197_jeremiah/</link>
+      <pubDate>Sun, 15 Jul 2012 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-07-197_jeremiah/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Proverbs</title>
+      <link>https://example.com/posts/2012-06-162_proverbs/</link>
+      <pubDate>Sun, 10 Jun 2012 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-06-162_proverbs/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Speakers on Some Title</title>
+    <link>https://example.com/speakers/</link>
+    <description>Recent content in Speakers on Some Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 30 Jul 2017 08:25:04 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/speakers/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Roger Cloete</title>
+      <link>https://example.com/speakers/roger-cloete/</link>
+      <pubDate>Sun, 30 Jul 2017 08:25:04 +0000</pubDate>
+      
+      <guid>https://example.com/speakers/roger-cloete/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Byron Chicken</title>
+      <link>https://example.com/speakers/byron-chicken/</link>
+      <pubDate>Sun, 23 Jul 2017 07:57:38 +0000</pubDate>
+      
+      <guid>https://example.com/speakers/byron-chicken/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matt Lewis</title>
+      <link>https://example.com/speakers/matt-lewis/</link>
+      <pubDate>Sun, 16 Jul 2017 08:00:44 +0000</pubDate>
+      
+      <guid>https://example.com/speakers/matt-lewis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mark Brooks</title>
+      <link>https://example.com/speakers/mark-brooks/</link>
+      <pubDate>Sun, 09 Jul 2017 08:03:41 +0000</pubDate>
+      
+      <guid>https://example.com/speakers/mark-brooks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Andy Barnard</title>
+      <link>https://example.com/speakers/andy-barnard/</link>
+      <pubDate>Sun, 02 Jul 2017 07:49:20 +0000</pubDate>
+      
+      <guid>https://example.com/speakers/andy-barnard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hein Bruyns</title>
+      <link>https://example.com/speakers/hein-bruyns/</link>
+      <pubDate>Sun, 18 Jun 2017 07:51:25 +0000</pubDate>
+      
+      <guid>https://example.com/speakers/hein-bruyns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anita Giovannoni</title>
+      <link>https://example.com/speakers/anita-giovannoni/</link>
+      <pubDate>Sat, 06 May 2017 16:30:55 +0000</pubDate>
+      
+      <guid>https://example.com/speakers/anita-giovannoni/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ed Ramsami</title>
+      <link>https://example.com/speakers/ed-ramsami/</link>
+      <pubDate>Fri, 14 Apr 2017 17:48:04 +0000</pubDate>
+      
+      <guid>https://example.com/speakers/ed-ramsami/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mark Reeves</title>
+      <link>https://example.com/speakers/mark-reeves/</link>
+      <pubDate>Sun, 26 Mar 2017 08:04:20 +0000</pubDate>
+      
+      <guid>https://example.com/speakers/mark-reeves/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dr. Peter Watt</title>
+      <link>https://example.com/speakers/dr.-peter-watt/</link>
+      <pubDate>Thu, 23 Mar 2017 06:10:11 +0000</pubDate>
+      
+      <guid>https://example.com/speakers/dr.-peter-watt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jim Morkel</title>
+      <link>https://example.com/speakers/jim-morkel/</link>
+      <pubDate>Sat, 08 Oct 2016 07:45:51 +0000</pubDate>
+      
+      <guid>https://example.com/speakers/jim-morkel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Candi Kieser</title>
+      <link>https://example.com/speakers/candi-kieser/</link>
+      <pubDate>Fri, 07 Oct 2016 16:30:20 +0000</pubDate>
+      
+      <guid>https://example.com/speakers/candi-kieser/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cheryl Reeves</title>
+      <link>https://example.com/speakers/cheryl-reeves/</link>
+      <pubDate>Thu, 06 Oct 2016 16:30:16 +0000</pubDate>
+      
+      <guid>https://example.com/speakers/cheryl-reeves/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chris Swart</title>
+      <link>https://example.com/speakers/chris-swart/</link>
+      <pubDate>Sun, 11 Sep 2016 08:27:36 +0000</pubDate>
+      
+      <guid>https://example.com/speakers/chris-swart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nicole Cloete</title>
+      <link>https://example.com/speakers/nicole-cloete/</link>
+      <pubDate>Sun, 07 Aug 2016 07:32:32 +0000</pubDate>
+      
+      <guid>https://example.com/speakers/nicole-cloete/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alison Barnard</title>
+      <link>https://example.com/speakers/alison-barnard/</link>
+      <pubDate>Sun, 01 May 2016 07:23:59 +0000</pubDate>
+      
+      <guid>https://example.com/speakers/alison-barnard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Noel Cromhout</title>
+      <link>https://example.com/speakers/noel-cromhout/</link>
+      <pubDate>Sun, 27 Mar 2016 07:42:36 +0000</pubDate>
+      
+      <guid>https://example.com/speakers/noel-cromhout/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marie Miller</title>
+      <link>https://example.com/speakers/marie-miller/</link>
+      <pubDate>Sun, 14 Feb 2016 10:19:09 +0000</pubDate>
+      
+      <guid>https://example.com/speakers/marie-miller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Johnathon Macris</title>
+      <link>https://example.com/speakers/johnathon-macris/</link>
+      <pubDate>Sun, 07 Feb 2016 08:45:10 +0000</pubDate>
+      
+      <guid>https://example.com/speakers/johnathon-macris/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brad Sadler</title>
+      <link>https://example.com/speakers/brad-sadler/</link>
+      <pubDate>Sun, 01 Nov 2015 09:34:04 +0000</pubDate>
+      
+      <guid>https://example.com/speakers/brad-sadler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chris Van Well</title>
+      <link>https://example.com/speakers/chris-van-well/</link>
+      <pubDate>Sun, 19 Apr 2015 06:00:35 +0000</pubDate>
+      
+      <guid>https://example.com/speakers/chris-van-well/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dr. Bert Watson</title>
+      <link>https://example.com/speakers/dr.-bert-watson/</link>
+      <pubDate>Sun, 05 Apr 2015 06:00:19 +0000</pubDate>
+      
+      <guid>https://example.com/speakers/dr.-bert-watson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniel and Laura Barclay</title>
+      <link>https://example.com/speakers/daniel-and-laura-barclay/</link>
+      <pubDate>Sun, 01 Mar 2015 07:00:16 +0000</pubDate>
+      
+      <guid>https://example.com/speakers/daniel-and-laura-barclay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anton Beukes</title>
+      <link>https://example.com/speakers/anton-beukes/</link>
+      <pubDate>Sun, 28 Dec 2014 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/speakers/anton-beukes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brent Smith</title>
+      <link>https://example.com/speakers/brent-smith/</link>
+      <pubDate>Sun, 03 Aug 2014 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/speakers/brent-smith/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brian Helsby</title>
+      <link>https://example.com/speakers/brian-helsby/</link>
+      <pubDate>Sun, 27 Jul 2014 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/speakers/brian-helsby/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Siphelele Vundla</title>
+      <link>https://example.com/speakers/siphelele-vundla/</link>
+      <pubDate>Sun, 20 Jul 2014 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/speakers/siphelele-vundla/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Various</title>
+      <link>https://example.com/speakers/various/</link>
+      <pubDate>Sun, 13 Jul 2014 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/speakers/various/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tracy Morelli</title>
+      <link>https://example.com/speakers/tracy-morelli/</link>
+      <pubDate>Sun, 06 Jul 2014 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/speakers/tracy-morelli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Donovan Morelli</title>
+      <link>https://example.com/speakers/donovan-morelli/</link>
+      <pubDate>Sun, 22 Jun 2014 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/speakers/donovan-morelli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dean Smith</title>
+      <link>https://example.com/speakers/dean-smith/</link>
+      <pubDate>Sun, 01 Jun 2014 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/speakers/dean-smith/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Henry Van Well</title>
+      <link>https://example.com/speakers/henry-van-well/</link>
+      <pubDate>Sun, 03 Nov 2013 15:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/speakers/henry-van-well/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peter Hidayat</title>
+      <link>https://example.com/speakers/peter-hidayat/</link>
+      <pubDate>Sun, 20 Oct 2013 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/speakers/peter-hidayat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chevonn Hanekom</title>
+      <link>https://example.com/speakers/chevonn-hanekom/</link>
+      <pubDate>Sun, 13 Oct 2013 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/speakers/chevonn-hanekom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Patrick Humberstone</title>
+      <link>https://example.com/speakers/patrick-humberstone/</link>
+      <pubDate>Sun, 29 Sep 2013 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/speakers/patrick-humberstone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>John Sloane</title>
+      <link>https://example.com/speakers/john-sloane/</link>
+      <pubDate>Sun, 28 Apr 2013 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/speakers/john-sloane/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dr. Martin Pohlman</title>
+      <link>https://example.com/speakers/dr.-martin-pohlman/</link>
+      <pubDate>Sun, 24 Mar 2013 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/speakers/dr.-martin-pohlman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dave Musto</title>
+      <link>https://example.com/speakers/dave-musto/</link>
+      <pubDate>Sun, 18 Nov 2012 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/speakers/dave-musto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jim Thurber</title>
+      <link>https://example.com/speakers/jim-thurber/</link>
+      <pubDate>Sun, 02 Sep 2012 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/speakers/jim-thurber/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Colleen Walter</title>
+      <link>https://example.com/speakers/colleen-walter/</link>
+      <pubDate>Sun, 02 Sep 2012 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/speakers/colleen-walter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Donovan Coetzee</title>
+      <link>https://example.com/speakers/donovan-coetzee/</link>
+      <pubDate>Sun, 29 Jul 2012 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/speakers/donovan-coetzee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Steve Hall</title>
+      <link>https://example.com/speakers/steve-hall/</link>
+      <pubDate>Sun, 08 Jul 2012 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/speakers/steve-hall/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Malcolm Baxter</title>
+      <link>https://example.com/speakers/malcolm-baxter/</link>
+      <pubDate>Fri, 27 Apr 2012 08:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/speakers/malcolm-baxter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paul van Coller</title>
+      <link>https://example.com/speakers/paul-van-coller/</link>
+      <pubDate>Sun, 15 Apr 2012 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/speakers/paul-van-coller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Charles Katiyatiya</title>
+      <link>https://example.com/speakers/charles-katiyatiya/</link>
+      <pubDate>Sun, 04 Dec 2011 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/speakers/charles-katiyatiya/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dr. Paul Alexander</title>
+      <link>https://example.com/speakers/dr.-paul-alexander/</link>
+      <pubDate>Sun, 27 Nov 2011 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/speakers/dr.-paul-alexander/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stuart Gordon</title>
+      <link>https://example.com/speakers/stuart-gordon/</link>
+      <pubDate>Sun, 13 Nov 2011 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/speakers/stuart-gordon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Johan Boshoff</title>
+      <link>https://example.com/speakers/johan-boshoff/</link>
+      <pubDate>Sun, 06 Nov 2011 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/speakers/johan-boshoff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sean Phillips</title>
+      <link>https://example.com/speakers/sean-phillips/</link>
+      <pubDate>Sun, 03 Jul 2011 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/speakers/sean-phillips/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

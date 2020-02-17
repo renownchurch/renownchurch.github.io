@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Topics on Some Title</title>
+    <link>https://example.com/topics/</link>
+    <description>Recent content in Topics on Some Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Jul 2017 08:00:44 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/topics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Community</title>
+      <link>https://example.com/topics/community/</link>
+      <pubDate>Sun, 16 Jul 2017 08:00:44 +0000</pubDate>
+      
+      <guid>https://example.com/topics/community/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unity</title>
+      <link>https://example.com/topics/unity/</link>
+      <pubDate>Sat, 10 Jun 2017 08:04:49 +0000</pubDate>
+      
+      <guid>https://example.com/topics/unity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prophecy</title>
+      <link>https://example.com/topics/prophecy/</link>
+      <pubDate>Sat, 06 May 2017 16:30:55 +0000</pubDate>
+      
+      <guid>https://example.com/topics/prophecy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Repentance</title>
+      <link>https://example.com/topics/repentance/</link>
+      <pubDate>Fri, 05 May 2017 16:30:19 +0000</pubDate>
+      
+      <guid>https://example.com/topics/repentance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prayer</title>
+      <link>https://example.com/topics/prayer/</link>
+      <pubDate>Mon, 01 May 2017 07:14:11 +0000</pubDate>
+      
+      <guid>https://example.com/topics/prayer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Easter</title>
+      <link>https://example.com/topics/easter/</link>
+      <pubDate>Sun, 16 Apr 2017 07:27:23 +0000</pubDate>
+      
+      <guid>https://example.com/topics/easter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bible</title>
+      <link>https://example.com/topics/bible/</link>
+      <pubDate>Sun, 12 Mar 2017 08:40:11 +0000</pubDate>
+      
+      <guid>https://example.com/topics/bible/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jesus</title>
+      <link>https://example.com/topics/jesus/</link>
+      <pubDate>Sun, 12 Mar 2017 08:40:11 +0000</pubDate>
+      
+      <guid>https://example.com/topics/jesus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Faith</title>
+      <link>https://example.com/topics/faith/</link>
+      <pubDate>Sun, 26 Feb 2017 17:44:18 +0000</pubDate>
+      
+      <guid>https://example.com/topics/faith/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mission</title>
+      <link>https://example.com/topics/mission/</link>
+      <pubDate>Sun, 12 Feb 2017 08:58:06 +0000</pubDate>
+      
+      <guid>https://example.com/topics/mission/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Witness</title>
+      <link>https://example.com/topics/witness/</link>
+      <pubDate>Sun, 29 Jan 2017 08:45:54 +0000</pubDate>
+      
+      <guid>https://example.com/topics/witness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Baptism</title>
+      <link>https://example.com/topics/baptism/</link>
+      <pubDate>Wed, 04 Jan 2017 05:51:17 +0000</pubDate>
+      
+      <guid>https://example.com/topics/baptism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christmas</title>
+      <link>https://example.com/topics/christmas/</link>
+      <pubDate>Sun, 18 Dec 2016 09:04:20 +0000</pubDate>
+      
+      <guid>https://example.com/topics/christmas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Suffering</title>
+      <link>https://example.com/topics/suffering/</link>
+      <pubDate>Sun, 20 Nov 2016 08:29:24 +0000</pubDate>
+      
+      <guid>https://example.com/topics/suffering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Works</title>
+      <link>https://example.com/topics/works/</link>
+      <pubDate>Sun, 13 Nov 2016 18:05:00 +0000</pubDate>
+      
+      <guid>https://example.com/topics/works/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Friendship</title>
+      <link>https://example.com/topics/friendship/</link>
+      <pubDate>Sun, 30 Oct 2016 08:35:20 +0000</pubDate>
+      
+      <guid>https://example.com/topics/friendship/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intimacy with God</title>
+      <link>https://example.com/topics/intimacy-with-god/</link>
+      <pubDate>Sun, 09 Oct 2016 06:00:08 +0000</pubDate>
+      
+      <guid>https://example.com/topics/intimacy-with-god/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Surrender</title>
+      <link>https://example.com/topics/surrender/</link>
+      <pubDate>Sun, 09 Oct 2016 06:00:08 +0000</pubDate>
+      
+      <guid>https://example.com/topics/surrender/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grace</title>
+      <link>https://example.com/topics/grace/</link>
+      <pubDate>Sat, 08 Oct 2016 07:45:51 +0000</pubDate>
+      
+      <guid>https://example.com/topics/grace/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Service</title>
+      <link>https://example.com/topics/service/</link>
+      <pubDate>Thu, 06 Oct 2016 16:30:16 +0000</pubDate>
+      
+      <guid>https://example.com/topics/service/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Holy Spirit</title>
+      <link>https://example.com/topics/holy-spirit/</link>
+      <pubDate>Mon, 26 Sep 2016 10:36:27 +0000</pubDate>
+      
+      <guid>https://example.com/topics/holy-spirit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Salvation</title>
+      <link>https://example.com/topics/salvation/</link>
+      <pubDate>Sun, 04 Sep 2016 08:13:38 +0000</pubDate>
+      
+      <guid>https://example.com/topics/salvation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Family</title>
+      <link>https://example.com/topics/family/</link>
+      <pubDate>Sun, 21 Aug 2016 07:48:53 +0000</pubDate>
+      
+      <guid>https://example.com/topics/family/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hope</title>
+      <link>https://example.com/topics/hope/</link>
+      <pubDate>Sun, 05 Jun 2016 08:09:01 +0000</pubDate>
+      
+      <guid>https://example.com/topics/hope/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vision</title>
+      <link>https://example.com/topics/vision/</link>
+      <pubDate>Sun, 22 May 2016 08:35:14 +0000</pubDate>
+      
+      <guid>https://example.com/topics/vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Love</title>
+      <link>https://example.com/topics/love/</link>
+      <pubDate>Sun, 08 May 2016 07:56:41 +0000</pubDate>
+      
+      <guid>https://example.com/topics/love/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Depression</title>
+      <link>https://example.com/topics/depression/</link>
+      <pubDate>Sun, 01 May 2016 07:23:59 +0000</pubDate>
+      
+      <guid>https://example.com/topics/depression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wisdom</title>
+      <link>https://example.com/topics/wisdom/</link>
+      <pubDate>Sun, 24 Apr 2016 07:37:05 +0000</pubDate>
+      
+      <guid>https://example.com/topics/wisdom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blessing</title>
+      <link>https://example.com/topics/blessing/</link>
+      <pubDate>Sun, 10 Apr 2016 08:03:00 +0000</pubDate>
+      
+      <guid>https://example.com/topics/blessing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Humility</title>
+      <link>https://example.com/topics/humility/</link>
+      <pubDate>Sun, 03 Apr 2016 07:55:45 +0000</pubDate>
+      
+      <guid>https://example.com/topics/humility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pride</title>
+      <link>https://example.com/topics/pride/</link>
+      <pubDate>Sun, 03 Apr 2016 07:55:45 +0000</pubDate>
+      
+      <guid>https://example.com/topics/pride/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christian Living</title>
+      <link>https://example.com/topics/christian-living/</link>
+      <pubDate>Sat, 26 Mar 2016 08:23:40 +0000</pubDate>
+      
+      <guid>https://example.com/topics/christian-living/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resurrection</title>
+      <link>https://example.com/topics/resurrection/</link>
+      <pubDate>Fri, 25 Mar 2016 16:48:06 +0000</pubDate>
+      
+      <guid>https://example.com/topics/resurrection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leadership</title>
+      <link>https://example.com/topics/leadership/</link>
+      <pubDate>Sun, 08 Nov 2015 16:08:39 +0000</pubDate>
+      
+      <guid>https://example.com/topics/leadership/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discipleship</title>
+      <link>https://example.com/topics/discipleship/</link>
+      <pubDate>Sun, 27 Sep 2015 16:50:29 +0000</pubDate>
+      
+      <guid>https://example.com/topics/discipleship/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

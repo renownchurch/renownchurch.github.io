@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daniel on Some Title</title>
+    <link>https://example.com/books/daniel/</link>
+    <description>Recent content in Daniel on Some Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Jun 2016 14:10:58 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/books/daniel/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Daniel</title>
+      <link>https://example.com/posts/2016-06-171_daniel/</link>
+      <pubDate>Sun, 19 Jun 2016 14:10:58 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-06-171_daniel/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Changing the Atmosphere</title>
+      <link>https://example.com/posts/2016-02-45_changing-the-atmosphere/</link>
+      <pubDate>Sun, 14 Feb 2016 10:19:09 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-02-45_changing-the-atmosphere/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+  </channel>
+</rss>

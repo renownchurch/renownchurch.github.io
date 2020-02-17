@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Herman&#39;s New Tricks on Some Title</title>
+    <link>https://example.com/series/hermans-new-tricks/</link>
+    <description>Recent content in Herman&#39;s New Tricks on Some Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 Apr 2014 06:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/series/hermans-new-tricks/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What&#39;s Your View?</title>
+      <link>https://example.com/posts/2014-04-103_whats-your-view/</link>
+      <pubDate>Sun, 13 Apr 2014 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-04-103_whats-your-view/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>I&#39;ve Got A Feeling</title>
+      <link>https://example.com/posts/2014-04-96_ive-got-a-feeling/</link>
+      <pubDate>Sun, 06 Apr 2014 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-04-96_ive-got-a-feeling/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>The Law &amp; The Prophets</title>
+      <link>https://example.com/posts/2014-03-89_the-law-the-prophets/</link>
+      <pubDate>Sun, 30 Mar 2014 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-03-89_the-law-the-prophets/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Do You Get The Point?</title>
+      <link>https://example.com/posts/2014-03-82_do-you-get-the-point/</link>
+      <pubDate>Sun, 23 Mar 2014 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-03-82_do-you-get-the-point/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>His Story</title>
+      <link>https://example.com/posts/2014-03-75_his-story/</link>
+      <pubDate>Sun, 16 Mar 2014 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-03-75_his-story/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>One Sided Conversations</title>
+      <link>https://example.com/posts/2014-03-68_one-sided-conversations/</link>
+      <pubDate>Sun, 09 Mar 2014 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-03-68_one-sided-conversations/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>If You Want To Eat Meat You Better Learn How To Chew</title>
+      <link>https://example.com/posts/2014-03-61_if-you-want-to-eat-meat-you-better-learn-how-to-chew/</link>
+      <pubDate>Sun, 02 Mar 2014 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-03-61_if-you-want-to-eat-meat-you-better-learn-how-to-chew/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+  </channel>
+</rss>

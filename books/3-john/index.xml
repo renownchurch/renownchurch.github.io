@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 John on Some Title</title>
+    <link>https://example.com/books/3-john/</link>
+    <description>Recent content in 3 John on Some Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 27 Nov 2016 08:35:28 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/books/3-john/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>1, 2 &amp; 3 John</title>
+      <link>https://example.com/posts/2016-11-332_1-2-3-john/</link>
+      <pubDate>Sun, 27 Nov 2016 08:35:28 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-11-332_1-2-3-john/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+  </channel>
+</rss>

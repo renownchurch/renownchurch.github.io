@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The One on Some Title</title>
+    <link>https://example.com/series/the-one/</link>
+    <description>Recent content in The One on Some Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 27 Dec 2015 09:06:41 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/series/the-one/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Receiving Jesus</title>
+      <link>https://example.com/posts/2015-12-361_receiving-jesus/</link>
+      <pubDate>Sun, 27 Dec 2015 09:06:41 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-12-361_receiving-jesus/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Christmas</title>
+      <link>https://example.com/posts/2015-12-359_christmas/</link>
+      <pubDate>Fri, 25 Dec 2015 09:13:16 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-12-359_christmas/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>It&#39;s About Him</title>
+      <link>https://example.com/posts/2015-12-354_its-about-him/</link>
+      <pubDate>Sun, 20 Dec 2015 09:27:45 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-12-354_its-about-him/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>God Is Immutable</title>
+      <link>https://example.com/posts/2015-07-200_god-is-immutable/</link>
+      <pubDate>Sun, 19 Jul 2015 07:47:37 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-07-200_god-is-immutable/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>God is Omnipresent</title>
+      <link>https://example.com/posts/2015-07-186_god-is-omnipresent/</link>
+      <pubDate>Sun, 05 Jul 2015 07:39:31 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-07-186_god-is-omnipresent/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>God is Omniscient</title>
+      <link>https://example.com/posts/2015-06-179_god-is-omniscient/</link>
+      <pubDate>Sun, 28 Jun 2015 08:08:47 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-06-179_god-is-omniscient/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+  </channel>
+</rss>

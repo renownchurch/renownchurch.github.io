@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Renown Conference 2016 | Surrender on Some Title</title>
+    <link>https://example.com/series/renown-conference-2016-surrender/</link>
+    <description>Recent content in Renown Conference 2016 | Surrender on Some Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 Oct 2016 07:45:51 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/series/renown-conference-2016-surrender/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Surrender to Grace</title>
+      <link>https://example.com/posts/2016-10-282_surrender-to-grace/</link>
+      <pubDate>Sat, 08 Oct 2016 07:45:51 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-10-282_surrender-to-grace/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Surrender</title>
+      <link>https://example.com/posts/2016-10-282_surrender/</link>
+      <pubDate>Sat, 08 Oct 2016 06:00:14 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-10-282_surrender/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>The Only One</title>
+      <link>https://example.com/posts/2016-10-281_the-only-one/</link>
+      <pubDate>Fri, 07 Oct 2016 16:30:20 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-10-281_the-only-one/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Preparing a Table</title>
+      <link>https://example.com/posts/2016-10-280_preparing-a-table/</link>
+      <pubDate>Thu, 06 Oct 2016 16:30:16 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-10-280_preparing-a-table/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+  </channel>
+</rss>

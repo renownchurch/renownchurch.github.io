@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2012 Cycle 1 on Some Title</title>
+    <link>https://example.com/series/2012-cycle-1/</link>
+    <description>Recent content in 2012 Cycle 1 on Some Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 Feb 2012 07:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/series/2012-cycle-1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Overcoming Evil With Good</title>
+      <link>https://example.com/posts/2012-02-57_overcoming-evil-with-good/</link>
+      <pubDate>Sun, 26 Feb 2012 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-02-57_overcoming-evil-with-good/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>If You Believe in Jesus What Jesus do You Believe in?</title>
+      <link>https://example.com/posts/2012-02-50_if-you-believe-in-jesus-what-jesus-do-you-believe-in/</link>
+      <pubDate>Sun, 19 Feb 2012 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-02-50_if-you-believe-in-jesus-what-jesus-do-you-believe-in/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Volunteer Appreciation</title>
+      <link>https://example.com/posts/2012-02-43_volunteer-appreciation/</link>
+      <pubDate>Sun, 12 Feb 2012 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-02-43_volunteer-appreciation/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Having a Correct View of Self</title>
+      <link>https://example.com/posts/2012-01-29_having-a-correct-view-of-self/</link>
+      <pubDate>Sun, 29 Jan 2012 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-01-29_having-a-correct-view-of-self/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>How Do We Respond to What God Wants to Give Us?</title>
+      <link>https://example.com/posts/2012-01-22_how-do-we-respond-to-what-god-wants-to-give-us/</link>
+      <pubDate>Sun, 22 Jan 2012 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-01-22_how-do-we-respond-to-what-god-wants-to-give-us/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Being Spiritual</title>
+      <link>https://example.com/posts/2012-01-15_being-spiritual/</link>
+      <pubDate>Sun, 15 Jan 2012 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-01-15_being-spiritual/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+  </channel>
+</rss>

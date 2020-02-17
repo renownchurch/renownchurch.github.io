@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>If This Was My Church on Some Title</title>
+    <link>https://example.com/series/if-this-was-my-church/</link>
+    <description>Recent content in If This Was My Church on Some Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 Nov 2013 07:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/series/if-this-was-my-church/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Respect</title>
+      <link>https://example.com/posts/2013-11-321_respect/</link>
+      <pubDate>Sun, 17 Nov 2013 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-11-321_respect/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Generosity</title>
+      <link>https://example.com/posts/2013-11-314_generosity/</link>
+      <pubDate>Sun, 10 Nov 2013 15:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-11-314_generosity/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Passion For The Local Church</title>
+      <link>https://example.com/posts/2013-11-307_passion-for-the-local-church/</link>
+      <pubDate>Sun, 03 Nov 2013 15:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-11-307_passion-for-the-local-church/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Temptation: A Case Study</title>
+      <link>https://example.com/posts/2013-10-300_temptation-a-case-study/</link>
+      <pubDate>Sun, 27 Oct 2013 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-10-300_temptation-a-case-study/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Serving</title>
+      <link>https://example.com/posts/2013-10-286_serving/</link>
+      <pubDate>Sun, 13 Oct 2013 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-10-286_serving/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Fan into Flame</title>
+      <link>https://example.com/posts/2013-10-279_fan-into-flame/</link>
+      <pubDate>Sun, 06 Oct 2013 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-10-279_fan-into-flame/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>We Need The Fire of God</title>
+      <link>https://example.com/posts/2013-09-272_we-need-the-fire-of-god/</link>
+      <pubDate>Sun, 29 Sep 2013 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-09-272_we-need-the-fire-of-god/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>The Importance of Ownership</title>
+      <link>https://example.com/posts/2013-09-258_the-importance-of-ownership/</link>
+      <pubDate>Sun, 15 Sep 2013 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-09-258_the-importance-of-ownership/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+  </channel>
+</rss>

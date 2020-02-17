@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Titus on Some Title</title>
+    <link>https://example.com/books/titus/</link>
+    <description>Recent content in Titus on Some Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Oct 2016 07:51:24 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/books/titus/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Titus</title>
+      <link>https://example.com/posts/2016-10-297_titus/</link>
+      <pubDate>Sun, 23 Oct 2016 07:51:24 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-10-297_titus/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+  </channel>
+</rss>

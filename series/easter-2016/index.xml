@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Easter 2016 on Some Title</title>
+    <link>https://example.com/series/easter-2016/</link>
+    <description>Recent content in Easter 2016 on Some Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 27 Mar 2016 07:42:36 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/series/easter-2016/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Resurrection and More!</title>
+      <link>https://example.com/posts/2016-03-87_the-resurrection-and-more/</link>
+      <pubDate>Sun, 27 Mar 2016 07:42:36 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-03-87_the-resurrection-and-more/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Journey to Transformation</title>
+      <link>https://example.com/posts/2016-03-86_journey-to-transformation/</link>
+      <pubDate>Sat, 26 Mar 2016 08:23:40 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-03-86_journey-to-transformation/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>The Hour has Come</title>
+      <link>https://example.com/posts/2016-03-85_the-hour-has-come/</link>
+      <pubDate>Fri, 25 Mar 2016 16:48:06 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-03-85_the-hour-has-come/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+  </channel>
+</rss>

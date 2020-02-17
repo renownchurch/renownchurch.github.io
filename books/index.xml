@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Books on Some Title</title>
+    <link>https://example.com/books/</link>
+    <description>Recent content in Books on Some Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 30 Jul 2017 08:25:04 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/books/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mark</title>
+      <link>https://example.com/books/mark/</link>
+      <pubDate>Sun, 30 Jul 2017 08:25:04 +0000</pubDate>
+      
+      <guid>https://example.com/books/mark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matthew</title>
+      <link>https://example.com/books/matthew/</link>
+      <pubDate>Sun, 16 Jul 2017 08:00:44 +0000</pubDate>
+      
+      <guid>https://example.com/books/matthew/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Psalms</title>
+      <link>https://example.com/books/psalms/</link>
+      <pubDate>Sun, 09 Apr 2017 08:04:01 +0000</pubDate>
+      
+      <guid>https://example.com/books/psalms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Acts</title>
+      <link>https://example.com/books/acts/</link>
+      <pubDate>Sun, 19 Feb 2017 09:26:33 +0000</pubDate>
+      
+      <guid>https://example.com/books/acts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revelation</title>
+      <link>https://example.com/books/revelation/</link>
+      <pubDate>Mon, 05 Dec 2016 08:25:34 +0000</pubDate>
+      
+      <guid>https://example.com/books/revelation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1 John</title>
+      <link>https://example.com/books/1-john/</link>
+      <pubDate>Sun, 27 Nov 2016 08:35:28 +0000</pubDate>
+      
+      <guid>https://example.com/books/1-john/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2 John</title>
+      <link>https://example.com/books/2-john/</link>
+      <pubDate>Sun, 27 Nov 2016 08:35:28 +0000</pubDate>
+      
+      <guid>https://example.com/books/2-john/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3 John</title>
+      <link>https://example.com/books/3-john/</link>
+      <pubDate>Sun, 27 Nov 2016 08:35:28 +0000</pubDate>
+      
+      <guid>https://example.com/books/3-john/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1 Peter</title>
+      <link>https://example.com/books/1-peter/</link>
+      <pubDate>Sun, 20 Nov 2016 08:29:24 +0000</pubDate>
+      
+      <guid>https://example.com/books/1-peter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2 Peter</title>
+      <link>https://example.com/books/2-peter/</link>
+      <pubDate>Sun, 20 Nov 2016 08:29:24 +0000</pubDate>
+      
+      <guid>https://example.com/books/2-peter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jude</title>
+      <link>https://example.com/books/jude/</link>
+      <pubDate>Sun, 20 Nov 2016 08:29:24 +0000</pubDate>
+      
+      <guid>https://example.com/books/jude/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>James</title>
+      <link>https://example.com/books/james/</link>
+      <pubDate>Sun, 13 Nov 2016 18:05:00 +0000</pubDate>
+      
+      <guid>https://example.com/books/james/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hebrews</title>
+      <link>https://example.com/books/hebrews/</link>
+      <pubDate>Thu, 10 Nov 2016 05:14:44 +0000</pubDate>
+      
+      <guid>https://example.com/books/hebrews/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Titus</title>
+      <link>https://example.com/books/titus/</link>
+      <pubDate>Sun, 23 Oct 2016 07:51:24 +0000</pubDate>
+      
+      <guid>https://example.com/books/titus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1 Timothy</title>
+      <link>https://example.com/books/1-timothy/</link>
+      <pubDate>Fri, 21 Oct 2016 09:28:02 +0000</pubDate>
+      
+      <guid>https://example.com/books/1-timothy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2 Timothy</title>
+      <link>https://example.com/books/2-timothy/</link>
+      <pubDate>Fri, 21 Oct 2016 09:28:02 +0000</pubDate>
+      
+      <guid>https://example.com/books/2-timothy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1 Thessalonians</title>
+      <link>https://example.com/books/1-thessalonians/</link>
+      <pubDate>Sun, 09 Oct 2016 06:00:08 +0000</pubDate>
+      
+      <guid>https://example.com/books/1-thessalonians/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2 Thessalonians</title>
+      <link>https://example.com/books/2-thessalonians/</link>
+      <pubDate>Sun, 09 Oct 2016 06:00:08 +0000</pubDate>
+      
+      <guid>https://example.com/books/2-thessalonians/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1 Chronicles</title>
+      <link>https://example.com/books/1-chronicles/</link>
+      <pubDate>Thu, 06 Oct 2016 16:30:16 +0000</pubDate>
+      
+      <guid>https://example.com/books/1-chronicles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Colossians</title>
+      <link>https://example.com/books/colossians/</link>
+      <pubDate>Thu, 06 Oct 2016 10:34:00 +0000</pubDate>
+      
+      <guid>https://example.com/books/colossians/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ephesians</title>
+      <link>https://example.com/books/ephesians/</link>
+      <pubDate>Sun, 18 Sep 2016 08:16:53 +0000</pubDate>
+      
+      <guid>https://example.com/books/ephesians/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Philippians</title>
+      <link>https://example.com/books/philippians/</link>
+      <pubDate>Sun, 18 Sep 2016 08:16:53 +0000</pubDate>
+      
+      <guid>https://example.com/books/philippians/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genesis</title>
+      <link>https://example.com/books/genesis/</link>
+      <pubDate>Sun, 11 Sep 2016 08:27:36 +0000</pubDate>
+      
+      <guid>https://example.com/books/genesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Galatians</title>
+      <link>https://example.com/books/galatians/</link>
+      <pubDate>Sun, 04 Sep 2016 08:13:38 +0000</pubDate>
+      
+      <guid>https://example.com/books/galatians/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1 Corinthians</title>
+      <link>https://example.com/books/1-corinthians/</link>
+      <pubDate>Sun, 28 Aug 2016 07:41:09 +0000</pubDate>
+      
+      <guid>https://example.com/books/1-corinthians/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2 Corinthians</title>
+      <link>https://example.com/books/2-corinthians/</link>
+      <pubDate>Sun, 28 Aug 2016 07:41:09 +0000</pubDate>
+      
+      <guid>https://example.com/books/2-corinthians/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Luke</title>
+      <link>https://example.com/books/luke/</link>
+      <pubDate>Sun, 07 Aug 2016 07:32:32 +0000</pubDate>
+      
+      <guid>https://example.com/books/luke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Haggai</title>
+      <link>https://example.com/books/haggai/</link>
+      <pubDate>Sun, 10 Jul 2016 07:39:35 +0000</pubDate>
+      
+      <guid>https://example.com/books/haggai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jonah</title>
+      <link>https://example.com/books/jonah/</link>
+      <pubDate>Sun, 03 Jul 2016 08:20:02 +0000</pubDate>
+      
+      <guid>https://example.com/books/jonah/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joel</title>
+      <link>https://example.com/books/joel/</link>
+      <pubDate>Sun, 26 Jun 2016 08:09:26 +0000</pubDate>
+      
+      <guid>https://example.com/books/joel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hosea</title>
+      <link>https://example.com/books/hosea/</link>
+      <pubDate>Sun, 19 Jun 2016 14:11:31 +0000</pubDate>
+      
+      <guid>https://example.com/books/hosea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniel</title>
+      <link>https://example.com/books/daniel/</link>
+      <pubDate>Sun, 19 Jun 2016 14:10:58 +0000</pubDate>
+      
+      <guid>https://example.com/books/daniel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ezekiel</title>
+      <link>https://example.com/books/ezekiel/</link>
+      <pubDate>Sun, 05 Jun 2016 08:09:01 +0000</pubDate>
+      
+      <guid>https://example.com/books/ezekiel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jeremiah</title>
+      <link>https://example.com/books/jeremiah/</link>
+      <pubDate>Sun, 29 May 2016 07:56:11 +0000</pubDate>
+      
+      <guid>https://example.com/books/jeremiah/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lamentations</title>
+      <link>https://example.com/books/lamentations/</link>
+      <pubDate>Sun, 29 May 2016 07:56:11 +0000</pubDate>
+      
+      <guid>https://example.com/books/lamentations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Isaiah</title>
+      <link>https://example.com/books/isaiah/</link>
+      <pubDate>Sun, 15 May 2016 08:04:07 +0000</pubDate>
+      
+      <guid>https://example.com/books/isaiah/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Song of Solomon</title>
+      <link>https://example.com/books/song-of-solomon/</link>
+      <pubDate>Sun, 08 May 2016 07:56:41 +0000</pubDate>
+      
+      <guid>https://example.com/books/song-of-solomon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ecclesiastes</title>
+      <link>https://example.com/books/ecclesiastes/</link>
+      <pubDate>Sun, 01 May 2016 07:23:59 +0000</pubDate>
+      
+      <guid>https://example.com/books/ecclesiastes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proverbs</title>
+      <link>https://example.com/books/proverbs/</link>
+      <pubDate>Sun, 24 Apr 2016 07:37:05 +0000</pubDate>
+      
+      <guid>https://example.com/books/proverbs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Job</title>
+      <link>https://example.com/books/job/</link>
+      <pubDate>Sun, 10 Apr 2016 08:03:00 +0000</pubDate>
+      
+      <guid>https://example.com/books/job/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Esther</title>
+      <link>https://example.com/books/esther/</link>
+      <pubDate>Sun, 03 Apr 2016 07:55:45 +0000</pubDate>
+      
+      <guid>https://example.com/books/esther/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>John</title>
+      <link>https://example.com/books/john/</link>
+      <pubDate>Fri, 25 Mar 2016 16:48:06 +0000</pubDate>
+      
+      <guid>https://example.com/books/john/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ezra</title>
+      <link>https://example.com/books/ezra/</link>
+      <pubDate>Sun, 20 Mar 2016 09:16:48 +0000</pubDate>
+      
+      <guid>https://example.com/books/ezra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nehemiah</title>
+      <link>https://example.com/books/nehemiah/</link>
+      <pubDate>Sun, 20 Mar 2016 09:16:48 +0000</pubDate>
+      
+      <guid>https://example.com/books/nehemiah/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2 Chronicles</title>
+      <link>https://example.com/books/2-chronicles/</link>
+      <pubDate>Sun, 13 Mar 2016 08:15:44 +0000</pubDate>
+      
+      <guid>https://example.com/books/2-chronicles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1 Kings</title>
+      <link>https://example.com/books/1-kings/</link>
+      <pubDate>Sun, 06 Mar 2016 12:31:22 +0000</pubDate>
+      
+      <guid>https://example.com/books/1-kings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1 Samuel</title>
+      <link>https://example.com/books/1-samuel/</link>
+      <pubDate>Sun, 06 Mar 2016 12:31:22 +0000</pubDate>
+      
+      <guid>https://example.com/books/1-samuel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2 Kings</title>
+      <link>https://example.com/books/2-kings/</link>
+      <pubDate>Sun, 06 Mar 2016 12:31:22 +0000</pubDate>
+      
+      <guid>https://example.com/books/2-kings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2 Samuel</title>
+      <link>https://example.com/books/2-samuel/</link>
+      <pubDate>Sun, 06 Mar 2016 12:31:22 +0000</pubDate>
+      
+      <guid>https://example.com/books/2-samuel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ruth</title>
+      <link>https://example.com/books/ruth/</link>
+      <pubDate>Sun, 28 Feb 2016 08:48:51 +0000</pubDate>
+      
+      <guid>https://example.com/books/ruth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Judges</title>
+      <link>https://example.com/books/judges/</link>
+      <pubDate>Sun, 21 Feb 2016 08:48:40 +0000</pubDate>
+      
+      <guid>https://example.com/books/judges/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joshua</title>
+      <link>https://example.com/books/joshua/</link>
+      <pubDate>Sun, 07 Feb 2016 08:45:10 +0000</pubDate>
+      
+      <guid>https://example.com/books/joshua/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deuteronomy</title>
+      <link>https://example.com/books/deuteronomy/</link>
+      <pubDate>Sun, 31 Jan 2016 09:00:34 +0000</pubDate>
+      
+      <guid>https://example.com/books/deuteronomy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numbers</title>
+      <link>https://example.com/books/numbers/</link>
+      <pubDate>Sun, 24 Jan 2016 08:42:56 +0000</pubDate>
+      
+      <guid>https://example.com/books/numbers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leviticus</title>
+      <link>https://example.com/books/leviticus/</link>
+      <pubDate>Sun, 17 Jan 2016 08:44:14 +0000</pubDate>
+      
+      <guid>https://example.com/books/leviticus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exodus</title>
+      <link>https://example.com/books/exodus/</link>
+      <pubDate>Sun, 10 Jan 2016 08:59:03 +0000</pubDate>
+      
+      <guid>https://example.com/books/exodus/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

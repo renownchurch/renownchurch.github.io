@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Donovan Coetzee on Some Title</title>
+    <link>https://example.com/speakers/donovan-coetzee/</link>
+    <description>Recent content in Donovan Coetzee on Some Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 29 Jul 2012 14:30:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/speakers/donovan-coetzee/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Receivers Rowers and Raisers</title>
+      <link>https://example.com/posts/2012-07-211_receivers-rowers-and-raisers/</link>
+      <pubDate>Sun, 29 Jul 2012 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-07-211_receivers-rowers-and-raisers/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Heart for the House - Miracle Sunday</title>
+      <link>https://example.com/posts/2012-07-211_heart-for-the-house-miracle-sunday/</link>
+      <pubDate>Sun, 29 Jul 2012 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-07-211_heart-for-the-house-miracle-sunday/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+  </channel>
+</rss>

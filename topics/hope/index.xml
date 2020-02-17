@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hope on Some Title</title>
+    <link>https://example.com/topics/hope/</link>
+    <description>Recent content in Hope on Some Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Jun 2016 08:09:01 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/topics/hope/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ezekiel</title>
+      <link>https://example.com/posts/2016-06-157_ezekiel/</link>
+      <pubDate>Sun, 05 Jun 2016 08:09:01 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-06-157_ezekiel/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+  </channel>
+</rss>

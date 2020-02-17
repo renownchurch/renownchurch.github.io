@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Revelation Revealed on Some Title</title>
+    <link>https://example.com/series/revelation-revealed/</link>
+    <description>Recent content in Revelation Revealed on Some Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 04 Dec 2011 15:30:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/series/revelation-revealed/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Revelation Revealed - Third Sermon</title>
+      <link>https://example.com/posts/2011-12-338_revelation-revealed-third-sermon/</link>
+      <pubDate>Sun, 04 Dec 2011 15:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2011-12-338_revelation-revealed-third-sermon/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Revelation Revealed - Second Sermon</title>
+      <link>https://example.com/posts/2011-11-331_revelation-revealed-second-sermon/</link>
+      <pubDate>Sun, 27 Nov 2011 15:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2011-11-331_revelation-revealed-second-sermon/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Revelation Revealed - First Sermon</title>
+      <link>https://example.com/posts/2011-11-324_revelation-revealed-first-sermon/</link>
+      <pubDate>Sun, 20 Nov 2011 15:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2011-11-324_revelation-revealed-first-sermon/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+  </channel>
+</rss>

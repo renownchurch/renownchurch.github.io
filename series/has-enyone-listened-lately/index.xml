@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Has Enyone Listened Lately on Some Title</title>
+    <link>https://example.com/series/has-enyone-listened-lately/</link>
+    <description>Recent content in Has Enyone Listened Lately on Some Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 Nov 2011 15:30:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/series/has-enyone-listened-lately/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>HELL? - Sixth Sermon</title>
+      <link>https://example.com/posts/2011-11-317_hell-sixth-sermon/</link>
+      <pubDate>Sun, 13 Nov 2011 15:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2011-11-317_hell-sixth-sermon/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>HELL? - Fifth Sermon</title>
+      <link>https://example.com/posts/2011-11-310_hell-fifth-sermon/</link>
+      <pubDate>Sun, 06 Nov 2011 15:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2011-11-310_hell-fifth-sermon/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>HELL? - Fourth Sermon</title>
+      <link>https://example.com/posts/2011-10-303_hell-fourth-sermon/</link>
+      <pubDate>Sun, 30 Oct 2011 15:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2011-10-303_hell-fourth-sermon/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>HELL? - Third Sermon</title>
+      <link>https://example.com/posts/2011-10-296_hell-third-sermon/</link>
+      <pubDate>Sun, 23 Oct 2011 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2011-10-296_hell-third-sermon/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>HELL? - Second Sermon</title>
+      <link>https://example.com/posts/2011-10-289_hell-second-sermon/</link>
+      <pubDate>Sun, 16 Oct 2011 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2011-10-289_hell-second-sermon/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>HELL? - First Sermon</title>
+      <link>https://example.com/posts/2011-10-282_hell-first-sermon/</link>
+      <pubDate>Sun, 09 Oct 2011 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2011-10-282_hell-first-sermon/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+  </channel>
+</rss>

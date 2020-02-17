@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sermons on Some Title</title>
+    <link>https://example.com/series/sermons/</link>
+    <description>Recent content in Sermons on Some Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Dec 2014 07:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/series/sermons/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Anton Beukes</title>
+      <link>https://example.com/posts/2014-12-362_anton-beukes/</link>
+      <pubDate>Sun, 28 Dec 2014 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-12-362_anton-beukes/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Christmas Morning</title>
+      <link>https://example.com/posts/2014-12-359_christmas-morning/</link>
+      <pubDate>Thu, 25 Dec 2014 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-12-359_christmas-morning/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Generosity</title>
+      <link>https://example.com/posts/2014-08-215_generosity/</link>
+      <pubDate>Sun, 03 Aug 2014 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-08-215_generosity/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>International Day of Prayer for the Persecuted Church</title>
+      <link>https://example.com/posts/2012-11-316_international-day-of-prayer-for-the-persecuted-church/</link>
+      <pubDate>Sun, 11 Nov 2012 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-11-316_international-day-of-prayer-for-the-persecuted-church/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+  </channel>
+</rss>

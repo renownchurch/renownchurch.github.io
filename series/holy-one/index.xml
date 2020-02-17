@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Holy One on Some Title</title>
+    <link>https://example.com/series/holy-one/</link>
+    <description>Recent content in Holy One on Some Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 Dec 2015 17:09:30 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/series/holy-one/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>God&#39;s Mission</title>
+      <link>https://example.com/posts/2015-12-347_gods-mission/</link>
+      <pubDate>Sun, 13 Dec 2015 17:09:30 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-12-347_gods-mission/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Women</title>
+      <link>https://example.com/posts/2015-12-340_women/</link>
+      <pubDate>Sun, 06 Dec 2015 08:59:02 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-12-340_women/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Grace and Law</title>
+      <link>https://example.com/posts/2015-11-326_grace-and-law/</link>
+      <pubDate>Sun, 22 Nov 2015 16:19:06 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-11-326_grace-and-law/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>God as Father</title>
+      <link>https://example.com/posts/2015-11-319_god-as-father/</link>
+      <pubDate>Sun, 15 Nov 2015 09:29:56 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-11-319_god-as-father/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Servant Leadership</title>
+      <link>https://example.com/posts/2015-11-312_servant-leadership/</link>
+      <pubDate>Sun, 08 Nov 2015 16:08:39 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-11-312_servant-leadership/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Patrick Humberstone on Some Title</title>
+    <link>https://example.com/speakers/patrick-humberstone/</link>
+    <description>Recent content in Patrick Humberstone on Some Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 29 Sep 2013 14:30:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/speakers/patrick-humberstone/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dealing With The Storms of Life</title>
+      <link>https://example.com/posts/2013-09-272_dealing-with-the-storms-of-life/</link>
+      <pubDate>Sun, 29 Sep 2013 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-09-272_dealing-with-the-storms-of-life/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>We Need The Fire of God</title>
+      <link>https://example.com/posts/2013-09-272_we-need-the-fire-of-god/</link>
+      <pubDate>Sun, 29 Sep 2013 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-09-272_we-need-the-fire-of-god/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+  </channel>
+</rss>

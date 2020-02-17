@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Better To Give on Some Title</title>
+    <link>https://example.com/series/better-to-give/</link>
+    <description>Recent content in Better To Give on Some Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 21 Dec 2014 07:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/series/better-to-give/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Random Gifts</title>
+      <link>https://example.com/posts/2014-12-355_random-gifts/</link>
+      <pubDate>Sun, 21 Dec 2014 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-12-355_random-gifts/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>The Gift of His Mission</title>
+      <link>https://example.com/posts/2014-12-348_the-gift-of-his-mission/</link>
+      <pubDate>Sun, 14 Dec 2014 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-12-348_the-gift-of-his-mission/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>The Gift of His Holy Spirit</title>
+      <link>https://example.com/posts/2014-12-341_the-gift-of-his-holy-spirit/</link>
+      <pubDate>Sun, 07 Dec 2014 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-12-341_the-gift-of-his-holy-spirit/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>The Gift of Spiritual Blessing</title>
+      <link>https://example.com/posts/2014-11-334_the-gift-of-spiritual-blessing/</link>
+      <pubDate>Sun, 30 Nov 2014 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-11-334_the-gift-of-spiritual-blessing/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>The Gift of Wisdom</title>
+      <link>https://example.com/posts/2014-11-327_the-gift-of-wisdom/</link>
+      <pubDate>Sun, 23 Nov 2014 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-11-327_the-gift-of-wisdom/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>The Gift of the Church</title>
+      <link>https://example.com/posts/2014-11-320_the-gift-of-the-church/</link>
+      <pubDate>Sun, 16 Nov 2014 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-11-320_the-gift-of-the-church/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>The Gift of the Commandments</title>
+      <link>https://example.com/posts/2014-11-313_the-gift-of-the-commandments/</link>
+      <pubDate>Sun, 09 Nov 2014 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-11-313_the-gift-of-the-commandments/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>The Gift of Salvation</title>
+      <link>https://example.com/posts/2014-11-306_the-gift-of-salvation/</link>
+      <pubDate>Sun, 02 Nov 2014 07:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2014-11-306_the-gift-of-salvation/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+  </channel>
+</rss>

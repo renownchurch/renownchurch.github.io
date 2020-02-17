@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chris Swart on Some Title</title>
+    <link>https://example.com/speakers/chris-swart/</link>
+    <description>Recent content in Chris Swart on Some Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Sep 2016 08:27:36 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/speakers/chris-swart/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>In Spite Of</title>
+      <link>https://example.com/posts/2016-09-255_in-spite-of/</link>
+      <pubDate>Sun, 11 Sep 2016 08:27:36 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-09-255_in-spite-of/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Fight To Follow</title>
+      <link>https://example.com/posts/2013-09-265_fight-to-follow/</link>
+      <pubDate>Sun, 22 Sep 2013 14:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-09-265_fight-to-follow/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Eyes Open To Opportunity</title>
+      <link>https://example.com/posts/2013-09-265_eyes-open-to-opportunity/</link>
+      <pubDate>Sun, 22 Sep 2013 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2013-09-265_eyes-open-to-opportunity/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+  </channel>
+</rss>

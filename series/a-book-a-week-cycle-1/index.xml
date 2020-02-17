@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A Book A Week - Cycle 1 on Some Title</title>
+    <link>https://example.com/series/a-book-a-week-cycle-1/</link>
+    <description>Recent content in A Book A Week - Cycle 1 on Some Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 Feb 2012 15:30:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/series/a-book-a-week-cycle-1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Judges</title>
+      <link>https://example.com/posts/2012-02-57_judges/</link>
+      <pubDate>Sun, 26 Feb 2012 15:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-02-57_judges/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Joshua</title>
+      <link>https://example.com/posts/2012-02-50_joshua/</link>
+      <pubDate>Sun, 19 Feb 2012 15:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-02-50_joshua/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Grapes or Grasshoppers</title>
+      <link>https://example.com/posts/2012-01-29_grapes-or-grasshoppers/</link>
+      <pubDate>Sun, 29 Jan 2012 15:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-01-29_grapes-or-grasshoppers/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>What the Bible Says about Offerings</title>
+      <link>https://example.com/posts/2012-01-22_what-the-bible-says-about-offerings/</link>
+      <pubDate>Sun, 22 Jan 2012 15:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-01-22_what-the-bible-says-about-offerings/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Exodus</title>
+      <link>https://example.com/posts/2012-01-15_exodus/</link>
+      <pubDate>Sun, 15 Jan 2012 15:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-01-15_exodus/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>He also made the stars</title>
+      <link>https://example.com/posts/2012-01-08_he-also-made-the-stars/</link>
+      <pubDate>Sun, 08 Jan 2012 15:30:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2012-01-08_he-also-made-the-stars/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+  </channel>
+</rss>

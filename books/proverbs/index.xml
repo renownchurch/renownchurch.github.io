@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Proverbs on Some Title</title>
+    <link>https://example.com/books/proverbs/</link>
+    <description>Recent content in Proverbs on Some Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Apr 2016 07:37:05 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/books/proverbs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Proverbs</title>
+      <link>https://example.com/posts/2016-04-115_proverbs/</link>
+      <pubDate>Sun, 24 Apr 2016 07:37:05 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-04-115_proverbs/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+  </channel>
+</rss>

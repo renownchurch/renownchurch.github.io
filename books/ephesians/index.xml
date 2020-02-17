@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ephesians on Some Title</title>
+    <link>https://example.com/books/ephesians/</link>
+    <description>Recent content in Ephesians on Some Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 18 Sep 2016 08:16:53 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/books/ephesians/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ephesians</title>
+      <link>https://example.com/posts/2016-09-262_ephesians/</link>
+      <pubDate>Sun, 18 Sep 2016 08:16:53 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-09-262_ephesians/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>In Spite Of</title>
+      <link>https://example.com/posts/2016-09-255_in-spite-of/</link>
+      <pubDate>Sun, 11 Sep 2016 08:27:36 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-09-255_in-spite-of/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>The Hour has Come</title>
+      <link>https://example.com/posts/2016-03-85_the-hour-has-come/</link>
+      <pubDate>Fri, 25 Mar 2016 16:48:06 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-03-85_the-hour-has-come/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Book of Mark on Some Title</title>
+    <link>https://example.com/series/the-book-of-mark/</link>
+    <description>Recent content in The Book of Mark on Some Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 30 Jul 2017 08:25:04 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/series/the-book-of-mark/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Go: Part 2</title>
+      <link>https://example.com/posts/2017-07-211_go-part-2/</link>
+      <pubDate>Sun, 30 Jul 2017 08:25:04 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2017-07-211_go-part-2/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+    <item>
+      <title>Book of Mark: Part 1 - Jesus Rewards Expectation</title>
+      <link>https://example.com/posts/2017-07-204_book-of-mark-part-1-jesus-rewards-expectation/</link>
+      <pubDate>Sun, 23 Jul 2017 07:57:38 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2017-07-204_book-of-mark-part-1-jesus-rewards-expectation/</guid>
+      <description>Download audio.</description>
+    </item>
+    
+  </channel>
+</rss>
